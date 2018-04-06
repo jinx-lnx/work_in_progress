@@ -1,0 +1,254 @@
+vls3.ACD.gwn has address 10.5.228.27
+vls3.AHA.gwn has address 10.5.220.27
+vls3.AMV.gwn has address 10.8.124.27
+vls3.BAY-E.gwn has address 10.9.251.27
+Host vls3.BEBU.gwn not found: 3(NXDOMAIN)
+Host vls3.BIV.gwn not found: 3(NXDOMAIN)
+vls3.BJC.gwn has address 10.9.68.27
+vls3.BJM.gwn has address 10.9.68.27
+Host vls3.BJN.gwn not found: 3(NXDOMAIN)
+Host vls3.BJS.gwn not found: 3(NXDOMAIN)
+Host vls3.BJW.gwn not found: 3(NXDOMAIN)
+Host vls3.BND2.gwn not found: 3(NXDOMAIN)
+vls3.BPV.gwn has address 10.8.36.27
+Host vls3.BRMC.gwn not found: 3(NXDOMAIN)
+Host vls3.BWH.gwn not found: 3(NXDOMAIN)
+vls3.BWO.gwn has address 10.7.212.27
+Host vls3.BWW.gwn not found: 3(NXDOMAIN)
+vls3.CAC.gwn has address 10.5.52.27
+vls3.CAL.gwn has address 10.7.48.27
+vls3.CAR.gwn has address 10.7.44.27
+Host vls3.CAR-E.gwn not found: 3(NXDOMAIN)
+Host vls3.CARO.gwn not found: 3(NXDOMAIN)
+Host vls3.CBO.gwn not found: 3(NXDOMAIN)
+Host vls3.CBR.gwn not found: 3(NXDOMAIN)
+Host vls3.CCL.gwn not found: 3(NXDOMAIN)
+Host vls3.CCMC.gwn not found: 3(NXDOMAIN)
+Host vls3.CEBG.gwn not found: 3(NXDOMAIN)
+Host vls3.CENH.gwn not found: 3(NXDOMAIN)
+vls3.CFE.gwn has address 10.7.164.27
+Host vls3.CFR.gwn not found: 3(NXDOMAIN)
+Host vls3.CHA.gwn not found: 3(NXDOMAIN)
+Host vls3.CHC.gwn not found: 3(NXDOMAIN)
+Host vls3.CHE.gwn not found: 3(NXDOMAIN)
+Host vls3.CICH.gwn not found: 3(NXDOMAIN)
+Host vls3.CIL.gwn not found: 3(NXDOMAIN)
+Host vls3.CIM.gwn not found: 3(NXDOMAIN)
+vls3.CIN.gwn has address 10.7.200.27
+vls3.CLA.gwn has address 10.108.0.27
+Host vls3.CLVT.gwn not found: 3(NXDOMAIN)
+Host vls3.CMC-E.gwn not found: 3(NXDOMAIN)
+vls3.CME.gwn has address 10.242.200.27
+vls3.CMG.gwn has address 10.9.138.29
+Host vls3.CMM.gwn not found: 3(NXDOMAIN)
+Host vls3.CNM.gwn not found: 3(NXDOMAIN)
+vls3.COC.gwn has address 10.5.120.27
+Host vls3.COM-E.gwn not found: 3(NXDOMAIN)
+Host vls3.CRCL.gwn not found: 3(NXDOMAIN)
+Host vls3.CRKM.gwn not found: 3(NXDOMAIN)
+vls3.CRLE.gwn has address 10.9.0.27
+Host vls3.CRLI.gwn not found: 3(NXDOMAIN)
+Host vls3.CRME.gwn not found: 3(NXDOMAIN)
+Host vls3.CRNE.gwn not found: 3(NXDOMAIN)
+Host vls3.CRPI.gwn not found: 3(NXDOMAIN)
+Host vls3.CRUN.gwn not found: 3(NXDOMAIN)
+vls3.CRUV.gwn has address 10.9.112.27
+Host vls3.CSP.gwn not found: 3(NXDOMAIN)
+vls3.CTXV.gwn has address 10.8.140.27
+Host vls3.CWM.gwn not found: 3(NXDOMAIN)
+Host vls3.DACH.gwn not found: 3(NXDOMAIN)
+Host vls3.DCH.gwn not found: 3(NXDOMAIN)
+vls3.DSJ.gwn has address 10.7.180.27
+vls3.DSJW.gwn has address 10.9.104.27
+vls3.DUP.gwn has address 10.5.12.27
+Host vls3.EMO.gwn not found: 3(NXDOMAIN)
+vls3.EOV.gwn has address 10.8.64.27
+Host vls3.ERV.gwn not found: 3(NXDOMAIN)
+Host vls3.ESM-JENKINS.gwn not found: 3(NXDOMAIN)
+Host vls3.EWH.gwn not found: 3(NXDOMAIN)
+Host vls3.EXSJ.gwn not found: 3(NXDOMAIN)
+vls3.FARV.gwn has address 10.8.80.27
+vls3.FCAR.gwn has address 10.6.32.27
+vls3.FCE.gwn has address 10.6.8.27
+vls3.FEO.gwn has address 10.6.16.27
+Host vls3.FFL.gwn not found: 3(NXDOMAIN)
+Host vls3.FHS-E.gwn not found: 3(NXDOMAIN)
+Host vls3.FOC.gwn not found: 3(NXDOMAIN)
+vls3.FOM.gwn has address 10.6.20.27
+vls3.FOR.gwn has address 10.6.4.27
+Host vls3.FTBV.gwn not found: 3(NXDOMAIN)
+Host vls3.FWS.gwn not found: 3(NXDOMAIN)
+vls3.GAIV.gwn has address 10.8.28.27
+vls3.GLM.gwn has address 10.7.176.27
+Host vls3.GPR.gwn not found: 3(NXDOMAIN)
+Host vls3.GSM.gwn not found: 3(NXDOMAIN)
+Host vls3.GTU.gwn not found: 3(NXDOMAIN)
+vls3.HAS.gwn has address 10.5.80.27
+Host vls3.HHI.gwn not found: 3(NXDOMAIN)
+Host vls3.HNMC.gwn not found: 3(NXDOMAIN)
+Host vls3.HOA.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-AMBTEST.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-CRLE.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-CRLETEST.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-NMS.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-ONE.gwn not found: 3(NXDOMAIN)
+Host vls3.HOSTED-USPI.gwn not found: 3(NXDOMAIN)
+vls3.HVS.gwn has address 10.5.124.27
+Host vls3.IAC.gwn not found: 3(NXDOMAIN)
+vls3.IFO.gwn has address 10.5.60.27
+Host vls3.INGESTOR.gwn not found: 3(NXDOMAIN)
+vls3.JDC.gwn has address 10.7.52.27
+Host vls3.JENKINS1.gwn not found: 3(NXDOMAIN)
+Host vls3.JENKINS3.gwn not found: 3(NXDOMAIN)
+Host vls3.JENKINS5.gwn not found: 3(NXDOMAIN)
+Host vls3.JENKINS6.gwn not found: 3(NXDOMAIN)
+vls3.JMO.gwn has address 10.5.176.27
+Host vls3.KBP.gwn not found: 3(NXDOMAIN)
+Host vls3.KBPTEST.gwn not found: 3(NXDOMAIN)
+vls3.KCH.gwn has address 10.5.32.27
+Host vls3.KERV.gwn not found: 3(NXDOMAIN)
+Host vls3.KFS.gwn not found: 3(NXDOMAIN)
+Host vls3.KGAR.gwn not found: 3(NXDOMAIN)
+vls3.KOAK.gwn has address 10.183.160.134
+vls3.KOC.gwn has address 10.7.104.27
+Host vls3.KOO.gwn not found: 3(NXDOMAIN)
+Host vls3.KPC.gwn not found: 3(NXDOMAIN)
+Host vls3.KPCTEST.gwn not found: 3(NXDOMAIN)
+Host vls3.KPNC-E.gwn not found: 3(NXDOMAIN)
+Host vls3.KPNCTEST.gwn not found: 3(NXDOMAIN)
+Host vls3.KPSC-E.gwn not found: 3(NXDOMAIN)
+Host vls3.KPSCTEST.gwn not found: 3(NXDOMAIN)
+vls3.KRED.gwn has address 10.241.38.12
+Host vls3.KREDTEST.gwn not found: 3(NXDOMAIN)
+vls3.KSC.gwn has address 10.5.216.27
+Host vls3.KSD.gwn not found: 3(NXDOMAIN)
+Host vls3.KSDTEST.gwn not found: 3(NXDOMAIN)
+vls3.KSLE.gwn has address 10.182.76.134
+Host vls3.KSLETEST.gwn not found: 3(NXDOMAIN)
+vls3.LAV.gwn has address 10.8.76.27
+Host vls3.LBM.gwn not found: 3(NXDOMAIN)
+vls3.LCV.gwn has address 10.8.24.27
+vls3.LEBV.gwn has address 10.8.104.27
+Host vls3.LEG-E.gwn not found: 3(NXDOMAIN)
+Host vls3.LEGS.gwn not found: 3(NXDOMAIN)
+vls3.LEM.gwn has address 10.7.132.27
+Host vls3.LEMA.gwn not found: 3(NXDOMAIN)
+Host vls3.LEMH.gwn not found: 3(NXDOMAIN)
+Host vls3.LESC.gwn not found: 3(NXDOMAIN)
+vls3.LFV.gwn has address 10.8.72.27
+Host vls3.LPC.gwn not found: 3(NXDOMAIN)
+vls3.MARV.gwn has address 10.8.68.27
+Host vls3.MCH.gwn not found: 3(NXDOMAIN)
+Host vls3.MCM.gwn not found: 3(NXDOMAIN)
+vls3.MDV.gwn has address 10.8.92.27
+Host vls3.MEC.gwn not found: 3(NXDOMAIN)
+Host vls3.MED.gwn not found: 3(NXDOMAIN)
+Host vls3.MHN-E.gwn not found: 3(NXDOMAIN)
+vls3.MIAV.gwn has address 10.8.12.27
+vls3.MMB.gwn has address 10.5.224.27
+Host vls3.MMD.gwn not found: 3(NXDOMAIN)
+vls3.MMW.gwn has address 10.5.246.27
+Host vls3.MOF.gwn not found: 3(NXDOMAIN)
+vls3.MON.gwn has address 10.5.172.27
+Host vls3.MPL.gwn not found: 3(NXDOMAIN)
+Host vls3.MPN.gwn not found: 3(NXDOMAIN)
+vls3.NAC.gwn has address 10.7.16.27
+vls3.NBB.gwn has address 10.5.249.27
+vls3.NCP.gwn has address 10.7.144.27
+Host vls3.NOR.gwn not found: 3(NXDOMAIN)
+vls3.NSB.gwn has address 10.7.196.27
+Host vls3.NTXV.gwn not found: 3(NXDOMAIN)
+Host vls3.OCM.gwn not found: 3(NXDOMAIN)
+Host vls3.OHS.gwn not found: 3(NXDOMAIN)
+vls3.OLA.gwn has address 10.7.0.27
+Host vls3.OLO.gwn not found: 3(NXDOMAIN)
+vls3.ORLV.gwn has address 10.8.40.27
+Host vls3.OSO.gwn not found: 3(NXDOMAIN)
+Host vls3.PHOV.gwn not found: 3(NXDOMAIN)
+vls3.PIJV.gwn has address 10.8.52.27
+vls3.PIUV.gwn has address 10.8.48.27
+Host vls3.PLCDEV.gwn not found: 3(NXDOMAIN)
+vls3.PNM.gwn has address 10.9.76.27
+Host vls3.PREVIEW.gwn not found: 3(NXDOMAIN)
+Host vls3.PRSV.gwn not found: 3(NXDOMAIN)
+Host vls3.PSHC.gwn not found: 3(NXDOMAIN)
+Host vls3.RAS-WHQ.gwn not found: 3(NXDOMAIN)
+Host vls3.RAYV.gwn not found: 3(NXDOMAIN)
+vls3.RDL.gwn has address 10.5.8.27
+vls3.READ.gwn has address 10.10.12.27
+vls3.RICV.gwn has address 10.8.60.27
+vls3.RSE.gwn has address 10.5.28.27
+vls3.RSM.gwn has address 10.5.132.27
+Host vls3.SAMV.gwn not found: 3(NXDOMAIN)
+Host vls3.SAN.gwn not found: 3(NXDOMAIN)
+Host vls3.SD1-INGESTOR.gwn not found: 3(NXDOMAIN)
+Host vls3.SDINVENTORY.gwn not found: 3(NXDOMAIN)
+vls3.SDV.gwn has address 10.8.100.27
+vls3.SEA.gwn has address 10.7.192.27
+Host vls3.SEFL.gwn not found: 3(NXDOMAIN)
+Host vls3.SEFT.gwn not found: 3(NXDOMAIN)
+Host vls3.SELE.gwn not found: 3(NXDOMAIN)
+Host vls3.SELZ-E.gwn not found: 3(NXDOMAIN)
+Host vls3.SFB.gwn not found: 3(NXDOMAIN)
+vls3.SFM.gwn has address 10.118.25.27
+vls3.SFV.gwn has address 10.8.44.27
+Host vls3.SHEC.gwn not found: 3(NXDOMAIN)
+Host vls3.SHH-E.gwn not found: 3(NXDOMAIN)
+vls3.SJC.gwn has address 10.7.40.27
+vls3.SJV.gwn has address 10.8.20.27
+vls3.SLE.gwn has address 10.5.84.27
+vls3.SMA.gwn has address 10.5.104.27
+vls3.SMM.gwn has address 10.5.238.27
+Host vls3.SMMC.gwn not found: 3(NXDOMAIN)
+vls3.SOIN.gwn has address 10.7.128.27
+vls3.SOM.gwn has address 10.7.136.27
+Host vls3.SPC.gwn not found: 3(NXDOMAIN)
+vls3.SPG.gwn has address 10.7.228.27
+vls3.SPM.gwn has address 10.7.20.27
+Host vls3.STAM.gwn not found: 3(NXDOMAIN)
+Host vls3.STAN.gwn not found: 3(NXDOMAIN)
+vls3.STJ.gwn has address 10.5.76.27
+Host vls3.STRESSLAB.gwn not found: 3(NXDOMAIN)
+vls3.STXV.gwn has address 10.8.148.27
+Host vls3.SVI.gwn not found: 3(NXDOMAIN)
+Host vls3.SVM.gwn not found: 3(NXDOMAIN)
+vls3.TAMV.gwn has address 10.8.32.27
+vls3.TBN.gwn has address 10.7.152.27
+vls3.TGEN.gwn has address 10.224.0.27
+vls3.TGS.gwn has address 10.7.148.27
+vls3.TJU.gwn has address 10.5.48.27
+Host vls3.TSIR.gwn not found: 3(NXDOMAIN)
+Host vls3.TSPE.gwn not found: 3(NXDOMAIN)
+Host vls3.TSPM.gwn not found: 3(NXDOMAIN)
+vls3.TXWE.gwn has address 10.7.116.27
+vls3.TXWO.gwn has address 10.7.112.27
+vls3.UCC.gwn has address 165.68.88.27
+Host vls3.UCM.gwn not found: 3(NXDOMAIN)
+Host vls3.UKA.gwn not found: 3(NXDOMAIN)
+vls3.UMC.gwn has address 10.7.28.27
+vls3.UMI.gwn has address 10.7.64.27
+Host vls3.UPIT.gwn not found: 3(NXDOMAIN)
+vls3.UPR.gwn has address 10.7.12.27
+vls3.USC.gwn has address 10.5.96.27
+Host vls3.UTSW.gwn not found: 3(NXDOMAIN)
+Host vls3.VAL.gwn not found: 3(NXDOMAIN)
+Host vls3.VAP.gwn not found: 3(NXDOMAIN)
+vls3.VBH.gwn has address 10.5.72.27
+Host vls3.VIR-E.gwn not found: 3(NXDOMAIN)
+vls3.VMA.gwn has address 10.5.68.27
+Host vls3.VMH.gwn not found: 3(NXDOMAIN)
+vls3.VMT.gwn has address 10.5.128.27
+vls3.VVH.gwn has address 10.5.136.27
+Host vls3.VVW.gwn not found: 3(NXDOMAIN)
+Host vls3.WACV.gwn not found: 3(NXDOMAIN)
+vls3.WDCV.gwn has address 10.8.88.27
+Host vls3.WFBL.gwn not found: 3(NXDOMAIN)
+Host vls3.WFBM.gwn not found: 3(NXDOMAIN)
+Host vls3.WFDA.gwn not found: 3(NXDOMAIN)
+vls3.WHQ.gwn has address 10.7.252.27
+vls3.WILV.gwn has address 10.8.96.27
+vls3.WJM.gwn has address 10.5.250.27
+vls3.WMC.gwn has address 10.5.24.27
+vls3.WPBV.gwn has address 10.8.16.27
+Host vls3.WTXV.gwn not found: 3(NXDOMAIN)
+vls3.WWR.gwn has address 10.5.40.27

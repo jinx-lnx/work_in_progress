@@ -1,0 +1,2375 @@
+##BEGIN NAGIOS###########
+[nagios.host]
+nagios.hq
+ansible_ssh_user=root
+##END NAGIOS#############
+#########################
+##BEGIN DEVBEN###########
+[test.spam]
+appserver.devspam14.gwn
+##END DEVBEN#############
+#########################
+##BEGIN IFO##############
+[ifo.appservers]
+appserver.ifo.gwn
+
+[ifo.appservers.drac]
+10.5.60.40
+
+[ifo.videoservers]
+vls1.ifo.gwn
+vls2.ifo.gwn
+
+[ifo.videoservers.drac]
+10.5.60.49
+10.5.60.48
+
+[ifo.datacenter:children]
+ifo.appservers
+ifo.videoservers
+
+[ifo.datacenter:vars]
+ansible_ssh_user=root
+
+[ifo.appservers.drac:vars]
+ansible_ssh_user=gwnadmin
+
+[ifo.videoservers.drac:vars]
+ansible_ssh_user=gwnadmin
+##END IFO################
+#########################
+###BEGIN CAC#############
+[cac.appservers]
+appserver.cac.gwn
+
+[cac.videoservers]
+vls1.cac.gwn
+vls2.cac.gwn
+vls3.cac.gwn
+vls4.cac.gwn
+vls5.cac.gwn
+vls6.cac.gwn
+vls7.cac.gwn
+
+[cac.datacenter:children]
+cac.appservers
+cac.videoservers
+
+[cac.datacenter:vars]
+ansible_ssh_user=root
+###END CAC###############
+#########################
+##BEGIN BWH##############
+[bwh.appservers]
+appserver.bwh.gwn
+
+[bwh.videoservers]
+vls1.bwh.gwn
+vls2.bwh.gwn
+
+[bwh.datacenter:children]
+bwh.appservers
+bwh.videoservers
+
+[bwh.datacenter:vars]
+ansible_ssh_user=root
+##END BWH################
+#########################
+##BEGIN CFE##############
+[cfe.appservers]
+ras1.cmc-e.gwn
+ras2.cmc-e.gwn
+
+[cfe.videoservers]
+vls1.cfe.gwn
+vls2.cfe.gwn
+vls3.cfe.gwn
+vls4.cfe.gwn
+vls5.cfe.gwn
+vls6.cfe.gwn
+vls7.cfe.gwn
+
+[cfe.datacenter:children]
+cfe.appservers
+cfe.videoservers
+
+[cfe.datacenter:vars]
+ansible_ssh_user=root
+##END CFE################
+#########################
+##BEGIN CRLE#############
+[crle.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crle.videoservers]
+vls1.crle.gwn
+vls2.crle.gwn
+vls3.crle.gwn
+vls4.crle.gwn
+vls5.crle.gwn
+vls6.crle.gwn
+vls7.crle.gwn
+
+[crle.datacenter:children]
+crle.appservers
+crle.videoservers
+
+[crle.datacenter:vars]
+ansible_ssh_user=root
+##END CRLE################
+##########################
+##BEGIN CLA###############
+[cla.appservers]
+appserver.cla.gwn
+
+[cla.videoservers]
+vls1.cla.gwn
+vls2.cla.gwn
+vls3.cla.gwn
+vls4.cla.gwn
+
+[cla.datacenter:children]
+cla.appservers
+cla.videoservers
+
+[cla.datacenter:vars]
+ansible_ssh_user=root
+##END CLA#################
+##########################
+##BEGIN COC###############
+[coc.appservers]
+appserver.coc.gwn
+
+[coc.videoservers]
+vls1.coc.gwn
+vls2.coc.gwn
+vls3.coc.gwn
+vls4.coc.gwn
+
+[coc.datacenter:children]
+coc.appservers
+coc.videoservers
+
+[coc.datacenter:vars]
+ansible_ssh_user=root
+##END COC#################
+##########################
+##BEGIN AHA###############
+[aha.appservers]
+appserver.aha.gwn
+
+[aha.videoservers]
+vls1.aha.gwn
+vls2.aha.gwn
+
+[aha.datacenter:children]
+aha.appservers
+aha.videoservers
+
+[aha.datacenter:vars]
+ansible_ssh_user=root
+##END AHA#################
+##########################
+##BEGIN OLA###############
+[ola.appservers]
+appserver.ola.gwn
+
+[ola.videoservers]
+vls1.ola.gwn
+vls2.ola.gwn
+vls3.ola.gwn
+vls4.ola.gwn
+vls5.ola.gwn
+vls6.ola.gwn
+
+[ola.datacenter:children]
+ola.appservers
+ola.videoservers
+
+[ola.datacenter:vars]
+ansible_ssh_user=root
+##END OLA#################
+##########################
+##BEGIN ACD###############
+[acd.appservers]
+appserver.acd.gwn
+
+[acd.videoservers]
+vls1.acd.gwn
+vls2.acd.gwn
+
+[acd.datacenter:children]
+acd.appservers
+acd.videoservers
+
+[acd.datacenter:vars]
+ansible_ssh_user=root
+##END ACD##################
+###########################
+##BEGIN BJC################
+[bjc.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bjc.videoservers]
+vls3.bjc.gwn
+vls4.bjc.gwn
+
+[bjc.datacenter:children]
+bjc.appservers
+bjc.videoservers
+
+[bjc.datacenter:vars]
+ansible_ssh_user=root
+##END BJC##################
+###########################
+##BEGIN BJN################
+[bjn.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bjn.videoservers]
+vls1.bjn.gwn
+vls2.bjn.gwn
+
+[bjn.datacenter:children]
+bjn.appservers
+bjn.videoservers
+
+[bjn.datacenter:vars]
+ansible_ssh_user=root
+##END BJC##################
+###########################
+##BEGIN CMG################
+[cmg.appservers]
+ras1.cmg.gwn
+ras2.cmg.gwn
+
+[cmg.videoservers]
+vls1.cmg.gwn
+vls2.cmg.gwn
+vls3.cmg.gwn
+
+[cmg.datacenter:children]
+cmg.appservers
+cmg.videoservers
+
+[cmg.datacenter:vars]
+ansible_ssh_user=root
+##END CMG##################
+###########################
+##BEGIN KOAK###############
+[koak.appservers]
+ras1.KPNC-E.gwn
+ras2.KPNC-E.gwn
+
+[koak.videoservers]
+vls1.koak.gwn
+vls2.koak.gwn
+vls3.koak.gwn
+vls4.koak.gwn
+
+[koak.datacenter:children]
+koak.appservers
+koak.videoservers
+
+[koak.datacenter:vars]
+ansible_ssh_user=root
+##END KOAK#################
+###########################
+##BEGIN PNM################
+[pnm.appservers]
+ras1.pnm.gwn
+ras2.pnm.gwn
+
+[pnm.videoservers]
+vls1.pnm.gwn
+vls2.pnm.gwn
+vls3.pnm.gwn
+vls4.pnm.gwn
+
+[pnm.datacenter:children]
+pnm.appservers
+pnm.videoservers
+
+[pnm.datacenter:vars]
+ansible_ssh_user=root
+##END PNM###################
+############################
+##BEGIN JMO#################
+[jmo.appservers]
+appserver.jmo.gwn
+
+[jmo.videoservers]
+vls1.jmo.gwn
+vls2.jmo.gwn
+vls3.jmo.gwn
+vls4.jmo.gwn
+
+[jmo.datacenter:children]
+jmo.appservers
+jmo.videoservers
+
+[jmo.datacenter:vars]
+ansible_ssh_user=root
+##END JMO##################
+###########################
+##BEGIN SPM################
+[spm.appservers]
+ras1.spm.gwn
+ras2.spm.gwn
+
+[spm.videoservers]
+vls1.spm.gwn
+vls2.spm.gwn
+vls3.spm.gwn
+vls4.spm.gwn
+vls5.spm.gwn
+vls6.spm.gwn
+
+[spm.datacenter:children]
+spm.appservers
+spm.videoservers
+
+[spm.datacenter:vars]
+ansible_ssh_user=root
+##END SMP#################
+##########################
+##BEGIN TBN###############
+[tbn.appservers]
+ras1.tbn.gwn
+ras2.tbn.gwn
+
+[tbn.videoservers]
+vls1.tbn.gwn
+vls2.tbn.gwn
+vls3.tbn.gwn
+vls4.tbn.gwn
+
+[tbn.datacenter:children]
+tbn.appservers
+tbn.videoservers
+
+[tbn.datacenter:vars]
+ansible_ssh_user=root
+##END TBN################
+#########################
+##BEGIN TGS##############
+[tgs.appservers]
+ras1.tgs.gwn
+ras2.tgs.gwn
+
+[tgs.videoservers]
+vls1.tgs.gwn
+vls2.tgs.gwn
+vls3.tgs.gwn
+vls4.tgs.gwn
+
+[tgs.datacenter:children]
+tgs.appservers
+tgs.videoservers
+
+[tgs.datacenter:vars]
+ansible_ssh_user=root
+##END TGS################
+#########################
+##BEGIN BJS##############
+[bjs.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bjs.videoservers]
+vls1.bjs.gwn
+vls2.bjs.gwn
+
+[bjs.datacenter:children]
+bjs.appservers
+bjs.videoservers
+
+[bjs.datacenter:vars]
+ansible_ssh_user=root
+##END BJS################
+#########################
+##BEGIN BJW##############
+[bjw.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bjw.videoservers]
+vls1.bjw.gwn
+vls2.bjw.gwn
+
+[bjw.datacenter:children]
+bjw.appservers
+bjw.videoservers
+
+[bjw.datacenter:vars]
+ansible_ssh_user=root
+##END BJW################
+#########################
+##BEGIN BWW##############
+[bww.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bww.videoservers]
+vls1.bww.gwn
+vls2.bww.gwn
+
+[bww.datacenter:children]
+bww.appservers
+bww.videoservers
+
+[bww.datacenter:vars]
+ansible_ssh_user=root
+##END BJW################
+#########################
+##BEGIN BPV##############
+[bpv.appservers]
+appserver.bpv.gwn
+
+[bpv.videoservers]
+vls1.bpv.gwn
+vls2.bpv.gwn
+
+[bpv.datacenter:children]
+bpv.appservers
+bpv.videoservers
+
+[bpv.datacenter:vars]
+ansible_ssh_user=root
+##END BPV################
+#########################
+##BEGIN GLM##############
+[glm.appservers]
+ras1.glm.gwn
+ras2.glm.gwn
+
+[glm.videoservers]
+vls1.glm.gwn
+vls2.glm.gwn
+
+[glm.datacenter:children]
+glm.appservers
+glm.videoservers
+
+[glm.datacenter:vars]
+ansible_ssh_user=root
+##END GLM################
+#########################
+##BEGIN EOV##############
+[eov.appservers]
+appserver.eov.gwn
+
+[eov.videoservers]
+vls1.eov.gwn
+vls2.eov.gwn
+
+[eov.datacenter:children]
+eov.appservers
+eov.videoservers
+
+[eov.datacenter:vars]
+ansible_ssh_user=root
+##END EOV################
+#########################
+##BEGIN BJM##############
+[bjm.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[bjm.videoservers]
+vls5.bjm.gwn
+vls6.bjm.gwn
+
+[bjm.datacenter:children]
+bjm.appservers
+bjm.videoservers
+
+[bjm.datacenter:vars]
+ansible_ssh_user=root
+##END BJM################
+#########################
+##BEGIN BWO##############
+[bwo.appservers]
+appserver.bwo.gwn
+
+[bwo.videoservers]
+vls1.bwo.gwn
+vls2.bwo.gwn
+
+[bwo.datacenter:children]
+bwo.appservers
+bwo.videoservers
+
+[bwo.datacenter:vars]
+ansible_ssh_user=root
+##END BWO################
+#########################
+##BEGIN CAL##############
+[cal.appservers]
+appserver.cal.gwn
+
+[cal.videoservers]
+vls1.cal.gwn
+vls2.cal.gwn
+vls3.cal.gwn
+
+[cal.datacenter:children]
+cal.appservers
+cal.videoservers
+
+[cal.datacenter:vars]
+ansible_ssh_user=root
+##END CAL################
+#########################
+##BEGIN CAR##############
+[car.appservers]
+appserver.car.gwn
+
+[car.videoservers]
+vls1.car.gwn
+vls2.car.gwn
+
+[car.datacenter:children]
+car.appservers
+car.videoservers
+
+[car.datacenter:vars]
+ansible_ssh_user=root
+##END CAR#################
+##########################
+##BEGIN CARO##############
+[caro.appservers]
+ras1.caro.gwn
+ras2.caro.gwn
+
+[caro.videoservers]
+vls1.caro.gwn
+vls2.caro.gwn
+
+[caro.datacenter:children]
+caro.appservers
+caro.videoservers
+
+[caro.datacenter:vars]
+ansible_ssh_user=root
+##END CAR#################
+##########################
+##BEGIN CBO###############
+[cbo.appservers]
+ras1.cbo.gwn
+ras2.cbo.gwn
+
+[cbo.videoservers]
+vls1.cbo.gwn
+vls2.cbo.gwn
+
+[cbo.datacenter:children]
+cbo.appservers
+cbo.videoservers
+
+[cbo.datacenter:vars]
+ansible_ssh_user=root
+##END CBO################
+##########################
+##BEGIN CBR##############
+[cbr.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[cbr.videoservers]
+vls1.cbr.gwn
+vls2.cbr.gwn
+
+[cbr.datacenter:children]
+cbr.appservers
+cbr.videoservers
+
+[cbr.datacenter:vars]
+ansible_ssh_user=root
+##END CBR################
+##########################
+##BEGIN CCL##############
+[ccl.appservers]
+ras1.cmc-e.gwn
+ras2.cmc-e.gwn
+
+[ccl.videoservers]
+vls1.ccl.gwn
+vls2.ccl.gwn
+
+[ccl.datacenter:children]
+ccl.appservers
+ccl.videoservers
+
+[ccl.datacenter:vars]
+ansible_ssh_user=root
+##END CCL################
+#########################
+##BEGIN CRLI#############
+[crli.appservers]
+appserver.crli.gwn
+
+[crli.videoservers]
+vls1.crli.gwn
+vls2.crli.gwn
+
+[crli.datacenter:children]
+crli.appservers
+crli.videoservers
+
+[crli.datacenter:vars]
+ansible_ssh_user=root
+##END CRLI###############
+#########################
+##BEGIN CENH#############
+[cenh.appservers]
+ras1.cenh.gwn
+ras2.cenh.gwn
+
+[cenh.videoservers]
+vls1.cenh.gwn
+vls2.cenh.gwn
+
+[cenh.datacenter:children]
+cenh.appservers
+cenh.videoservers
+
+[cenh.datacenter:vars]
+ansible_ssh_user=root
+##END CENH##############
+########################
+##BEGIN CHA#############
+[cha.appservers]
+appserver.cha.gwn
+
+[cha.videoservers]
+vls1.cha.gwn
+vls2.cha.gwn
+
+[cha.datacenter:children]
+cha.appservers
+cha.videoservers
+
+[cha.datacenter:vars]
+ansible_ssh_user=root
+##END CHA###############
+########################
+##BEGIN CICH############
+[cich.appservers]
+appserver.cich.gwn
+
+[cich.videoservers]
+vls1.cich.gwn
+vls2.cich.gwn
+
+[cich.datacenter:children]
+cich.appservers
+cich.videoservers
+
+[cich.datacenter:vars]
+ansible_ssh_user=root
+##END CICH#############
+#######################
+##BEGIN CIN############
+[cin.appservers]
+ras1.cin.gwn
+ras2.cin.gwn
+
+[cin.videoservers]
+vls1.cin.gwn
+vls2.cin.gwn
+vls3.cin.gwn
+
+[cin.datacenter:children]
+cin.appservers
+cin.videoservers
+
+[cin.datacenter:vars]
+ansible_ssh_user=root
+##END CIN###############
+########################
+##BEGIN CIL#############
+[cil.appservers]
+ras1.cin.gwn
+ras2.cin.gwn
+
+[cil.videoservers]
+vls1.cil.gwn
+vls2.cil.gwn
+
+[cil.datacenter:children]
+cil.appservers
+cil.videoservers
+
+[cil.datacenter:vars]
+ansible_ssh_user=root
+##END CIL##############
+#######################
+##BEGIN CME############
+[cme.appservers]
+appserver.cme.gwn
+
+[cme.videoservers]
+vls1.cme.gwn
+vls2.cme.gwn
+vls3.cme.gwn
+
+[cme.datacenter:children]
+cme.appservers
+cme.videoservers
+
+[cme.datacenter:vars]
+ansible_ssh_user=root
+##END CME##############
+#######################
+##BEGIN CNM############
+[cnm.appservers]
+ras1.cnm.gwn
+ras2.cnm.gwn
+
+[cnm.videoservers]
+vls1.cnm.gwn
+vls2.cnm.gwn
+
+[cnm.datacenter:children]
+cnm.appservers
+cnm.videoservers
+
+[cnm.datacenter:vars]
+ansible_ssh_user=root
+##END CNM##############
+#######################
+##BEGIN CRCL###########
+[crcl.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crcl.videoservers]
+vls1.crcl.gwn
+vls2.crcl.gwn
+
+[crcl.datacenter:children]
+crcl.appservers
+crcl.videoservers
+
+[crcl.datacenter:vars]
+ansible_ssh_user=root
+##END CRCL##############
+########################
+##BEGIN CRME############
+[crme.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crme.videoservers]
+vls1.crme.gwn
+vls2.crme.gwn
+
+[crme.datacenter:children]
+crme.appservers
+crme.videoservers
+
+[crme.datacenter:vars]
+ansible_ssh_user=root
+##END CRME##############
+########################
+##BEGIN CRNE############
+[crne.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crne.videoservers]
+vls1.crne.gwn
+vls2.crne.gwn
+
+[crne.datacenter:children]
+crne.appservers
+crne.videoservers
+
+[crne.datacenter:vars]
+ansible_ssh_user=root
+##END CRME##############
+########################
+##BEGIN CRPI############
+[crpi.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crpi.videoservers]
+vls1.crpi.gwn
+vls2.crpi.gwn
+
+[crpi.datacenter:children]
+crpi.appservers
+crpi.videoservers
+
+[crpi.datacenter:vars]
+ansible_ssh_user=root
+##END CRPI##############
+########################
+##BEGIN CRUN############
+[crun.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[crun.videoservers]
+vls1.crun.gwn
+vls2.crun.gwn
+
+[crun.datacenter:children]
+crun.appservers
+crun.videoservers
+
+[crun.datacenter:vars]
+ansible_ssh_user=root
+##END CRUN##############
+########################
+##BEGIN CRUV############
+[cruv.appservers]
+ras1.car-e.gwn
+ras2.car-e.gwn
+
+[cruv.videoservers]
+vls1.cruv.gwn
+vls2.cruv.gwn
+
+[cruv.datacenter:children]
+cruv.appservers
+cruv.videoservers
+
+[cruv.datacenter:vars]
+ansible_ssh_user=root
+##END CRUV##############
+########################
+##BEGIN CTXV############
+[ctxv.appservers]
+appserver.ctxv.gwn
+
+[ctxv.videoservers]
+vls1.ctxv.gwn
+vls2.ctxv.gwn
+vls3.ctxv.gwn
+
+[ctxv.datacenter:children]
+ctxv.appservers
+ctxv.videoservers
+
+[ctxv.datacenter:vars]
+ansible_ssh_user=root
+##END CTXV##############
+########################
+##BEGIN DACH############
+[dach.appservers]
+ras1.dach.gwn
+ras2.dach.gwn
+
+[dach.videoservers]
+vls1.dach.gwn
+vls2.dach.gwn
+
+[dach.datacenter:children]
+dach.appservers
+dach.videoservers
+
+[dach.datacenter:vars]
+ansible_ssh_user=root
+##END DACH#############
+#######################
+##BEGIN DCH############
+[dch.appservers]
+appserver.dach.gwn
+
+[dch.videoservers]
+vls1.dch.gwn
+vls2.dch.gwn
+
+[dch.datacenter:children]
+dch.appservers
+dch.videoservers
+
+[dch.datacenter:vars]
+ansible_ssh_user=root
+##END DCH##############
+#######################
+##BEGIN DUP############
+[dup.appservers]
+appserver.dup.gwn
+
+[dup.videoservers]
+vls1.dup.gwn
+vls2.dup.gwn
+
+[dup.datacenter:children]
+dup.appservers
+dup.videoservers
+
+[dup.datacenter:vars]
+ansible_ssh_user=root
+##END DUP##############
+#######################
+##BEGIN DSJ############
+[dsj.appservers]
+ras1.dsj.gwn
+ras2.dsj.gwn
+
+[dsj.videoservers]
+vls1.dsj.gwn
+vls2.dsj.gwn
+vls3.dsj.gwn
+
+[dsj.datacenter:children]
+dsj.appservers
+dsj.videoservers
+
+[dsj.datacenter:vars]
+ansible_ssh_user=root
+##END DSJ##############
+#######################
+##BEGIN EMO############
+[emo.appservers]
+appserver.emo.gwn
+
+[emo.videoservers]
+vls1.emo.gwn
+vls2.emo.gwn
+
+[emo.datacenter:children]
+emo.appservers
+emo.videoservers
+
+[emo.datacenter:vars]
+ansible_ssh_user=root
+##END EMO##############
+#######################
+##BEGIN FCE############
+[fce.appservers]
+ras1.fhs-e.gwn
+ras2.fhs-e.gwn
+
+[fce.videoservers]
+vls1.fce.gwn
+vls2.fce.gwn
+
+[fce.datacenter:children]
+fce.appservers
+fce.videoservers
+
+[fce.datacenter:vars]
+ansible_ssh_user=root
+##END FCE##############
+#######################
+##BEGIN FEO############
+[feo.appservers]
+ras1.fhs-e.gwn
+ras2.fhs-e.gwn
+
+[feo.videoservers]
+vls1.feo.gwn
+vls2.feo.gwn
+
+[feo.datacenter:children]
+feo.appservers
+feo.videoservers
+
+[feo.datacenter:vars]
+ansible_ssh_user=root
+##END FEO##############
+#######################
+##BEGIN FTBV###########
+[ftbv.appservers]
+ras1.ftbv.gwn
+ras2.ftbv.gwn
+
+[ftbv.videoservers]
+vls1.ftbv.gwn
+vls2.ftbv.gwn
+
+[ftbv.datacenter:children]
+ftbv.appservers
+ftbv.videoservers
+
+[ftbv.datacenter:vars]
+ansible_ssh_user=root
+##END FTBV#############
+#######################
+##BEGIN GAIV###########
+[gaiv.appservers]
+appserver.gaiv.gwn
+
+[gaiv.videoservers]
+vls1.gaiv.gwn
+vls2.gaiv.gwn
+
+[gaiv.datacenter:children]
+gaiv.appservers
+gaiv.videoservers
+
+[gaiv.datacenter:vars]
+ansible_ssh_user=root
+##END GAIV#############
+#######################
+##BEGIN GSM############
+[gsm.appservers]
+appserver.gsm.gwn
+
+[gsm.videoservers]
+vls1.gsm.gwn
+vls2.gsm.gwn
+
+[gsm.datacenter:children]
+gsm.appservers
+gsm.videoservers
+
+[gsm.datacenter:vars]
+ansible_ssh_user=root
+##END GSM##############
+#######################
+##BEGIN HAS############
+[has.appservers]
+appserver.has.gwn
+
+[has.videoservers]
+vls1.has.gwn
+vls2.has.gwn
+
+[has.datacenter:children]
+has.appservers
+has.videoservers
+
+[has.datacenter:vars]
+ansible_ssh_user=root
+##END HAS##############
+#######################
+##BEGIN JDC############
+[jdc.appservers]
+ras1.jdc.gwn
+ras2.jdc.gwn
+
+[jdc.videoservers]
+vls1.jdc.gwn
+vls2.jdc.gwn
+
+[jdc.datacenter:children]
+jdc.appservers
+jdc.videoservers
+
+[jdc.datacenter:vars]
+ansible_ssh_user=root
+##END JDC##############
+#######################
+##BEGIN KBP############
+[kbp.appservers]
+ras1.kpsc-e.gwn
+ras2.kpsc-e.gwn
+
+[kbp.videoservers]
+vls1.kbp.gwn
+vls2.kbp.gwn
+
+[kbp.datacenter:children]
+kbp.appservers
+kbp.videoservers
+
+[kbp.datacenter:vars]
+ansible_ssh_user=root
+##END KBP##############
+#######################
+##BEGIN KCH############
+[kch.appservers]
+appserver.kch.gwn
+
+[kch.videoservers]
+vls1.kch.gwn
+vls2.kch.gwn
+
+[kch.datacenter:children]
+kch.appservers
+kch.videoservers
+
+[kch.datacenter:vars]
+ansible_ssh_user=root
+##END KCH##############
+#######################
+##BEGIN KERV###########
+[kerv.appservers]
+ras1.kerv.gwn
+ras2.kerv.gwn
+
+[kerv.videoservers]
+vls1.kerv.gwn
+vls2.kerv.gwn
+
+[kerv.datacenter:children]
+kerv.appservers
+kerv.videoservers
+
+[kerv.datacenter:vars]
+ansible_ssh_user=root
+##END KERV#############
+#######################
+##BEGIN KOC############
+[koc.appservers]
+appserver.koc.gwn
+
+[koc.videoservers]
+vls1.koc.gwn
+vls2.koc.gwn
+
+[koc.datacenter:children]
+koc.appservers
+koc.videoservers
+
+[koc.datacenter:vars]
+ansible_ssh_user=root
+##END KOC##############
+#######################
+##BEGIN KPC############
+[kpc.appservers]
+ras1.kpsc-e.gwn
+ras2.kpsc-e.gwn
+
+[kpc.videoservers]
+vls1.kpc.gwn
+vls2.kpc.gwn
+
+[kpc.datacenter:children]
+kpc.appservers
+kpc.videoservers
+
+[kpc.datacenter:vars]
+ansible_ssh_user=root
+##END KPC##############
+#######################
+##BEGIN LAV############
+[lav.appservers]
+appserver.lav.gwn
+
+[lav.videoservers]
+vls1.lav.gwn
+vls2.lav.gwn
+
+[lav.datacenter:children]
+lav.appservers
+lav.videoservers
+
+[lav.datacenter:vars]
+ansible_ssh_user=root
+##END LAV##############
+#######################
+##BEGIN LCV############
+[lcv.appservers]
+appserver.lcv.gwn
+
+[lcv.videoservers]
+vls1.lcv.gwn
+vls2.lcv.gwn
+
+[lcv.datacenter:children]
+lcv.appservers
+lcv.videoservers
+
+[lcv.datacenter:vars]
+ansible_ssh_user=root
+##END LCV##############
+#######################
+##BEGIN LEGS###########
+[legs.appservers]
+ras1.leg-e.gwn
+ras2.leg-e.gwn
+
+[legs.videoservers]
+vls1.legs.gwn
+vls2.legs.gwn
+
+[legs.datacenter:children]
+legs.appservers
+legs.videoservers
+
+[legs.datacenter:vars]
+ansible_ssh_user=root
+##END LEGS#############
+#######################
+##BEGIN LEM############
+[lem.appservers]
+ras1.leg-e.gwn
+ras2.leg-e.gwn
+
+[lem.videoservers]
+vls1.lem.gwn
+vls2.lem.gwn
+vls3.lem.gwn
+
+[lem.datacenter:children]
+lem.appservers
+lem.videoservers
+
+[lem.datacenter:vars]
+ansible_ssh_user=root
+##END LEM##############
+#######################
+##BEGIN LEMA###########
+[lema.appservers]
+ras1.leg-e.gwn
+ras2.leg-e.gwn
+
+[lema.videoservers]
+vls1.lema.gwn
+vls2.lema.gwn
+
+[lema.datacenter:children]
+lema.appservers
+lema.videoservers
+
+[lema.datacenter:vars]
+ansible_ssh_user=root
+##END LEMA##############
+########################
+##BEGIN LESC############
+[lesc.appservers]
+ras1.leg-e.gwn
+ras2.leg-e.gwn
+
+[lesc.videoservers]
+vls1.lesc.gwn
+vls2.lesc.gwn
+
+[lesc.datacenter:children]
+lesc.appservers
+lesc.videoservers
+
+[lesc.datacenter:vars]
+ansible_ssh_user=root
+##END LESC##############
+########################
+##BEGIN LFV#############
+[lfv.appservers]
+appserver.lfv.gwn
+
+[lfv.videoservers]
+vls1.lfv.gwn
+vls2.lfv.gwn
+
+[lfv.datacenter:children]
+lfv.appservers
+lfv.videoservers
+
+[lfv.datacenter:vars]
+ansible_ssh_user=root
+##END LFV###############
+########################
+##BEGIN LESC############
+[lesc.appservers]
+ras1.leg-e.gwn
+ras2.leg-e.gwn
+
+[lesc.videoservers]
+vls1.lesc.gwn
+vls2.lesc.gwn
+
+[lesc.datacenter:children]
+lesc.appservers
+lesc.videoservers
+
+[lesc.datacenter:vars]
+ansible_ssh_user=root
+##END LESC##############
+########################
+##BEGIN LFV#############
+[lfv.appservers]
+appserver.lfv.gwn
+
+[lfv.videoservers]
+vls1.lfv.gwn
+vls2.lfv.gwn
+
+[lfv.datacenter:children]
+lfv.appservers
+lfv.videoservers
+
+[lfv.datacenter:vars]
+ansible_ssh_user=root
+##END LFV###############
+########################
+##BEGIN MARV############
+[marv.appservers]
+appserver.marv.gwn
+
+[marv.videoservers]
+vls1.marv.gwn
+vls2.marv.gwn
+vls3.marv.gwn
+
+[marv.datacenter:children]
+marv.appservers
+marv.videoservers
+
+[marv.datacenter:vars]
+ansible_ssh_user=root
+##END MARV##############
+########################
+##BEGIN MEC#############
+[mec.appservers]
+ras1.bay-e.gwn
+ras2-bay-e.gwn
+
+[mec.videoservers]
+vls1.mec.gwn
+vls2.mec.gwn
+
+[mec.datacenter:children]
+mec.appservers
+mec.videoservers
+
+[mec.datacenter:vars]
+ansible_ssh_user=root
+##END MEC###############
+########################
+##BEGIN MED#############
+[med.appservers]
+ras1.bay-e.gwn
+ras2-bay-e.gwn
+
+[med.videoservers]
+vls1.med.gwn
+vls2.med.gwn
+
+[med.datacenter:children]
+med.appservers
+med.videoservers
+
+[med.datacenter:vars]
+ansible_ssh_user=root
+##END MED###############
+########################
+##BEGIN MIAV############
+[miav.appservers]
+appserver.miav.gwn
+
+[miav.videoservers]
+vls1.miav.gwn
+vls2.miav.gwn
+
+[miav.datacenter:children]
+miav.appservers
+miav.videoservers
+
+[miav.datacenter:vars]
+ansible_ssh_user=root
+##END MIAV##############
+########################
+##BEGIN MMB############
+[mmb.appservers]
+appserver.mmb.gwn
+
+[mmb.videoservers]
+vls1.mmb.gwn
+vls2.mmb.gwn
+
+[mmb.datacenter:children]
+mmb.appservers
+mmb.videoservers
+
+[mmb.datacenter:vars]
+ansible_ssh_user=root
+##END MMB##############
+########################
+##BEGIN MMD############
+[mmd.appservers]
+ras1.mhn-e.gwn
+ras2.mhn-e.gwn
+
+[mmd.videoservers]
+vls1.mmd.gwn
+vls2.mmd.gwn
+
+[mmd.datacenter:children]
+mmd.appservers
+mmd.videoservers
+
+[mmd.datacenter:vars]
+ansible_ssh_user=root
+##END MMD##############
+########################
+##BEGIN MOF############
+[mof.appservers]
+ras1.mof.gwn
+ras2.mof.gwn
+
+[mof.videoservers]
+vls1.mof.gwn
+vls2.mof.gwn
+
+[mof.datacenter:children]
+mof.appservers
+mof.videoservers
+
+[mof.datacenter:vars]
+ansible_ssh_user=root
+##END MOF##############
+########################
+##BEGIN MON############
+[mon.appservers]
+appserver.mon.gwn
+
+[mon.videoservers]
+vls1.mon.gwn
+vls2.mon.gwn
+
+[mon.datacenter:children]
+mon.appservers
+mon.videoservers
+
+[mon.datacenter:vars]
+ansible_ssh_user=root
+##END MON##############
+########################
+##BEGIN MPL############
+[mpl.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[mpl.videoservers]
+vls1.mpl.gwn
+vls2.mpl.gwn
+
+[mpl.datacenter:children]
+mpl.appservers
+mpl.videoservers
+
+[mpl.datacenter:vars]
+ansible_ssh_user=root
+##END MPL##############
+########################
+##BEGIN MPN############
+[mpn.appservers]
+ras1.bay-e.gwn
+ras2.bay-e.gwn
+
+[mpn.videoservers]
+vls1.mpn.gwn
+vls2.mpn.gwn
+
+[mpn.datacenter:children]
+mpn.appservers
+mpn.videoservers
+
+[mpn.datacenter:vars]
+ansible_ssh_user=root
+##END MPN##############
+########################
+##BEGIN NAC############
+[nac.appservers]
+ras1.nac.gwn
+ras2.nac.gwn
+
+[nac.videoservers]
+vls1.nac.gwn
+vls2.nac.gwn
+vls3.nac.gwn
+vls4.nac.gwn
+
+[nac.datacenter:children]
+nac.appservers
+nac.videoservers
+
+[nac.datacenter:vars]
+ansible_ssh_user=root
+##END NAC##############
+########################
+##BEGIN NCP############
+[ncp.appservers]
+appserver.ncp.gwn
+
+[ncp.videoservers]
+vls1.ncp.gwn
+vls2.ncp.gwn
+
+[ncp.datacenter:children]
+ncp.appservers
+ncp.videoservers
+
+[ncp.datacenter:vars]
+ansible_ssh_user=root
+##END NCP##############
+########################
+##BEGIN NOR############
+[nor.appservers]
+appserver.nor.gwn
+
+[nor.videoservers]
+vls1.nor.gwn
+vls2.nor.gwn
+
+[nor.datacenter:children]
+nor.appservers
+nor.videoservers
+
+[nor.datacenter:vars]
+ansible_ssh_user=root
+##END NOR##############
+########################
+##BEGIN NSB############
+[nsb.appservers]
+appserver.nsb.gwn
+
+[nsb.videoservers]
+vls1.nsb.gwn
+vls2.nsb.gwn
+
+[nsb.datacenter:children]
+nsb.appservers
+nsb.videoservers
+
+[nsb.datacenter:vars]
+ansible_ssh_user=root
+##END NSB##############
+########################
+##BEGIN NTXV############
+[ntxv.appservers]
+ras1.ntxv.gwn
+ras2.ntxv.gwn
+
+[ntxv.videoservers]
+vls1.ntxv.gwn
+vls2.ntxv.gwn
+
+[ntxv.datacenter:children]
+ntxv.appservers
+ntxv.videoservers
+
+[ntxv.datacenter:vars]
+ansible_ssh_user=root
+##END NTXV##############
+########################
+##BEGIN OLO############
+[olo.appservers]
+appserver.olo.gwn
+
+[olo.videoservers]
+vls1.olo.gwn
+vls2.olo.gwn
+
+[olo.datacenter:children]
+olo.appservers
+olo.videoservers
+
+[olo.datacenter:vars]
+ansible_ssh_user=root
+##END OLO##############
+########################
+##BEGIN PHOV############
+[phov.appservers]
+appserver.phov.gwn
+
+[phov.videoservers]
+vls1.phov.gwn
+vls2.phov.gwn
+
+[phov.datacenter:children]
+phov.appservers
+phov.videoservers
+
+[phov.datacenter:vars]
+ansible_ssh_user=root
+##END PHOV##############
+########################
+##BEGIN PIJV############
+[pijv.appservers]
+appserver.pijv.gwn
+
+[pijv.videoservers]
+vls1.pijv.gwn
+vls2.pijv.gwn
+
+[pijv.datacenter:children]
+pijv.appservers
+pijv.videoservers
+
+[pijv.datacenter:vars]
+ansible_ssh_user=root
+##END PIJV##############
+########################
+##BEGIN PSHC############
+[pshc.appservers]
+ras1.pshc.gwn
+ras2.pshc.gwn
+
+[pshc.videoservers]
+vls1.pshc.gwn
+vls2.pshc.gwn
+
+[pshc.datacenter:children]
+pshc.appservers
+pshc.videoservers
+
+[pshc.datacenter:vars]
+ansible_ssh_user=root
+##END PSHC##############
+########################
+##BEGIN RAYV############
+[rayv.appservers]
+appserver.rayv.gwn
+
+[rayv.videoservers]
+vls1.rayv.gwn
+vls2.rayv.gwn
+
+[rayv.datacenter:children]
+rayv.appservers
+rayv.videoservers
+
+[rayv.datacenter:vars]
+ansible_ssh_user=root
+##END RAYV##############
+########################
+##BEGIN WACV############
+[wacv.appservers]
+ras1.wacv.gwn
+ras2.wacv.gwn
+
+[wacv.videoservers]
+vls1.wacv.gwn
+vls2.wacv.gwn
+
+[wacv.datacenter:children]
+wacv.appservers
+wacv.videoservers
+
+[wacv.datacenter:vars]
+ansible_ssh_user=root
+##END WACV##############
+########################
+##BEGIN WDCV############
+[wdcv.appservers]
+appserver.wdcv.gwn
+
+[wdcv.videoservers]
+vls1.wdcv.gwn
+vls2.wdcv.gwn
+
+[wdcv.datacenter:children]
+wdcv.appservers
+wdcv.videoservers
+
+[wdcv.datacenter:vars]
+ansible_ssh_user=root
+##END WDCV##############
+########################
+##BEGIN WJM############
+[wjm.appservers]
+appserver.wjm.gwn
+
+[wjm.videoservers]
+vls1.wjm.gwn
+vls2.wjm.gwn
+
+[wjm.datacenter:children]
+wjm.appservers
+wjm.videoservers
+
+[wjm.datacenter:vars]
+ansible_ssh_user=root
+##END WJM##############
+#######################
+##BEGIN RICV###########
+[ricv.appservers]
+appserver.ricv.gwn
+
+[ricv.videoservers]
+vls1.ricv.gwn
+vls2.ricv.gwn
+
+[ricv.datacenter:children]
+ricv.appservers
+ricv.videoservers
+
+[ricv.datacenter:vars]
+ansible_ssh_user=root
+##END RICV#############
+#######################
+##BEGIN CWM############
+[cwm.appservers]
+ras1.chc.gwn
+ras2.chc.gwn
+
+[cwm.videoservers]
+vls1.cwm.gwn
+vls2.cwm.gwn
+
+[cwm.datacenter:children]
+cwm.appservers
+cwm.videoservers
+
+[cwm.datacenter:vars]
+ansible_ssh_user=root
+##END CWM##############
+#######################
+##BEGIN CHC############
+[chc.appservers]
+ras1.chc.gwn
+ras2.chc.gwn
+
+[chc.videoservers]
+vls1.chc.gwn
+vls2.chc.gwn
+
+[chc.datacenter:children]
+chc.appservers
+chc.videoservers
+
+[chc.datacenter:vars]
+ansible_ssh_user=root
+##END CHC##############
+#######################
+##BEGIN FOR############
+[for.appservers]
+ras1.fhs-e.gwn
+ras2.fhs-e.gwn
+
+[for.videoservers]
+vls1.for.gwn
+vls2.for.gwn
+
+[for.datacenter:children]
+for.appservers
+for.videoservers
+
+[for.datacenter:vars]
+ansible_ssh_user=root
+##END FOR##############
+#######################
+##BEGIN FOM############
+[fom.appservers]
+appserver.fom.gwn
+
+[fom.videoservers]
+vls1.fom.gwn
+vls2.fom.gwn
+vls3.fom.gwn
+
+[fom.datacenter:children]
+fom.appservers
+fom.videoservers
+
+[fom.datacenter:vars]
+ansible_ssh_user=root
+##END FOM##############
+#######################
+##BEGIN HVS############
+[hvs.appservers]
+appserver.hvs.gwn
+
+[hvs.videoservers]
+vls1.hvs.gwn
+vls2.hvs.gwn
+
+[hvs.datacenter:children]
+hvs.appservers
+hvs.videoservers
+
+[hvs.datacenter:vars]
+ansible_ssh_user=root
+##END HVS##############
+#######################
+##BEGIN SLE############
+[sle.appservers]
+appserver.sle.gwn
+
+[sle.videoservers]
+vls1.sle.gwn
+vls2.sle.gwn
+
+[sle.datacenter:children]
+sle.appservers
+sle.videoservers
+
+[sle.datacenter:vars]
+ansible_ssh_user=root
+##END SLE##############
+#######################
+#######################
+##BEGIN STAM###########
+[stam.appservers]
+ras1.stam.gwn
+ras2.stam.gwn
+
+[stam.videoservers]
+vls1.stam.gwn
+vls2.stam.gwn
+
+[stam.datacenter:children]
+stam.appservers
+stam.videoservers
+
+[stam.datacenter:vars]
+ansible_ssh_user=root
+##END STAM#############
+#######################
+##BEGIN READ###########
+[read.appservers]
+ras1.read.gwn
+ras2.read.gwn
+
+[read.videoservers]
+vls1.read.gwn
+vls2.read.gwn
+
+[read.datacenter:children]
+read.appservers
+read.videoservers
+
+[read.datacenter:vars]
+ansible_ssh_user=root
+##END READ#############
+#######################
+##BEGIN VMH############
+[vmh.appservers]
+ras1.vir-e.gwn
+ras2.vir-e.gwn
+
+[vmh.videoservers]
+vls1.vmh.gwn
+vls2.vmh.gwn
+
+[vmh.datacenter:children]
+vmh.appservers
+vmh.videoservers
+
+[vmh.datacenter:vars]
+ansible_ssh_user=root
+##END VMH##############
+#######################
+##BEGIN LPC############
+[lpc.appservers]
+ras1.lpc.gwn
+ras2.lpc.gwn
+
+[lpc.videoservers]
+vls1.lpc.gwn
+vls2.lpc.gwn
+
+[lpc.datacenter:children]
+lpc.appservers
+lpc.videoservers
+
+[lpc.datacenter:vars]
+ansible_ssh_user=root
+##END LPC##############
+#######################
+##BEGIN MCH############
+[mch.appservers]
+appserver.mch.gwn
+
+[mch.videoservers]
+vls1.mch.gwn
+vls2.mch.gwn
+
+[mch.datacenter:children]
+mch.appservers
+mch.videoservers
+
+[mch.datacenter:vars]
+ansible_ssh_user=root
+##END MCH##############
+#######################
+##BEGIN WFBL###########
+[wfbl.appservers]
+ras1.wfbm.gwn
+ras2.wfbm.gwn
+
+[wfbl.videoservers]
+vls1.wfbl.gwn
+vls2.wfbl.gwn
+
+[wfbl.datacenter:children]
+wfbl.appservers
+wfbl.videoservers
+
+[wfbl.datacenter:vars]
+ansible_ssh_user=root
+##END WFBL#############
+#######################
+##BEGIN WFBM###########
+[wfbm.appservers]
+ras1.wfbm.gwn
+ras2.wfbm.gwn
+
+[wfbm.videoservers]
+vls1.wfbm.gwn
+vls2.wfbm.gwn
+
+[wfbm.datacenter:children]
+wfbm.appservers
+wfbm.videoservers
+
+[wfbm.datacenter:vars]
+ansible_ssh_user=root
+##END WFBM#############
+#######################
+##BEGIN BIV############
+[biv.appservers]
+ras1.biv.gwn
+ras2.biv.gwn
+
+[biv.videoservers]
+vls1.biv.gwn
+vls2.biv.gwn
+
+[biv.datacenter:children]
+biv.appservers
+biv.videoservers
+
+[biv.datacenter:vars]
+ansible_ssh_user=root
+##END BIV##############
+#######################
+##BEGIN COM-E##########
+[com-e.appservers]
+ras1.com-e.gwn
+ras2.com-e.gwn
+
+[com-e.datacenter:children]
+com-e.appservers
+
+[com-e.datacenter:vars]
+ansible_ssh_user=root
+##END COM-E############
+#######################
+##BEGIN COM-E##########
+[rse.appservers]
+ras1.rse.gwn
+ras2.rse.gwn
+
+[rse.videoservers]
+vls1.rse.gwn
+vls2.rse.gwn
+
+[rse.datacenter:children]
+rse.appservers
+rse.videoservers
+
+[rse.datacenter:vars]
+ansible_ssh_user=root
+##END COM-E############
+#######################
+##BEGIN SAMV###########
+[samv.appservers]
+ras1.samv.gwn
+ras2.samv.gwn
+
+[samv.videoservers]
+vls1.samv.gwn
+vls2.samv.gwn
+
+[samv.datacenter:children]
+samv.appservers
+samv.videoservers
+
+[samv.datacenter:vars]
+ansible_ssh_user=root
+##END SAMV#############
+#######################
+##BEGIN SELZ-E#########
+[selz-e.appservers]
+ras1.selz-e.gwn
+ras2.selz-e.gwn
+
+[selz-e.datacenter:children]
+selz-e.appservers
+
+[selz-e.datacenter:vars]
+ansible_ssh_user=root
+##END SELZ-E###########
+#######################
+##BEGIN SHH-E##########
+[shh-e.appservers]
+ras1.shh-e.gwn
+ras2.shh-e.gwn
+
+[shh-e.datacenter:children]
+shh-e.appservers
+
+[shh-e.datacenter:vars]
+ansible_ssh_user=root
+##END SHH-E############
+#######################
+##BEGIN SMMC###########
+[smmc.appservers]
+ras1.smmc.gwn
+ras2.smmc.gwn
+
+[smmc.videoservers]
+vls1.smmc.gwn
+vls2.smmc.gwn
+
+[smmc.datacenter:children]
+smmc.appservers
+smmc.videoservers
+
+[smmc.datacenter:vars]
+ansible_ssh_user=root
+##END SMMC#############
+#######################
+##BEGIN STXV###########
+[stxv.appservers]
+ras1.stxv.gwn
+ras2.stxv.gwn
+
+[stxv.videoservers]
+vls1.stxv.gwn
+vls2.stxv.gwn
+
+[stxv.datacenter:children]
+stxv.appservers
+stxv.videoservers
+
+[stxv.datacenter:vars]
+ansible_ssh_user=root
+##END STXV#############
+#######################
+##BEGIN SVI############
+[svi.appservers]
+ras1.svi.gwn
+ras2.svi.gwn
+
+[svi.videoservers]
+vls1.svi.gwn
+vls2.svi.gwn
+
+[svi.datacenter:children]
+svi.appservers
+svi.videoservers
+
+[svi.datacenter:vars]
+ansible_ssh_user=root
+##END SVI##############
+#######################
+##BEGIN TJU############
+[tju.appservers]
+ras1.tju.gwn
+ras2.tju.gwn
+
+[tju.videoservers]
+vls1.tju.gwn
+vls2.tju.gwn
+vls3.tju.gwn
+vls4.tju.gwn
+
+[tju.datacenter:children]
+tju.appservers
+tju.videoservers
+
+[tju.datacenter:vars]
+ansible_ssh_user=root
+##END TJU##############
+#######################
+##BEGIN TSPM###########
+[tspm.appservers]
+ras1.tspm.gwn
+ras2.tspm.gwn
+
+[tspm.videoservers]
+vls1.tspm.gwn
+vls2.tspm.gwn
+
+[tspm.datacenter:children]
+tspm.appservers
+tspm.videoservers
+
+[tspm.datacenter:vars]
+ansible_ssh_user=root
+##END TSPM#############
+#######################
+##BEGIN TXWO###########
+[txwo.appservers]
+ras1.txwo.gwn
+ras2.txwo.gwn
+
+[txwo.videoservers]
+vls1.txwo.gwn
+vls2.txwo.gwn
+
+[txwo.datacenter:children]
+txwo.appservers
+txwo.videoservers
+
+[txwo.datacenter:vars]
+ansible_ssh_user=root
+##END TXWO#############
+#######################
+##BEGIN UCM############
+[ucm.appservers]
+ras1.ucm.gwn
+ras2.ucm.gwn
+
+[ucm.videoservers]
+vls1.ucm.gwn
+vls2.ucm.gwn
+vls3.ucc.gwn
+
+[ucm.datacenter:children]
+ucm.appservers
+ucm.videoservers
+
+[ucm.datacenter:vars]
+ansible_ssh_user=root
+##END UCM##############
+#######################
+##BEGIN UMI############
+[umi.appservers]
+ras1.umi.gwn
+ras2.umi.gwn
+
+[umi.videoservers]
+vls1.umi.gwn
+vls2.umi.gwn
+vls3.umi.gwn
+vls4.umi.gwn
+vls5.umi.gwn
+
+[umi.datacenter:children]
+umi.appservers
+umi.videoservers
+
+[umi.datacenter:vars]
+ansible_ssh_user=root
+##END UMI##############
+#######################
+##BEGIN VAL############
+[val.appservers]
+ras1.val.gwn
+ras2.val.gwn
+
+[val.videoservers]
+vls1.val.gwn
+vls2.val.gwn
+
+[val.datacenter:children]
+val.appservers
+val.videoservers
+
+[val.datacenter:vars]
+ansible_ssh_user=root
+##END VAL##############
+#######################
+##BEGIN SDV############
+[sdv.appservers]
+appserver.sdv.gwn
+
+[sdv.videoservers]
+vls1.sdv.gwn
+
+[sdv.datacenter:children]
+sdv.appservers
+sdv.videoservers
+
+[sdv.datacenter:vars]
+ansible_ssh_user=root
+##END SDV##############
+#######################
+##BEGIN PRSV###########
+[prsv.appservers]
+appserver.prsv.gwn
+
+[prsv.videoservers]
+vls1.prsv.gwn
+
+[prsv.datacenter:children]
+prsv.appservers
+prsv.videoservers
+
+[prsv.datacenter:vars]
+ansible_ssh_user=root
+##END PRSV#############
+#######################
+##BEGIN PIUV###########
+[piuv.appservers]
+appserver.piuv.gwn
+
+[piuv.videoservers]
+vls1.piuv.gwn
+
+[piuv.datacenter:children]
+piuv.appservers
+piuv.videoservers
+
+[piuv.datacenter:vars]
+ansible_ssh_user=root
+##END PIUV#############
+#######################
+##BEGIN FARV###########
+[farv.appservers]
+appserver.farv.gwn
+
+[farv.videoservers]
+vls1.farv.gwn
+
+[farv.datacenter:children]
+farv.appservers
+farv.videoservers
+
+[farv.datacenter:vars]
+ansible_ssh_user=root
+##END FARV#############
+#######################
+##BEGIN ERV############
+[erv.appservers]
+appserver.erv.gwn
+
+[erv.videoservers]
+vls1.erv.gwn
+
+[erv.datacenter:children]
+erv.appservers
+erv.videoservers
+
+[erv.datacenter:vars]
+ansible_ssh_user=root
+##END ERV##############
+#######################
+##BEGIN IAC############
+[iac.appservers]
+appserver.iac.gwn
+
+[iac.videoservers]
+vls1.iac.gwn
+
+[iac.datacenter:children]
+iac.appservers
+iac.videoservers
+
+[iac.datacenter:vars]
+ansible_ssh_user=root
+##END IAC##############
+#######################
+##BEGIN LEBV###########
+[lebv.appservers]
+appserver.lebv.gwn
+
+[lebv.videoservers]
+vls1.lebv.gwn
+
+[lebv.datacenter:children]
+lebv.appservers
+lebv.videoservers
+
+[lebv.datacenter:vars]
+ansible_ssh_user=root
+##END LEBV###############
+#######################
+##BEGIN MDV############
+[mdv.appservers]
+appserver.mdv.gwn
+
+[mdv.videoservers]
+vls1.mdv.gwn
+
+[mdv.datacenter:children]
+mdv.appservers
+mdv.videoservers
+
+[mdv.datacenter:vars]
+ansible_ssh_user=root
+##END MDV##############
+#######################
+##BEGIN ORLV###########
+[orlv.appservers]
+appserver.orlv.gwn
+
+[orlv.videoservers]
+vls1.orlv.gwn
+vls2.orlv.gwn
+vls3.orlv.gwn
+
+[orlv.datacenter:children]
+orlv.appservers
+orlv.videoservers
+
+[orlv.datacenter:vars]
+ansible_ssh_user=root
+##END ORLV#############
+#######################
+##BEGIN SJV############
+[sjv.appservers]
+appserver.sjv.gwn
+
+[sjv.videoservers]
+vls1.sjv.gwn
+vls2.sjv.gwn
+
+[sjv.datacenter:children]
+sjv.appservers
+sjv.videoservers
+
+[sjv.datacenter:vars]
+ansible_ssh_user=root
+##END SJV##############
+#######################
+##BEGIN TAMV###########
+[tamv.appservers]
+appserver.tamv.gwn
+
+[tamv.videoservers]
+vls1.tamv.gwn
+vls2.tamv.gwn
+vls3.tamv.gwn
+vls4.tamv.gwn
+vls5.tamv.gwn
+
+[tamv.datacenter:children]
+tamv.appservers
+tamv.videoservers
+
+[tamv.datacenter:vars]
+ansible_ssh_user=root
+##END TAMV#############
+#######################
+##BEGIN WILV###########
+[wilv.appservers]
+appserver.wilv.gwn
+
+[wilv.videoservers]
+vls1.wilv.gwn
+
+[wilv.datacenter:children]
+wilv.appservers
+wilv.videoservers
+
+[wilv.datacenter:vars]
+ansible_ssh_user=root
+##END WILV#############
+#######################
+##BEGIN WPBV###########
+[wpbv.appservers]
+appserver.wpbv.gwn
+
+[wpbv.videoservers]
+vls1.wpbv.gwn
+vls2.wpbv.gwn
+vls3.wpbv.gwn
+
+[wpbv.datacenter:children]
+wpbv.appservers
+wpbv.videoservers
+
+[wpbv.datacenter:vars]
+ansible_ssh_user=root
+##END WPBV#############
+#######################
+##BEGIN WTXV###########
+[wtxv.appservers]
+appserver.wtxv.gwn
+
+[wtxv.videoservers]
+vls1.wtxv.gwn
+
+[wtxv.datacenter:children]
+wtxv.appservers
+wtxv.videoservers
+
+[wtxv.datacenter:vars]
+ansible_ssh_user=root
+##END WTXV#############

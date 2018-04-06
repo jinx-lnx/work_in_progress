@@ -1,0 +1,20 @@
+Host bastion.*.com
+   ProxyCommand none
+   User username
+ 
+Host bastion
+    Hostname bastion.zero.com
+    ProxyCommand none
+    User username
+    ControlMaster auto
+    ControlPath ~/.ssh/master-%r@%h:%p
+    ControlPersist yes
+ 
+Host *
+    ProxyCommand ssh -aY bastion -F ssh_config -W %h:%p
+    ForwardAgent yes
+    GSSAPIAuthentication no
+    VerifyHostKeyDNS no
+    HashKnownHosts no
+    TCPKeepAlive yes
+    ServerAliveInterval 60

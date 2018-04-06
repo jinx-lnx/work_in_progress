@@ -1,0 +1,254 @@
+vls2.ACD.gwn has address 10.5.228.28
+vls2.AHA.gwn has address 10.5.220.28
+vls2.AMV.gwn has address 10.8.124.28
+vls2.BAY-E.gwn has address 10.9.251.28
+Host vls2.BEBU.gwn not found: 3(NXDOMAIN)
+vls2.BIV.gwn has address 10.8.4.28
+Host vls2.BJC.gwn not found: 3(NXDOMAIN)
+vls2.BJM.gwn has address 10.9.68.28
+vls2.BJN.gwn has address 10.7.204.28
+vls2.BJS.gwn has address 10.9.64.28
+vls2.BJW.gwn has address 10.9.68.28
+Host vls2.BND2.gwn not found: 3(NXDOMAIN)
+vls2.BPV.gwn has address 10.8.36.28
+Host vls2.BRMC.gwn not found: 3(NXDOMAIN)
+vls2.BWH.gwn has address 10.9.208.28
+vls2.BWO.gwn has address 10.7.212.28
+vls2.BWW.gwn has address 10.9.210.28
+vls2.CAC.gwn has address 10.5.52.28
+vls2.CAL.gwn has address 10.7.48.28
+vls2.CAR.gwn has address 10.7.44.28
+Host vls2.CAR-E.gwn not found: 3(NXDOMAIN)
+vls2.CARO.gwn has address 10.9.88.28
+vls2.CBO.gwn has address 172.28.15.12
+vls2.CBR.gwn has address 10.9.184.28
+vls2.CCL.gwn has address 10.7.160.28
+vls2.CCMC.gwn has address 204.130.8.28
+Host vls2.CEBG.gwn not found: 3(NXDOMAIN)
+vls2.CENH.gwn has address 10.9.223.28
+vls2.CFE.gwn has address 10.7.164.28
+Host vls2.CFR.gwn not found: 3(NXDOMAIN)
+vls2.CHA.gwn has address 10.7.8.28
+vls2.CHC.gwn has address 10.5.144.28
+Host vls2.CHE.gwn not found: 3(NXDOMAIN)
+vls2.CICH.gwn has address 10.9.162.28
+vls2.CIL.gwn has address 10.7.59.28
+vls2.CIM.gwn has address 10.9.226.28
+vls2.CIN.gwn has address 10.7.200.28
+vls2.CLA.gwn has address 10.108.0.28
+Host vls2.CLVT.gwn not found: 3(NXDOMAIN)
+Host vls2.CMC-E.gwn not found: 3(NXDOMAIN)
+vls2.CME.gwn has address 10.242.200.28
+vls2.CMG.gwn has address 10.9.136.28
+vls2.CMM.gwn has address 10.9.224.28
+vls2.CNM.gwn has address 10.5.16.28
+vls2.COC.gwn has address 10.5.120.28
+Host vls2.COM-E.gwn not found: 3(NXDOMAIN)
+vls2.CRCL.gwn has address 10.9.24.28
+Host vls2.CRKM.gwn not found: 3(NXDOMAIN)
+vls2.CRLE.gwn has address 10.9.0.28
+vls2.CRLI.gwn has address 10.9.140.28
+vls2.CRME.gwn has address 10.9.128.28
+vls2.CRNE.gwn has address 10.9.154.28
+vls2.CRPI.gwn has address 10.9.8.28
+vls2.CRUN.gwn has address 10.9.16.28
+vls2.CRUV.gwn has address 10.9.112.28
+Host vls2.CSP.gwn not found: 3(NXDOMAIN)
+vls2.CTXV.gwn has address 10.8.140.28
+vls2.CWM.gwn has address 10.5.240.28
+vls2.DACH.gwn has address 10.13.253.28
+vls2.DCH.gwn has address 10.5.242.28
+vls2.DSJ.gwn has address 10.7.180.28
+vls2.DSJW.gwn has address 10.9.104.28
+vls2.DUP.gwn has address 10.5.12.28
+vls2.EMO.gwn has address 10.7.168.28
+vls2.EOV.gwn has address 10.8.64.28
+Host vls2.ERV.gwn not found: 3(NXDOMAIN)
+Host vls2.ESM-JENKINS.gwn not found: 3(NXDOMAIN)
+vls2.EWH.gwn has address 10.136.74.28
+vls2.EXSJ.gwn has address 10.9.100.28
+vls2.FARV.gwn has address 10.8.80.28
+vls2.FCAR.gwn has address 10.6.32.28
+vls2.FCE.gwn has address 10.6.8.28
+vls2.FEO.gwn has address 10.6.16.28
+Host vls2.FFL.gwn not found: 3(NXDOMAIN)
+Host vls2.FHS-E.gwn not found: 3(NXDOMAIN)
+Host vls2.FOC.gwn not found: 3(NXDOMAIN)
+vls2.FOM.gwn has address 10.6.20.28
+vls2.FOR.gwn has address 10.6.4.28
+vls2.FTBV.gwn has address 10.7.100.28
+Host vls2.FWS.gwn not found: 3(NXDOMAIN)
+vls2.GAIV.gwn has address 10.8.28.28
+vls2.GLM.gwn has address 10.7.176.28
+Host vls2.GPR.gwn not found: 3(NXDOMAIN)
+vls2.GSM.gwn has address 10.220.0.28
+Host vls2.GTU.gwn not found: 3(NXDOMAIN)
+vls2.HAS.gwn has address 10.5.80.28
+Host vls2.HHI.gwn not found: 3(NXDOMAIN)
+vls2.HNMC.gwn has address 172.16.52.28
+vls2.HOA.gwn has address 10.9.232.28
+Host vls2.HOSTED-AMBTEST.gwn not found: 3(NXDOMAIN)
+Host vls2.HOSTED-CRLE.gwn not found: 3(NXDOMAIN)
+Host vls2.HOSTED-CRLETEST.gwn not found: 3(NXDOMAIN)
+Host vls2.HOSTED-NMS.gwn not found: 3(NXDOMAIN)
+Host vls2.HOSTED-ONE.gwn not found: 3(NXDOMAIN)
+Host vls2.HOSTED-USPI.gwn not found: 3(NXDOMAIN)
+vls2.HVS.gwn has address 10.5.124.28
+Host vls2.IAC.gwn not found: 3(NXDOMAIN)
+vls2.IFO.gwn has address 10.5.60.28
+Host vls2.INGESTOR.gwn not found: 3(NXDOMAIN)
+vls2.JDC.gwn has address 10.7.52.28
+Host vls2.JENKINS1.gwn not found: 3(NXDOMAIN)
+Host vls2.JENKINS3.gwn not found: 3(NXDOMAIN)
+Host vls2.JENKINS5.gwn not found: 3(NXDOMAIN)
+Host vls2.JENKINS6.gwn not found: 3(NXDOMAIN)
+vls2.JMO.gwn has address 10.5.176.28
+vls2.KBP.gwn has address 10.204.135.12
+Host vls2.KBPTEST.gwn not found: 3(NXDOMAIN)
+vls2.KCH.gwn has address 10.5.32.28
+vls2.KERV.gwn has address 10.8.144.28
+vls2.KFS.gwn has address 195.242.197.133
+Host vls2.KGAR.gwn not found: 3(NXDOMAIN)
+vls2.KOAK.gwn has address 10.183.160.133
+vls2.KOC.gwn has address 10.7.104.28
+Host vls2.KOO.gwn not found: 3(NXDOMAIN)
+vls2.KPC.gwn has address 10.214.182.6
+Host vls2.KPCTEST.gwn not found: 3(NXDOMAIN)
+Host vls2.KPNC-E.gwn not found: 3(NXDOMAIN)
+Host vls2.KPNCTEST.gwn not found: 3(NXDOMAIN)
+Host vls2.KPSC-E.gwn not found: 3(NXDOMAIN)
+Host vls2.KPSCTEST.gwn not found: 3(NXDOMAIN)
+vls2.KRED.gwn has address 10.241.38.11
+Host vls2.KREDTEST.gwn not found: 3(NXDOMAIN)
+vls2.KSC.gwn has address 10.5.216.28
+vls2.KSD.gwn has address 10.190.255.134
+Host vls2.KSDTEST.gwn not found: 3(NXDOMAIN)
+vls2.KSLE.gwn has address 10.182.76.133
+Host vls2.KSLETEST.gwn not found: 3(NXDOMAIN)
+vls2.LAV.gwn has address 10.8.76.28
+vls2.LBM.gwn has address 10.9.188.28
+vls2.LCV.gwn has address 10.8.24.28
+vls2.LEBV.gwn has address 10.8.104.28
+Host vls2.LEG-E.gwn not found: 3(NXDOMAIN)
+vls2.LEGS.gwn has address 10.141.240.28
+vls2.LEM.gwn has address 10.7.132.28
+vls2.LEMA.gwn has address 10.131.240.28
+Host vls2.LEMH.gwn not found: 3(NXDOMAIN)
+vls2.LESC.gwn has address 10.181.240.28
+vls2.LFV.gwn has address 10.8.72.28
+vls2.LPC.gwn has address 10.251.224.28
+vls2.MARV.gwn has address 10.8.68.28
+vls2.MCH.gwn has address 10.9.200.28
+Host vls2.MCM.gwn not found: 3(NXDOMAIN)
+vls2.MDV.gwn has address 10.8.92.28
+vls2.MEC.gwn has address 10.9.52.28
+vls2.MED.gwn has address 10.9.48.28
+Host vls2.MHN-E.gwn not found: 3(NXDOMAIN)
+vls2.MIAV.gwn has address 10.8.12.28
+vls2.MMB.gwn has address 10.5.224.28
+vls2.MMD.gwn has address 10.33.240.28
+vls2.MMW.gwn has address 10.5.246.28
+vls2.MOF.gwn has address 10.9.96.28
+vls2.MON.gwn has address 10.5.172.28
+vls2.MPL.gwn has address 10.9.40.28
+vls2.MPN.gwn has address 10.9.44.28
+vls2.NAC.gwn has address 10.7.16.28
+vls2.NBB.gwn has address 10.5.249.28
+vls2.NCP.gwn has address 10.7.144.28
+vls2.NOR.gwn has address 10.7.184.28
+vls2.NSB.gwn has address 10.7.196.28
+vls2.NTXV.gwn has address 10.8.156.28
+vls2.OCM.gwn has address 10.7.238.28
+vls2.OHS.gwn has address 137.53.246.26
+vls2.OLA.gwn has address 10.7.0.28
+vls2.OLO.gwn has address 10.7.4.28
+vls2.ORLV.gwn has address 10.8.40.28
+Host vls2.OSO.gwn not found: 3(NXDOMAIN)
+vls2.PHOV.gwn has address 10.8.108.28
+vls2.PIJV.gwn has address 10.8.52.28
+vls2.PIUV.gwn has address 10.8.48.28
+Host vls2.PLCDEV.gwn not found: 3(NXDOMAIN)
+vls2.PNM.gwn has address 10.9.76.28
+Host vls2.PREVIEW.gwn not found: 3(NXDOMAIN)
+Host vls2.PRSV.gwn not found: 3(NXDOMAIN)
+vls2.PSHC.gwn has address 10.7.220.28
+Host vls2.RAS-WHQ.gwn not found: 3(NXDOMAIN)
+vls2.RAYV.gwn has address 10.8.120.28
+vls2.RDL.gwn has address 10.5.8.28
+vls2.READ.gwn has address 10.10.12.28
+vls2.RICV.gwn has address 10.8.60.28
+vls2.RSE.gwn has address 10.5.28.28
+vls2.RSM.gwn has address 10.5.132.28
+vls2.SAMV.gwn has address 10.8.152.28
+vls2.SAN.gwn has address 10.9.56.28
+Host vls2.SD1-INGESTOR.gwn not found: 3(NXDOMAIN)
+Host vls2.SDINVENTORY.gwn not found: 3(NXDOMAIN)
+vls2.SDV.gwn has address 10.8.100.28
+vls2.SEA.gwn has address 10.7.192.28
+vls2.SEFL.gwn has address 10.9.168.28
+vls2.SEFT.gwn has address 10.9.170.28
+vls2.SELE.gwn has address 10.9.164.28
+Host vls2.SELZ-E.gwn not found: 3(NXDOMAIN)
+vls2.SFB.gwn has address 10.9.60.28
+vls2.SFM.gwn has address 10.118.25.28
+vls2.SFV.gwn has address 10.8.44.28
+Host vls2.SHEC.gwn not found: 3(NXDOMAIN)
+Host vls2.SHH-E.gwn not found: 3(NXDOMAIN)
+vls2.SJC.gwn has address 10.7.40.28
+vls2.SJV.gwn has address 10.8.20.28
+vls2.SLE.gwn has address 10.5.84.28
+vls2.SMA.gwn has address 10.5.104.28
+vls2.SMM.gwn has address 10.5.238.28
+vls2.SMMC.gwn has address 10.9.230.28
+vls2.SOIN.gwn has address 10.7.128.28
+vls2.SOM.gwn has address 10.7.136.28
+vls2.SPC.gwn has address 10.9.132.28
+vls2.SPG.gwn has address 10.7.228.28
+vls2.SPM.gwn has address 10.7.20.28
+vls2.STAM.gwn has address 10.60.2.28
+vls2.STAN.gwn has address 10.9.20.28
+vls2.STJ.gwn has address 10.5.76.28
+Host vls2.STRESSLAB.gwn not found: 3(NXDOMAIN)
+vls2.STXV.gwn has address 10.8.148.28
+vls2.SVI.gwn has address 10.9.221.28
+vls2.SVM.gwn has address 10.9.192.28
+vls2.TAMV.gwn has address 10.8.32.28
+vls2.TBN.gwn has address 10.7.152.28
+vls2.TGEN.gwn has address 10.224.0.28
+vls2.TGS.gwn has address 10.7.148.28
+vls2.TJU.gwn has address 10.5.48.28
+vls2.TSIR.gwn has address 10.9.110.28
+vls2.TSPE.gwn has address 10.9.109.28
+vls2.TSPM.gwn has address 10.9.124.28
+vls2.TXWE.gwn has address 10.7.116.28
+vls2.TXWO.gwn has address 10.7.112.28
+Host vls2.UCC.gwn not found: 3(NXDOMAIN)
+vls2.UCM.gwn has address 165.68.88.28
+Host vls2.UKA.gwn not found: 3(NXDOMAIN)
+vls2.UMC.gwn has address 10.7.28.28
+vls2.UMI.gwn has address 10.7.64.28
+Host vls2.UPIT.gwn not found: 3(NXDOMAIN)
+vls2.UPR.gwn has address 10.7.12.28
+vls2.USC.gwn has address 10.5.96.28
+Host vls2.UTSW.gwn not found: 3(NXDOMAIN)
+vls2.VAL.gwn has address 10.9.108.28
+Host vls2.VAP.gwn not found: 3(NXDOMAIN)
+vls2.VBH.gwn has address 10.5.72.28
+Host vls2.VIR-E.gwn not found: 3(NXDOMAIN)
+vls2.VMA.gwn has address 10.5.68.28
+vls2.VMH.gwn has address 10.5.152.28
+vls2.VMT.gwn has address 10.5.128.28
+vls2.VVH.gwn has address 10.5.136.28
+Host vls2.VVW.gwn not found: 3(NXDOMAIN)
+vls2.WACV.gwn has address 10.8.136.28
+vls2.WDCV.gwn has address 10.8.88.28
+vls2.WFBL.gwn has address 10.199.205.200
+vls2.WFBM.gwn has address 10.20.30.228
+vls2.WFDA.gwn has address 10.8.127.214
+vls2.WHQ.gwn has address 10.7.252.28
+vls2.WILV.gwn has address 10.8.96.28
+vls2.WJM.gwn has address 10.5.250.28
+vls2.WMC.gwn has address 10.5.24.28
+vls2.WPBV.gwn has address 10.8.16.28
+Host vls2.WTXV.gwn not found: 3(NXDOMAIN)
+vls2.WWR.gwn has address 10.5.40.28

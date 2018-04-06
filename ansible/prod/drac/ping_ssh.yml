@@ -1,0 +1,15 @@
+---
+- gather_facts: False
+  user: gwnadmin
+  name: test ssh accessibility
+#  hosts: "{{ hosts }}"
+  hosts: all
+  connection: local # run ssh from the local box
+  tasks:
+    - name: ssh check
+      wait_for:
+        host: "{{ inventory_hostname }}"
+        connect_timeout: 10 # maximum number of seconds to wait for a connection to happen before closing and retrying
+        state: started
+        timeout: 300 # maximum number of seconds to wait for
+        port: 22

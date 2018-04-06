@@ -1,0 +1,8 @@
+---
+- gather_facts: False
+  name: test pingability
+  hosts: "{{ hosts }}"
+  connection: local # run ping from the local box
+  tasks:
+    - name: ping check
+      raw: ping -t 5 -c 3 {{ inventory_hostname }}

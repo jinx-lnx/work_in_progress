@@ -1,0 +1,254 @@
+vls4.ACD.gwn has address 10.5.228.26
+vls4.AHA.gwn has address 10.5.220.26
+vls4.AMV.gwn has address 10.8.124.26
+vls4.BAY-E.gwn has address 10.9.251.26
+Host vls4.BEBU.gwn not found: 3(NXDOMAIN)
+Host vls4.BIV.gwn not found: 3(NXDOMAIN)
+vls4.BJC.gwn has address 10.9.68.26
+vls4.BJM.gwn has address 10.9.68.26
+Host vls4.BJN.gwn not found: 3(NXDOMAIN)
+Host vls4.BJS.gwn not found: 3(NXDOMAIN)
+Host vls4.BJW.gwn not found: 3(NXDOMAIN)
+Host vls4.BND2.gwn not found: 3(NXDOMAIN)
+vls4.BPV.gwn has address 10.8.36.26
+Host vls4.BRMC.gwn not found: 3(NXDOMAIN)
+Host vls4.BWH.gwn not found: 3(NXDOMAIN)
+vls4.BWO.gwn has address 10.7.212.26
+Host vls4.BWW.gwn not found: 3(NXDOMAIN)
+vls4.CAC.gwn has address 10.5.52.26
+vls4.CAL.gwn has address 10.7.48.26
+vls4.CAR.gwn has address 10.7.44.26
+Host vls4.CAR-E.gwn not found: 3(NXDOMAIN)
+Host vls4.CARO.gwn not found: 3(NXDOMAIN)
+Host vls4.CBO.gwn not found: 3(NXDOMAIN)
+Host vls4.CBR.gwn not found: 3(NXDOMAIN)
+Host vls4.CCL.gwn not found: 3(NXDOMAIN)
+Host vls4.CCMC.gwn not found: 3(NXDOMAIN)
+Host vls4.CEBG.gwn not found: 3(NXDOMAIN)
+Host vls4.CENH.gwn not found: 3(NXDOMAIN)
+vls4.CFE.gwn has address 10.7.164.26
+Host vls4.CFR.gwn not found: 3(NXDOMAIN)
+Host vls4.CHA.gwn not found: 3(NXDOMAIN)
+Host vls4.CHC.gwn not found: 3(NXDOMAIN)
+Host vls4.CHE.gwn not found: 3(NXDOMAIN)
+Host vls4.CICH.gwn not found: 3(NXDOMAIN)
+Host vls4.CIL.gwn not found: 3(NXDOMAIN)
+Host vls4.CIM.gwn not found: 3(NXDOMAIN)
+vls4.CIN.gwn has address 10.7.200.26
+vls4.CLA.gwn has address 10.108.0.26
+Host vls4.CLVT.gwn not found: 3(NXDOMAIN)
+Host vls4.CMC-E.gwn not found: 3(NXDOMAIN)
+Host vls4.CME.gwn not found: 3(NXDOMAIN)
+Host vls4.CMG.gwn not found: 3(NXDOMAIN)
+Host vls4.CMM.gwn not found: 3(NXDOMAIN)
+Host vls4.CNM.gwn not found: 3(NXDOMAIN)
+vls4.COC.gwn has address 10.5.120.26
+Host vls4.COM-E.gwn not found: 3(NXDOMAIN)
+Host vls4.CRCL.gwn not found: 3(NXDOMAIN)
+Host vls4.CRKM.gwn not found: 3(NXDOMAIN)
+vls4.CRLE.gwn has address 10.9.0.26
+Host vls4.CRLI.gwn not found: 3(NXDOMAIN)
+Host vls4.CRME.gwn not found: 3(NXDOMAIN)
+Host vls4.CRNE.gwn not found: 3(NXDOMAIN)
+Host vls4.CRPI.gwn not found: 3(NXDOMAIN)
+Host vls4.CRUN.gwn not found: 3(NXDOMAIN)
+vls4.CRUV.gwn has address 10.9.112.26
+Host vls4.CSP.gwn not found: 3(NXDOMAIN)
+Host vls4.CTXV.gwn not found: 3(NXDOMAIN)
+Host vls4.CWM.gwn not found: 3(NXDOMAIN)
+Host vls4.DACH.gwn not found: 3(NXDOMAIN)
+Host vls4.DCH.gwn not found: 3(NXDOMAIN)
+vls4.DSJ.gwn has address 10.7.180.26
+vls4.DSJW.gwn has address 10.9.104.26
+vls4.DUP.gwn has address 10.5.12.26
+Host vls4.EMO.gwn not found: 3(NXDOMAIN)
+vls4.EOV.gwn has address 10.8.64.26
+Host vls4.ERV.gwn not found: 3(NXDOMAIN)
+Host vls4.ESM-JENKINS.gwn not found: 3(NXDOMAIN)
+Host vls4.EWH.gwn not found: 3(NXDOMAIN)
+Host vls4.EXSJ.gwn not found: 3(NXDOMAIN)
+vls4.FARV.gwn has address 10.8.80.26
+vls4.FCAR.gwn has address 10.6.32.26
+vls4.FCE.gwn has address 10.6.8.26
+vls4.FEO.gwn has address 10.6.16.26
+Host vls4.FFL.gwn not found: 3(NXDOMAIN)
+Host vls4.FHS-E.gwn not found: 3(NXDOMAIN)
+Host vls4.FOC.gwn not found: 3(NXDOMAIN)
+vls4.FOM.gwn has address 10.6.20.26
+vls4.FOR.gwn has address 10.6.4.26
+Host vls4.FTBV.gwn not found: 3(NXDOMAIN)
+Host vls4.FWS.gwn not found: 3(NXDOMAIN)
+vls4.GAIV.gwn has address 10.8.28.26
+Host vls4.GLM.gwn not found: 3(NXDOMAIN)
+Host vls4.GPR.gwn not found: 3(NXDOMAIN)
+Host vls4.GSM.gwn not found: 3(NXDOMAIN)
+Host vls4.GTU.gwn not found: 3(NXDOMAIN)
+vls4.HAS.gwn has address 10.5.80.26
+Host vls4.HHI.gwn not found: 3(NXDOMAIN)
+Host vls4.HNMC.gwn not found: 3(NXDOMAIN)
+Host vls4.HOA.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-AMBTEST.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-CRLE.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-CRLETEST.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-NMS.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-ONE.gwn not found: 3(NXDOMAIN)
+Host vls4.HOSTED-USPI.gwn not found: 3(NXDOMAIN)
+vls4.HVS.gwn has address 10.5.124.26
+Host vls4.IAC.gwn not found: 3(NXDOMAIN)
+vls4.IFO.gwn has address 10.5.60.26
+Host vls4.INGESTOR.gwn not found: 3(NXDOMAIN)
+vls4.JDC.gwn has address 10.7.52.26
+Host vls4.JENKINS1.gwn not found: 3(NXDOMAIN)
+Host vls4.JENKINS3.gwn not found: 3(NXDOMAIN)
+Host vls4.JENKINS5.gwn not found: 3(NXDOMAIN)
+Host vls4.JENKINS6.gwn not found: 3(NXDOMAIN)
+vls4.JMO.gwn has address 10.5.176.26
+Host vls4.KBP.gwn not found: 3(NXDOMAIN)
+Host vls4.KBPTEST.gwn not found: 3(NXDOMAIN)
+vls4.KCH.gwn has address 10.5.32.26
+Host vls4.KERV.gwn not found: 3(NXDOMAIN)
+Host vls4.KFS.gwn not found: 3(NXDOMAIN)
+Host vls4.KGAR.gwn not found: 3(NXDOMAIN)
+vls4.KOAK.gwn has address 10.183.160.135
+vls4.KOC.gwn has address 10.7.104.26
+Host vls4.KOO.gwn not found: 3(NXDOMAIN)
+Host vls4.KPC.gwn not found: 3(NXDOMAIN)
+Host vls4.KPCTEST.gwn not found: 3(NXDOMAIN)
+Host vls4.KPNC-E.gwn not found: 3(NXDOMAIN)
+Host vls4.KPNCTEST.gwn not found: 3(NXDOMAIN)
+Host vls4.KPSC-E.gwn not found: 3(NXDOMAIN)
+Host vls4.KPSCTEST.gwn not found: 3(NXDOMAIN)
+Host vls4.KRED.gwn not found: 3(NXDOMAIN)
+Host vls4.KREDTEST.gwn not found: 3(NXDOMAIN)
+vls4.KSC.gwn has address 10.5.216.26
+Host vls4.KSD.gwn not found: 3(NXDOMAIN)
+Host vls4.KSDTEST.gwn not found: 3(NXDOMAIN)
+vls4.KSLE.gwn has address 10.182.76.135
+Host vls4.KSLETEST.gwn not found: 3(NXDOMAIN)
+vls4.LAV.gwn has address 10.8.76.26
+Host vls4.LBM.gwn not found: 3(NXDOMAIN)
+vls4.LCV.gwn has address 10.8.24.26
+vls4.LEBV.gwn has address 10.8.104.26
+Host vls4.LEG-E.gwn not found: 3(NXDOMAIN)
+Host vls4.LEGS.gwn not found: 3(NXDOMAIN)
+vls4.LEM.gwn has address 10.7.132.26
+Host vls4.LEMA.gwn not found: 3(NXDOMAIN)
+Host vls4.LEMH.gwn not found: 3(NXDOMAIN)
+Host vls4.LESC.gwn not found: 3(NXDOMAIN)
+vls4.LFV.gwn has address 10.8.72.26
+Host vls4.LPC.gwn not found: 3(NXDOMAIN)
+vls4.MARV.gwn has address 10.8.68.26
+Host vls4.MCH.gwn not found: 3(NXDOMAIN)
+Host vls4.MCM.gwn not found: 3(NXDOMAIN)
+vls4.MDV.gwn has address 10.8.92.26
+Host vls4.MEC.gwn not found: 3(NXDOMAIN)
+Host vls4.MED.gwn not found: 3(NXDOMAIN)
+Host vls4.MHN-E.gwn not found: 3(NXDOMAIN)
+vls4.MIAV.gwn has address 10.8.12.26
+vls4.MMB.gwn has address 10.5.224.26
+Host vls4.MMD.gwn not found: 3(NXDOMAIN)
+vls4.MMW.gwn has address 10.5.246.26
+Host vls4.MOF.gwn not found: 3(NXDOMAIN)
+vls4.MON.gwn has address 10.5.172.26
+Host vls4.MPL.gwn not found: 3(NXDOMAIN)
+Host vls4.MPN.gwn not found: 3(NXDOMAIN)
+vls4.NAC.gwn has address 10.7.16.26
+vls4.NBB.gwn has address 10.5.249.26
+vls4.NCP.gwn has address 10.7.144.26
+Host vls4.NOR.gwn not found: 3(NXDOMAIN)
+vls4.NSB.gwn has address 10.7.196.26
+Host vls4.NTXV.gwn not found: 3(NXDOMAIN)
+Host vls4.OCM.gwn not found: 3(NXDOMAIN)
+Host vls4.OHS.gwn not found: 3(NXDOMAIN)
+vls4.OLA.gwn has address 10.7.0.26
+Host vls4.OLO.gwn not found: 3(NXDOMAIN)
+vls4.ORLV.gwn has address 10.8.40.26
+Host vls4.OSO.gwn not found: 3(NXDOMAIN)
+Host vls4.PHOV.gwn not found: 3(NXDOMAIN)
+vls4.PIJV.gwn has address 10.8.52.26
+vls4.PIUV.gwn has address 10.8.48.26
+Host vls4.PLCDEV.gwn not found: 3(NXDOMAIN)
+vls4.PNM.gwn has address 10.9.76.26
+Host vls4.PREVIEW.gwn not found: 3(NXDOMAIN)
+Host vls4.PRSV.gwn not found: 3(NXDOMAIN)
+Host vls4.PSHC.gwn not found: 3(NXDOMAIN)
+Host vls4.RAS-WHQ.gwn not found: 3(NXDOMAIN)
+Host vls4.RAYV.gwn not found: 3(NXDOMAIN)
+vls4.RDL.gwn has address 10.5.8.26
+vls4.READ.gwn has address 10.10.12.26
+vls4.RICV.gwn has address 10.8.60.26
+vls4.RSE.gwn has address 10.5.28.26
+vls4.RSM.gwn has address 10.5.132.26
+Host vls4.SAMV.gwn not found: 3(NXDOMAIN)
+Host vls4.SAN.gwn not found: 3(NXDOMAIN)
+Host vls4.SD1-INGESTOR.gwn not found: 3(NXDOMAIN)
+Host vls4.SDINVENTORY.gwn not found: 3(NXDOMAIN)
+vls4.SDV.gwn has address 10.8.100.26
+vls4.SEA.gwn has address 10.7.192.26
+Host vls4.SEFL.gwn not found: 3(NXDOMAIN)
+Host vls4.SEFT.gwn not found: 3(NXDOMAIN)
+Host vls4.SELE.gwn not found: 3(NXDOMAIN)
+Host vls4.SELZ-E.gwn not found: 3(NXDOMAIN)
+Host vls4.SFB.gwn not found: 3(NXDOMAIN)
+vls4.SFM.gwn has address 10.118.25.26
+vls4.SFV.gwn has address 10.8.44.26
+Host vls4.SHEC.gwn not found: 3(NXDOMAIN)
+Host vls4.SHH-E.gwn not found: 3(NXDOMAIN)
+vls4.SJC.gwn has address 10.7.40.26
+vls4.SJV.gwn has address 10.8.20.26
+vls4.SLE.gwn has address 10.5.84.26
+vls4.SMA.gwn has address 10.5.104.26
+vls4.SMM.gwn has address 10.5.238.26
+Host vls4.SMMC.gwn not found: 3(NXDOMAIN)
+vls4.SOIN.gwn has address 10.7.128.26
+vls4.SOM.gwn has address 10.7.136.26
+Host vls4.SPC.gwn not found: 3(NXDOMAIN)
+vls4.SPG.gwn has address 10.7.228.26
+vls4.SPM.gwn has address 10.7.20.26
+Host vls4.STAM.gwn not found: 3(NXDOMAIN)
+Host vls4.STAN.gwn not found: 3(NXDOMAIN)
+vls4.STJ.gwn has address 10.5.76.26
+Host vls4.STRESSLAB.gwn not found: 3(NXDOMAIN)
+vls4.STXV.gwn has address 10.8.148.26
+Host vls4.SVI.gwn not found: 3(NXDOMAIN)
+Host vls4.SVM.gwn not found: 3(NXDOMAIN)
+vls4.TAMV.gwn has address 10.8.32.26
+vls4.TBN.gwn has address 10.7.152.26
+vls4.TGEN.gwn has address 10.224.0.26
+vls4.TGS.gwn has address 10.7.148.26
+vls4.TJU.gwn has address 10.5.48.26
+Host vls4.TSIR.gwn not found: 3(NXDOMAIN)
+Host vls4.TSPE.gwn not found: 3(NXDOMAIN)
+Host vls4.TSPM.gwn not found: 3(NXDOMAIN)
+vls4.TXWE.gwn has address 10.7.116.26
+vls4.TXWO.gwn has address 10.7.112.26
+Host vls4.UCC.gwn not found: 3(NXDOMAIN)
+Host vls4.UCM.gwn not found: 3(NXDOMAIN)
+Host vls4.UKA.gwn not found: 3(NXDOMAIN)
+vls4.UMC.gwn has address 10.7.28.26
+vls4.UMI.gwn has address 10.7.64.26
+Host vls4.UPIT.gwn not found: 3(NXDOMAIN)
+vls4.UPR.gwn has address 10.7.12.26
+vls4.USC.gwn has address 10.5.96.26
+Host vls4.UTSW.gwn not found: 3(NXDOMAIN)
+Host vls4.VAL.gwn not found: 3(NXDOMAIN)
+Host vls4.VAP.gwn not found: 3(NXDOMAIN)
+vls4.VBH.gwn has address 10.5.72.26
+Host vls4.VIR-E.gwn not found: 3(NXDOMAIN)
+vls4.VMA.gwn has address 10.5.68.26
+Host vls4.VMH.gwn not found: 3(NXDOMAIN)
+vls4.VMT.gwn has address 10.5.128.26
+vls4.VVH.gwn has address 10.5.136.26
+Host vls4.VVW.gwn not found: 3(NXDOMAIN)
+Host vls4.WACV.gwn not found: 3(NXDOMAIN)
+vls4.WDCV.gwn has address 10.8.88.26
+Host vls4.WFBL.gwn not found: 3(NXDOMAIN)
+Host vls4.WFBM.gwn not found: 3(NXDOMAIN)
+Host vls4.WFDA.gwn not found: 3(NXDOMAIN)
+vls4.WHQ.gwn has address 10.7.252.26
+vls4.WILV.gwn has address 10.8.96.26
+vls4.WJM.gwn has address 10.5.250.26
+vls4.WMC.gwn has address 10.5.24.26
+vls4.WPBV.gwn has address 10.8.16.26
+Host vls4.WTXV.gwn not found: 3(NXDOMAIN)
+vls4.WWR.gwn has address 10.5.40.26

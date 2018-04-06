@@ -1,0 +1,347 @@
+10.3.23.51  appserver.PREVIEW-DHP.gwn PREVIEW-DHP.appserver.gwn
+10.3.23.115 appserver.PREVIEW-STFR.gwn PREVIEW-STFR.appserver.gwn
+10.3.23.126 appserver.PREVIEW-AUR-E.gwn PREVIEW-AUR-E.appserver.gwn
+10.3.23.64  appserver.PREVIEW-LGH-E.gwn PREVIEW-LGH-E.appserver.gwn
+10.3.23.101 appserver.PREVIEW-CHD-E.gwn PREVIEW-CHD-E.appserver.gwn
+10.3.23.87  appserver.PREVIEW-BHM.gwn PREVIEW-BHM.appserver.gwn
+10.3.23.48  appserver.PREVIEW-UTSW.gwn PREVIEW-UTSW.appserver.gwn
+10.3.23.91  appserver.PREVIEW-ASM.gwn PREVIEW-ASM.appserver.gwn
+10.3.23.70  appserver.PREVIEW-SLH.gwn PREVIEW-SLH.appserver.gwn
+10.3.23.85  appserver.PREVIEW-UTMC.gwn PREVIEW-UTMC.appserver.gwn
+10.3.23.116 appserver.PREVIEW-RRM.gwn PREVIEW-RRM.appserver.gwn
+10.3.23.76  appserver.PREVIEW-MMMC.gwn PREVIEW-MMMC.appserver.gwn
+10.3.23.35  appserver.PREVIEW-RWJ-E.gwn PREVIEW-RWJ-E.appserver.gwn
+10.9.223.10 appserver.CENH.gwn CENH.appserver.gwn CENH.gwn
+162.3.52.17 appserver.MHN-E.gwn MHN-E.appserver.gwn MHN-E.gwn nodcaplv0157-2.no.trinity-health.org
+162.3.52.17 appserver.MMD.gwn MMD.appserver.gwn MMD.gwn
+10.7.100.10 appserver.FTBV.gwn FTBV.appserver.gwn FTBV.gwn
+10.9.108.10 appserver.VAL.gwn VAL.appserver.gwn VAL.gwn
+172.28.15.5 appserver.CBO.gwn CBO.appserver.gwn CBO.gwn
+10.9.172.10 appserver.KOO.gwn KOO.appserver.gwn KOO.gwn
+10.12.240.10 appserver.LEG-E.gwn LEG-E.appserver.gwn LEG-E.gwn appserver.LEM.gwn LEM.appserver.gwn LEM.gwn
+10.12.240.10 appserver.LESC.gwn LESC.appserver.gwn LESC.gwn
+10.12.240.10 appserver.LEMA.gwn LEMA.appserver.gwn LEMA.gwn
+10.12.240.10 appserver.LEMH.gwn LEMH.appserver.gwn LEMH.gwn
+10.12.240.10 appserver.LEGS.gwn LEGS.appserver.gwn LEGS.gwn
+10.10.40.10 appserver.LGH-E.gwn LGH-E.appserver.gwn
+10.10.40.10 appserver.LGH.gwn LGH.appserver.gwn LGH.gwn
+10.10.40.10 appserver.LGS.gwn LGS.appserver.gwn LGS.gwn
+10.9.144.10  appserver.CLVT.gwn	CLVT.appserver.gwn CLVT.gwn
+10.9.144.20  apptest.CLVT.gwn appserver.CLVTTEST.gwn	CLVTTEST.appserver.gwn CLVTTEST.gwn CLVT.apptest.gwn
+10.6.12.10	appserver.FHS-E.gwn	FHS-E.appserver.gwn FHS-E.gwn
+10.6.12.20	appserver.FHSTEST.gwn	FHSTEST.appserver.gwn	FHSTEST.managegwn.com apptest.fhs-e.gwn fhs-e.apptest.gwn
+10.9.148.10	appserver.GPR.gwn	GPR.appserver.gwn GPR.gwn
+10.9.148.40	drac.appserver.GPR.gwn
+10.5.0.10	appserver.VIR-E.gwn	VIR-E.appserver.gwn VIR-E.gwn 
+10.9.120.10 appserver.SHH-E.gwn	SHH-E.appserver.gwn SHH-E.gwn
+10.9.120.10 appserver.SHEC.gwn	SHEC.appserver.gwn SHEC.gwn
+10.8.0.10	appserver.VAH-E.gwn	VAH-E.appserver.gwn VAH-E.gwn
+10.7.52.10	appserver.JDC.gwn	JDC.appserver.gwn JDC.gwn
+10.7.52.20	appserver.JDCTEST.gwn	JDCTEST.appserver.gwn JDCTEST.managegwn.com apptest.jdc.gwn jdc.apptest.gwn
+10.5.48.10	appserver.TJU.gwn	TJU.appserver.gwn TJU.gwn
+10.5.48.20	apptest.TJU.gwn appserver.TJUTEST.gwn	TJUTEST.appserver.gwn TJUTEST.managegwn.com TJUTEST.gwn TJU.apptest.gwn
+10.5.28.10	appserver.RSE.gwn	RSE.appserver.gwn RSE.gwn	
+10.5.28.53 	appserver.vmrse.gwn	vmrse.appserver.gwn	appserver.rsetest.gwn	rsetest.appserver.gwn 	rsetest.managegwn.com
+#10.7.132.10	appserver.LEM.gwn	LEM.appserver.gwn LEM.gwn
+10.7.72.10	appserver.LAH.gwn	LAH.appserver.gwn LAH.gwn
+10.5.140.10	appserver.COM-E.gwn	COM-E.appserver.gwn COM-E.gwn appserver.CHE.gwn CHE.appserver.gwn CHE.gwn
+10.7.56.10	appserver.CMC-E.gwn	CMC-E.appserver.gwn CMC-E.gwn
+10.5.228.10	appserver.ACD.gwn	ACD.appserver.gwn	ACD.gwn
+10.5.220.10	appserver.AHA.gwn	AHA.appserver.gwn	AHA.gwn
+10.9.152.10     appserver.ASH.gwn       ASH.appserver.gwn       ASH.gwn
+## BIV using redundant appserver as single site
+10.8.4.10	appserver.BIV.gwn	BIV.appserver.gwn	BIV.gwn
+10.7.212.10	appserver.BWO.gwn	BWO.appserver.gwn	BWO.gwn	BWO.managegwn.com
+10.5.52.10	appserver.CAC.gwn	CAC.appserver.gwn	CAC.gwn
+10.7.48.10	appserver.CAL.gwn	CAL.appserver.gwn	CAL.gwn
+10.7.44.10	appserver.CAR.gwn	CAR.appserver.gwn CAR.gwn
+10.9.207.10	appserver.CEBG.gwn CEBG.appserver.gwn CEBG.gwn
+10.9.207.40	drac.appserver.CEBG.gwn
+10.7.56.10	appserver.CCL.gwn	CCL.appserver.gwn CCL.gwn
+204.130.8.10 appserver.CCMC.gwn CCMC.appserver.gwn CCMC.gwn
+## CFR  (using single centralized appserver!)
+10.7.56.10	appserver.CMC-E.gwn	CMC-E.appserver.gwn  appserver.CFR.gwn	CFR.appserver.gwn CMC-E.gwn CFR.gwn
+10.7.8.10	appserver.CHA.gwn	CHA.appserver.gwn CHA.gwn
+10.5.144.10	appserver.CHC.gwn	CHC.appserver.gwn	CHC.gwn	appserver.cwm.gwn	cwm.appserver.gwn cwm.gwn
+10.5.144.20	appserver.CHCTEST.gwn	CHCTEST.appserver.gwn	CHCTEST.managegwn.com apptest.chc.gwn chc.apptest.gwn
+66.128.218.111 appserver.CHCO.gwn CHCO.appserver.gwn
+10.9.226.10 appserver.CIM.gwn CIM.appserver.gwn CIM.gwn
+10.250.18.198 appserver.CHD-E.gwn CHD-E.appserver.gwn CHD-E.gwn
+10.250.18.198 appserver.CMCD.gwn CMCD.appserver.gwn ILAX.gwn
+10.250.18.198 appserver.CMCP.gwn CMCP.appserver.gwn CMCP.gwn
+## CHE (using central appserver COM-E)
+10.5.140.10	appserver.CHE.gwn	CHE.appserver.gwn CHE.gwn
+## CHN (using central appserver COM-E)
+10.5.140.10	appserver.CHN.gwn	CHN.appserver.gwn CHN.gwn
+192.168.14.34	appserver.cccdev.gwn
+10.108.0.20	appserver.CLA.gwn	CLA.appserver.gwn	CLA.gwn
+10.108.0.26	appserver.CLATEST.gwn	CLATEST.appserver.gwn	appserver.vmcla.gwn	vmcla.appserver.gwn CLATEST.managegwn.com apptest.cla.gwn
+10.242.200.10	appserver.CME.gwn	CME.appserver.gwn	CME.gwn
+10.9.224.10 appserver.CMM.gwn CMM.appserver.gwn CMM.gwn
+10.5.16.10	appserver.CNM.gwn	CNM.appserver.gwn	CNM.gwn
+10.5.120.10	appserver.COC.gwn	COC.appserver.gwn	COC.gwn
+10.7.140.10	appserver.CSP.gwn	CSP.appserver.gwn	CSP.gwn
+10.7.140.40	drac.appserver.CSP.gwn
+10.8.140.10	appserver.CTXV.gwn	CTXV.appserver.gwn	CTXV.gwn
+10.8.140.40	drac.appserver.CTXV.gwn
+10.5.242.10	appserver.DCH.gwn	DCH.appserver.gwn	DCH.gwn
+10.13.253.10 appserver.DACH.gwn DACH.appserver.gwn DACH.gwn
+10.9.194.10 appserver.DHP.gwn DHP.appserver.gwn
+10.7.180.10	appserver.DSJ.gwn	DSJ.appserver.gwn	DSJ.gwn	appserver.DSJW.gwn	DSJW.appserver.gwn      DSJW.gwn
+10.7.180.20	appserver.DSJTEST.gwn	DSJTEST.appserver.gwn	DSJTEST.managegwn.com apptest.dsj.gwn
+10.5.12.10	appserver.DUP.gwn	DUP.appserver.gwn	DUP.gwn
+10.5.12.20	appserver.DUPTEST.gwn	DUPTEST.appserver.gwn	appserver.vmdup.gwn	vmdup.appserver.gwn DUPTEST.gwn DUPTEST.managegwn.com apptest.dup.gwn
+10.7.168.10	appserver.EMO.gwn	EMO.appserver.gwn	EMO.gwn
+10.9.198.10 appserver.EPC.gwn EPC.appserver.gwn EPC.gwn
+10.8.8.10	appserver.ERV.gwn	ERV.appserver.gwn	ERV.gwn
+10.136.74.10 appserver.EWH.gwn EWH.appserver.gwn EWH.gwn
+## FCE using central appserver
+10.6.12.10	appserver.FCE.gwn	FCE.appserver.gwn FCE.gwn
+10.6.12.10	appserver.FEO.gwn	FEO.appserver.gwn	FEO.gwn
+10.6.0.10	appserver.FFL.gwn	FFL.appserver.gwn	FFL.gwn
+10.6.28.10      appserver.foc.gwn	foc.appserver.gwn      foc.gwn
+10.6.28.40	drac.appserver.foc.gwn
+10.6.20.10	appserver.FOM.gwn	FOM.appserver.gwn	FOM.gwn
+10.6.12.10	appserver.FOR.gwn	FOR.appserver.gwn FOR.gwn appserver.FORC.gwn	FORC.appserver.gwn FORC.gwn
+10.6.24.10	appserver.FWS.gwn	FWS.appserver.gwn	FWS.gwn
+10.7.176.10	appserver.GLM.gwn	GLM.appserver.gwn GLM.gwn
+10.7.176.20	appserver.GLMTEST.gwn	GLMTEST.appserver.gwn	GLMTEST.managegwn.com	GLMTEST.gwn apptest.glm.gwn
+10.220.0.10 	appserver.GSM.gwn GSM.appserver.gwn GSM.gwn
+10.7.120.10	appserver.GTU.gwn	GTU.appserver.gwn	GTU.gwn
+10.5.80.10	appserver.HAS.gwn	HAS.appserver.gwn	HAS.gwn
+10.5.112.10	appserver.HFB.gwn	HFB.appserver.gwn	HFB.gwn
+172.16.52.10 appserver.HNMC.gwn HNMC.appserver.gwn HNMC.gwn
+10.5.124.10	appserver.HVS.gwn	HVS.appserver.gwn	HVS.gwn
+10.7.236.10	appserver.IAC.gwn	IAC.appserver.gwn	IAC.gwn
+10.5.60.10	appserver.IFO.gwn	IFO.appserver.gwn	IFO.gwn
+167.201.249.230 appserver.INV-E.gwn INV-E.appserver.gwn INV-E.gwn
+167.201.249.230 appserver.IALX.gwn IALX.appserver.gwn ILAX.gwn
+167.201.249.230 appserver.ILO.gwn ILO.appserver.gwn ILO.gwn
+#167.201.249.230 appserver.IFO.gwn IFO.appserver.gwn IFO.gwn
+10.5.176.10	appserver.JMO.gwn	JMO.appserver.gwn	JMO.gwn
+172.22.183.23   appserver.KBP.gwn       KBP.appserver.gwn       KBP.gwn
+172.20.58.177   appserver.KBPTEST.gwn       KBPTEST.appserver.gwn       KBPTEST.gwn
+10.5.32.10	appserver.KCH.gwn	KCH.appserver.gwn	KCH.gwn
+10.10.20.10 appserver.USCK.gwn USCK.appserver.gwn USCK.gwn appserver.KCHSL.gwn KCHSL.appserver.gwn KCHSL.gwn
+10.7.104.10	appserver.KOC.gwn	KOC.appserver.gwn	KOC.gwn
+172.22.183.23   appserver.KPC.gwn       KPC.appserver.gwn       KPC.gwn
+172.20.58.177   appserver.KPCTEST.gwn       KPCTEST.appserver.gwn       KPCTEST.gwn
+10.5.249.10	appserver.KSC.gwn	KSC.appserver.gwn	KSC.gwn
+172.22.183.23   appserver.KSD.gwn       KSD.appserver.gwn       KSD.gwn
+172.20.58.177   appserver.KSDTEST.gwn       KSDTEST.appserver.gwn       KSDTEST.gwn
+#10.7.124.10	appserver.KWLA.gwn	KWLA.appserver.gwn	KWLA.gwn
+#10.5.232.10	appserver.LLE.gwn	LLE.appserver.gwn	LLE.gwn
+#10.5.248.10	appserver.LLH.gwn	LLH.appserver.gwn	LLH.gwn
+#10.7.80.10	appserver.LPC.gwn	LPC.appserver.gwn	LPC.gwn
+10.251.224.10	appserver.LPC.gwn 	LPC.appserver.gwn 	LPC.gwn
+10.9.188.10 appserver.LBM.gwn LBM.appserver.gwn LBM.gwn
+10.9.200.12	appserver.MCH.gwn	MCH.appserver.gwn	MCH.gwn
+10.5.168.10	appserver.MCR.gwn	MCR.appserver.gwn MCR.gwn
+10.5.168.20	MCRTEST.gwn apptest.MCR.gwn appserver.MCRTEST.gwn	MCRTEST.appserver.gwn MCRTEST.managegwn.com apptest.mcr.gwn mcr.apptest.gwn
+10.8.12.10	appserver.MIAV.gwn	MIAV.appserver.gwn	MIAV.gwn
+10.1.2.10	appserver.MIL.gwn	MIL.appserver.gwn	MIL.gwn
+10.5.246.10	appserver.MMW.gwn	MMW.appserver.gwn	MMW.gwn
+10.5.224.10	appserver.MMB.gwn	MMB.appserver.gwn	MMB.gwn
+10.1.5.37 	appserver.MMBTEST.gwn	MMBTEST.appserver.gwn	MMBTEST.managegwn.com apptest.MMBTEST.gwn apptest.mmb.gwn
+10.5.172.10	appserver.MON.gwn	MON.appserver.gwn	MON.gwn
+10.5.245.10	appserver.MSK.gwn	MSK.appserver.gwn	MSK.gwn
+10.7.16.10	appserver.NAC.gwn	NAC.appserver.gwn	NAC.gwn 
+10.7.16.20	apptest.NAC.gwn appserver.NACTEST.gwn	NACTEST.appserver.gwn NACTEST.managegwn.com apptest.nac.gwn nac.apptest.gwn
+10.5.249.10	appserver.NBB.gwn	NBB.appserver.gwn	NBB.gwn
+10.7.32.10	appserver.NEM.gwn	NEM.appserver.gwn	NEM.gwn
+10.7.184.10	appserver.NOR.gwn	NOR.appserver.gwn	NOR.gwn
+10.7.184.20	NOR.apptest.gwn apptest.NOR.gwn appserver.NORTEST.gwn	NORTEST.appserver.gwn NORTEST.gwn NORTEST.managegwn.com apptest.nor.gwn
+#10.7.84.10	appserver.NSD.gwn	NSD.appserver.gwn	NSD.gwn
+10.8.156.10 appserver.NTXV.gwn	NTXV.appserver.gwn	NTXV.gwn
+10.7.24.10	appserver.NWO.gwn	NWO.appserver.gwn	NWO.gwn
+10.7.238.10 appserver.OCM.gwn OCM.appserver.gwn OCM.gwn
+10.7.238.20 appserver.OCMTEST.gwn OCMTEST.appserver.gwn OCMTEST.gwn OCMTEST.managegwn.com apptest.OCM.gwn OCM.apptest.gwn
+137.53.246.29 appserver.OHS.gwn OHS.appserver.gwn OHS.gwn
+10.7.0.10	appserver.OLA.gwn	OLA.appserver.gwn	OLA.gwn
+10.7.0.10	appserver.OLAC.gwn	OLAC.appserver.gwn	OLAC.gwn
+10.7.4.10	appserver.OLO.gwn	OLO.appserver.gwn	OLO.gwn
+10.9.228.10      appserver.OSO.gwn       OSO.appserver.gwn       OSO.gwn
+## PAH (using centralized appserver at LAH)
+10.7.72.10	appserver.PAH.gwn	PAH.appserver.gwn	PAH.gwn
+10.7.220.10	appserver.PSHC.gwn	PSHC.appserver.gwn	PSHC.gwn
+10.5.168.10	appserver.PVH.gwn	PVH.appserver.gwn	PVH.gwn
+10.5.8.10	appserver.RDL.gwn	RDL.appserver.gwn	RDL.gwn
+10.5.28.51 	appserver.vmrdl.gwn	vmrdl.appserver.gwn	appserver.rdltest.gwn	rdltest.appserver.gwn RDLTEST.managegwn.com apptest.rdl.gwn
+10.5.132.10	appserver.RSM.gwn	RSM.appserver.gwn	RSM.gwn
+10.5.28.52 	appserver.vmrsm.gwn	vmrsm.appserver.gwn	appserver.rsmtest.gwn	rsmtest.appserver.gwn	RSMTEST.managegwn.com apptest.rsm.gwn
+10.7.192.10	appserver.SEA.gwn	SEA.appserver.gwn	SEA.gwn
+10.118.25.10	appserver.SFM.gwn	SFM.appserver.gwn	SFM.gwn
+10.118.25.10	appserver.SFMC.gwn	SFMC.appserver.gwn	SFMC.gwn
+10.7.40.10	appserver.SJC.gwn	SJC.appserver.gwn	SJC.gwn
+10.5.160.10	appserver.SJL.gwn	SJL.appserver.gwn	SJL.gwn
+10.5.84.10	appserver.SLE.gwn	SLE.appserver.gwn	SLE.gwn
+10.5.84.20 	appserver.SLETEST.gwn	SLETEST.appserver.gwn SLETEST.gwn apptest.SLE.gwn SLETEST.managegwn.com apptest.sle.gwn sle.apptest.gwn
+10.5.104.10	appserver.SMA.gwn	SMA.appserver.gwn	SMA.gwn
+10.5.238.10	appserver.SMM.gwn	SMM.appserver.gwn	SMM.gwn
+10.9.230.10     appserver.SMMC.gwn       SMMC.appserver.gwn       SMMC.gwn
+10.7.128.10	appserver.SOIN.gwn	SOIN.appserver.gwn	SOIN.gwn
+10.7.128.20	appserver.SOINTEST.gwn	SOINTEST.appserver.gwn	SOINTEST.managegwn.com apptest.soin.gwn soin.apptest.gwn
+10.7.136.10	appserver.SOM.gwn	SOM.appserver.gwn	SOM.gwn
+10.7.228.10	appserver.SPG.gwn	SPG.appserver.gwn	SPG.gwn
+10.7.228.20	appserver.SPGTEST.gwn	SPGTEST.appserver.gwn	SPGTEST.gwn	SPGTEST.managegwn.com apptest.spg.gwn spg.apptest.gwn
+10.7.20.10      appserver.SPM.gwn	SPM.appserver.gwn spm.managegwn.com      
+10.7.20.20      appserver.SPMTEST.gwn	SPMTEST.appserver.gwn   SPMTEST.gwn	SPMTEST.managegwn.com apptest.spm.gwn spm.apptest.gwn
+10.7.20.10      appserver.SPMB.gwn	SPMB.appserver.gwn      SPMB.gwn
+10.5.76.10	appserver.STJ.gwn	STJ.appserver.gwn	STJ.gwn
+10.60.2.10 appserver.STAM.gwn STAM.appserver.gwn STAM.gwn
+#10.5.40.10	appserver.SVB.gwn	SVB.appserver.gwn	SVB.gwn
+#10.9.221.10     appserver.SVI.gwn       SVI.appserver.gwn       SVI.gwn
+10.10.24.11 appserver.SVIN-E.gwn SVIN-E.appserver.gwn SVIN-E.gwn
+10.10.24.11 appserver.SVC.gwn SVC.appserver.gwn SVC.gwn
+10.10.24.11 appserver.SVF.gwn SVF.appserver.gwn SVF.gwn
+10.10.24.11 appserver.SVI.gwn SVI.appserver.gwn SVI.gwn
+10.9.192.10 appserver.SVM.gwn SVM.appserver.gwn SVM.gwn
+10.5.136.10	appserver.SWC.gwn	SWC.appserver.gwn	SWC.gwn
+10.9.242.10 appserver.SWCSL.gwn SWCSL.appserver.gwn SWCSL.gwn
+10.5.236.10	appserver.TIH.gwn	TIH.appserver.gwn	TIH.gwn
+10.7.148.10	appserver.TBN.gwn	TBN.appserver.gwn	TBN.gwn
+10.7.148.10	appserver.TGS.gwn	TGS.appserver.gwn TGS.gwn
+10.7.148.10     appserver.BEBU.gwn       BEBU.appserver.gwn       BEBU.gwn
+10.7.148.10 appserver.MCM.gwn MCM.appserver.gwn MCM.gwn
+10.7.116.10	appserver.TXWE.gwn	TXWE.appserver.gwn	TXWE.gwn
+10.1.3.89	appserver.TXWETEST.gwn	TXWETEST.appserver.gwn	TXWETEST.managegwn.com apptest.txwe.gwn
+10.7.112.10	appserver.TXWO.gwn	TXWO.appserver.gwn	TXWO.gwn
+10.1.3.68	appserver.TXWOTEST.gwn	TXWOTEST.appserver.gwn	TXWOTEST.managegwn.com apptest.txwo.gwn
+165.68.88.23	appserver.UCC.gwn	UCC.appserver.gwn	UCC.gwn
+165.68.88.23	appserver.UCM.gwn	UCM.appserver.gwn UCM.gwn	
+165.68.88.30	appserver.UCMTEST.gwn	UCMTEST.appserver.gwn UCMTEST.gwn apptest.UCM.gwn	UCMTEST.managegwn.com apptest.ucm.gwn ucm.apptest.gwn
+10.7.28.10	appserver.UMC.gwn	UMC.appserver.gwn	UMC.gwn
+10.111.136.20   appserver.UKA.gwn       UKA.appserver.gwn       UKA.gwn
+10.111.136.20   appserver.UKA.gwn	UKA.appserver.gwn	UKA.gwn
+10.7.64.10	appserver.UMI.gwn	UMI.appserver.gwn	UMI.gwn
+10.7.64.10	appserver.UMIW.gwn	UMIW.appserver.gwn	UMIW.gwn
+10.7.64.10	appserver.UMIA.gwn	UMIA.appserver.gwn	UMIA.gwn
+10.24.114.10	appserver.UPIT.gwn	UPIT.appserver.gwn	UPIT.gwn
+10.7.12.10	appserver.UPR.gwn	UPR.appserver.gwn	UPR.gwn
+10.5.96.10	appserver.USC.gwn	USC.appserver.gwn	USC.gwn
+198.241.19.204      appserver.UTSW.gwn       UTSW.appserver.gwn       UTSW.gwn
+10.131.6.10	appserver.VAP.gwn	VAP.appserver.gwn	VAP.gwn
+## VBH using central appserver
+10.5.0.10	appserver.VBH.gwn	VBH.appserver.gwn	VBH.gwn
+10.5.0.10	appserver.VMA.gwn	VMA.appserver.gwn	VMA.gwn
+10.170.4.10	appserver.VMC.gwn	VMC.appserver.gwn	VMC.gwn
+10.5.0.10	appserver.VMH.gwn	VMH.appserver.gwn	VMH.gwn
+10.5.0.10	appserver.VMT.gwn	VMT.appserver.gwn	VMT.gwn
+## VVH using central appserver
+10.5.0.10	appserver.VVH.gwn	VVH.appserver.gwn	VVH.gwn
+## VVW using central appserver - VIR-E
+10.5.0.10	appserver.VVW.gwn	VVW.appserver.gwn	VVW.gwn
+10.20.30.210 appserver.WFBM.gwn WFBM.appserver.gwn WFBM.gwn
+10.20.30.210 appserver.WFBL.gwn WFBL.appserver.gwn WFBL.gwn
+10.20.30.210 appserver.WFDA.gwn WFDA.appserver.gwn WFDA.gwn
+10.20.30.210 appserver.WFBD.gwn WFBD.appserver.gwn WFBD.gwn
+10.5.252.10	appserver.WHQ.gwn	WHQ.appserver.gwn	WHQ.gwn
+10.7.252.110	appserver.ras-whq.gwn	ras-whq.appserver.gwn
+10.5.250.10	appserver.WJM.gwn	WJM.appserver.gwn	WJM.gwn
+10.5.24.10	appserver.WMC.gwn	WMC.appserver.gwn	WMC.gwn
+10.1.3.51	appserver.WMCTEST.gwn	WMCTEST.appserver.gwn	WMCTEST.managegwn.com apptest.wmc.gwn
+10.5.40.10	appserver.WWR.gwn	WWR.appserver.gwn	WWR.gwn
+10.8.48.10	appserver.PIUV.gwn	PIUV.appserver.gwn	PIUV.gwn
+10.8.52.10      appserver.PIJV.gwn	PIJV.appserver.gwn      PIJV.gwn
+10.8.68.10      appserver.MARV.gwn	MARV.appserver.gwn      MARV.gwn
+10.8.56.10      appserver.WBV.gwn	WBV.appserver.gwn      WBV.gwn
+10.8.44.10	appserver.SFV.gwn	SFV.appserver.gwn	SFV.gwn
+10.8.16.10      appserver.WPBV.gwn	WPBV.appserver.gwn       WPBV.gwn
+10.8.60.10      appserver.RICV.gwn	RICV.appserver.gwn       RICV.gwn
+10.8.32.10      appserver.TAMV.gwn	TAMV.appserver.gwn       TAMV.gwn
+10.7.200.10      appserver.CIN.gwn	CIN.appserver.gwn appserver.CIL.gwn	CIL.appserver.gwn appserver.CICH.gwn	CICH.appserver.gwn CIN.gwn CIL.gwn CICH.gwn
+10.7.200.20 	 appserver.CINTEST.gwn	CINTEST.appserver.gwn	CINTEST.managegwn.com	apptest.CIN.gwn CIN.apptest.gwn
+10.7.196.10      appserver.NSB.gwn	NSB.appserver.gwn      NSB.gwn
+10.8.24.10      appserver.LCV.gwn	LCV.appserver.gwn      LCV.gwn
+10.8.28.10      appserver.GAIV.gwn	GAIV.appserver.gwn      GAIV.gwn
+10.8.36.10      appserver.BPV.gwn	BPV.appserver.gwn      BPV.gwn
+10.7.72.10       appserver.CAH.gwn	CAH.appserver.gwn       CAH.gwn
+10.8.72.10      appserver.LFV.gwn	LFV.appserver.gwn      LFV.gwn
+10.8.76.10      appserver.LAV.gwn	LAV.appserver.gwn      LAV.gwn
+10.6.32.10      appserver.FCAR.gwn	FCAR.appserver.gwn      FCAR.gwn
+10.8.92.10      appserver.MDV.gwn	MDV.appserver.gwn      MDV.gwn
+## CFE (using centralized appserver at CMC-E
+10.7.56.10      appserver.CMC-E.gwn	CMC-E.appserver.gwn  appserver.CFE.gwn	CFE.appserver.gwn  
+10.9.251.10      appserver.BAY-E.gwn	BAY-E.appserver.gwn      
+10.9.251.10 appserver.BWH.gwn BWH.appserver.gwn BWH.gwn
+10.9.251.10 appserver.BWW.gwn BWW.appserver.gwn BWW.gwn
+10.9.251.10 appserver.BRMC.gwn BRMC.appserver.gwn BRMC.gwn
+10.9.251.10      appserver.MED.gwn	MED.appserver.gwn      MED.gwn
+10.9.251.10      appserver.MEC.gwn	MEC.appserver.gwn      MEC.gwn
+10.9.251.10      appserver.MPL.gwn	MPL.appserver.gwn      MPL.gwn
+10.9.251.10      appserver.MPN.gwn	MPN.appserver.gwn      MPN.gwn
+10.9.251.10      appserver.BJN.gwn	BJN.appserver.gwn      BJN.gwn
+10.9.251.10     appserver.SFB.gwn	SFB.appserver.gwn      SFB.gwn
+10.9.251.10     appserver.SAN.gwn	SAN.appserver.gwn      SAN.gwn
+10.8.64.10      appserver.EOV.gwn	EOV.appserver.gwn      EOV.gwn
+10.7.144.10      appserver.NCP.gwn	NCP.appserver.gwn      NCP.gwn
+10.9.251.10     appserver.BJW.gwn	BJW.appserver.gwn      BJW.gwn
+10.9.251.10     appserver.BJC.gwn	BJC.appserver.gwn      BJC.gwn
+10.9.251.10     appserver.BJM.gwn	BJM.appserver.gwn      BJM.gwn
+10.9.251.10	appserver.BJS.gwn	BJS.appserver.gwn	BJS.gwn
+10.8.96.10      appserver.WILV.gwn	WILV.appserver.gwn      WILV.gwn
+10.8.40.10      appserver.ORLV.gwn	ORLV.appserver.gwn      ORLV.gwn
+10.8.20.10      appserver.SJV.gwn	SJV.appserver.gwn      SJV.gwn
+10.8.80.10      appserver.FARV.gwn	FARV.appserver.gwn      FARV.gwn
+10.9.76.10      appserver.PNM.gwn	PNM.appserver.gwn      PNM.gwn
+10.9.76.20	appserver.PNMTEST.gwn	PNMTEST.appserver.gwn PNMTEST.gwn apptest.PNM.gwn PNM.managegwn.com PNM.apptest.gwn
+10.8.88.10      appserver.WDCV.gwn	WDCV.appserver.gwn      WDCV.gwn
+10.8.20.10      appserver.SJV.gwn	SJV.appserver.gwn      SJV.gwn
+10.224.0.10      appserver.TGEN.gwn	TGEN.appserver.gwn      TGEN.gwn
+10.224.0.20	 TGENTEST.gwn TGEN.apptest.gwn apptest.TGEN.gwn appserver.TGENTEST.gwn	TGENTEST.appserver.gwn TGENTEST.managegwn.com
+10.238.3.131    appserver.KGAR.gwn	KGAR.appserver.gwn  KGAR.managegwn.com  KGAR.gwn  SGCGWAPP1.sgc.ca.kp.org
+10.238.3.130    drac.appserver.KGAR.gwn
+# dunno the final IPs fo the KOAK appserver yet
+172.20.58.43	appserver.KPNCTEST.gwn	KPNCTEST.appserver.gwn KPNCTEST.gwn apptest.kpnc.gwn
+172.20.58.177   appserver.KPSCTEST.gwn	KPSCTEST.appserver.gwn apptest.kpsc.gwn
+172.18.120.102	appserver.kpnc-e.gwn	kpnc-e.appserver.gwn appserver.koak.gwn	koak.appserver.gwn appserver.ksle.gwn	ksle.appserver.gwn appserver.kred.gwn	kred.appserver.gwn kpnc-e.gwn koak.gwn ksle.gwn kred.gwn
+# Kaiser Southern Cal Centralized Appserver
+172.20.58.177   appserver.KPSCTEST.gwn	KPSCTEST.appserver.gwn KPSCTEST.gwn  kpsctest.managegwn.com apptest.kpsctest.gwn
+172.22.183.23   appserver.kpsc-e.gwn	kpsc-e.appserver.gwn   kpsc-e.gwn    kpsc-e.managegwn.com	appserver.KBP.gwn	KBP.appserver.gwn KBP.gwn KBP.managegwn.com
+10.8.100.10      appserver.SDV.gwn	SDV.appserver.gwn      SDV.gwn
+10.10.12.10      appserver.READ.gwn	READ.appserver.gwn      READ.gwn
+10.9.88.10      appserver.CARO.gwn	CARO.appserver.gwn      CARO.gwn
+10.8.104.10      appserver.LEBV.gwn	LEBV.appserver.gwn      LEBV.gwn
+10.9.84.10	appserver.car-e.gwn	car-e.appserver.gwn car-e.gwn appserver.CRKM.gwn	CRKM.appserver.gwn appserver.CRCL.gwn CRCL.appserver.gwn
+10.9.84.10	appserver.CRNE.gwn	CRNE.appserver.gwn CRNE.gwn
+10.9.84.10      appserver.CRLE.gwn	CRLE.appserver.gwn      CRLE.gwn
+10.9.0.20       appserver.CRLETEST.gwn	CRLETEST.appserver.gwn	CRLETEST.managegwn.com apptest.CRLE.gwn apptest.CAR-E.gwn CAR-E.apptest.gwn
+#10.3.3.136      appserver.HOSTED-CRLE.gwn	HOSTED-CRLE.appserver.gwn	HOSTED-CRLE.managegwn.com
+10.9.84.10	appserver.CRUV.gwn	CRUV.appserver.gwn CRUV.gwn 
+10.9.84.10  appserver.CRUN.gwn	CRUN.appserver.gwn CRUN.gwn 
+10.9.84.10	appserver.CRME.gwn	CRME.appserver.gwn CRME.gwn 
+10.9.84.10	appserver.CRNE.gwn	CRNE.appserver.gwn CRNE.gwn 
+10.9.84.10  appserver.CRLI.gwn	CRLI.appserver.gwn  CRLI.gwn
+10.9.84.10  appserver.CRPI.gwn	CRPI.appserver.gwn CRPI.gwn
+10.9.84.10  appserver.STAN.gwn  STAN.appserver.gwn  STAN.gwn
+10.9.84.10  appserver.CBR.gwn  CBR.appserver.gwn  CBR.gwn
+10.8.112.10      appserver.TUCV.gwn	TUCV.appserver.gwn      TUCV.gwn
+10.8.108.10      appserver.PHOV.gwn	PHOV.appserver.gwn      PHOV.gwn
+10.8.116.10      appserver.WTXV.gwn	WTXV.appserver.gwn      WTXV.gwn
+10.8.148.10      appserver.STXV.gwn	STXV.appserver.gwn      STXV.gwn
+10.8.124.10      appserver.AMV.gwn	AMV.appserver.gwn      AMV.gwn
+10.9.100.10      appserver.EXSJ.gwn	EXSJ.appserver.gwn      EXSJ.gwn
+10.9.100.20	 appserver.EXSJTEST.gwn	EXSJTEST.appserver.gwn EXSJTEST.gwn apptest.EXSJ.gwn	EXSJTEST.managegwn.com EXSJ.apptest.gwn
+10.9.163.10 appserver.SELZ-E.gwn	SELZ-E.appserver.gwn SELZ-E.gwn SELE.gwn appserver.SELE.gwn	SELE.appserver.gwn SEFL.gwn appserver.SEFL.gwn	SEFL.appserver.gwn SEFT.gwn appserver.SEFT.gwn	SEFT.appserver.gwn
+10.9.124.10	appserver.TSPM.gwn	TSPM.appserver.gwn	TSPM.gwn
+10.9.124.10	appserver.TSIR.gwn	TSIR.appserver.gwn	TSIR.gwn
+10.9.124.10	appserver.TSPE.gwn	TSPE.appserver.gwn	TSPE.gwn
+10.8.120.10      appserver.RAYV.gwn	RAYV.appserver.gwn      RAYV.gwn
+10.9.136.10      appserver.CMS.gwn	CMS.appserver.gwn CMS.gwn appserver.CMG.gwn	CMG.appserver.gwn CMG.gwn appserver.CMG-E.gwn	CMG-E.appserver.gwn CMG-E.gwn
+10.9.136.20      CMGTEST.gwn CMG.apptest.gwn apptest.CMG.gwn appserver.CMGTEST.gwn	CMGTEST.appserver.gwn CMGTEST.gwn	CMGTEST.managegwn.com
+10.8.152.10      appserver.SAMV.gwn	SAMV.appserver.gwn      SAMV.gwn
+10.9.132.10      appserver.SPC.gwn	SPC.appserver.gwn      SPC.gwn
+10.9.132.20      SPCTEST.gwn SPC.apptest.gwn apptest.SPC.gwn appserver.SPCTEST.gwn	SPCTEST.appserver.gwn	SPCTEST.managegwn.com apptest.spc.gwn
+10.9.96.10      appserver.MOF.gwn	MOF.appserver.gwn      MOF.gwn
+10.8.132.10     appserver.PRSV.gwn	PRSV.appserver.gwn      PRSV.gwn
+10.8.144.10 appserver.KERV.gwn	KERV.appserver.gwn KERV.gwn
+10.8.136.10 appserver.wacv.gwn	wacv.appserver.gwn wacv.gwn
+10.8.140.10 appserver.ctxv.gwn	ctxv.appserver.gwn 
+10.9.232.10 appserver.HOA.gwn HOA.appserver.gwn HOA.gwn
+10.9.232.10 appserver.HHI.gwn HHI.appserver.gwn HHI.gwn
+10.9.235.10 appserver.HOI.gwn HOI.appserver.gwn HOI.gwn HOI.managegwn.com
+10.9.235.40 drac.appserver.HOI.gwn
+10.248.167.10 appserver.STFR.gwn STFR.appserver.gwn
+10.10.28.21 appserver.MUBHP.gwn MUBHP.appserver.gwn
+10.10.128.10 appserver.BHM.gwn BHM.appserver.gwn
+10.10.0.10 appserver.UTM.gwn UTM.appserver.gwn

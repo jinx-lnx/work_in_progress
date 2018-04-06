@@ -1,0 +1,11 @@
+---
+# NOTE this playbook will often succeed where there are actually failures.  It serves as a complete example of how to get debug output from a task run, and also a way to see what is actually coming back in the result.  The failure modes should all be captured via failed_when conditionals in a "real" task. :)
+- gather_facts: False
+  user: gwnadmin
+  name: debug test
+  hosts: all
+  tasks:
+    - name: connect and run a noop command
+      raw: racadm help
+      register: result
+    - debug: var=result

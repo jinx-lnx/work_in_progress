@@ -1,0 +1,14 @@
+---
+- gather_facts: False
+  name: pxebootonce
+  hosts: all
+  tasks:
+    - name: Enables one time boot selection
+      raw: racadm config -g cfgServerInfo -o cfgServerBootOnce 1
+      register: result
+    - name: Set first boot device to PXE
+      raw: racadm config -g cfgServerInfo -o cfgServerFirstBootDevice PXE
+      register: result
+    - name: Reboot
+      raw: racadm serveraction powercycle
+      register: result

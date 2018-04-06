@@ -1,0 +1,11 @@
+[appservers.read.drac]
+ras1.read.drac.gwn ansible_host=10.10.12.44
+ras2.read.drac.gwn ansible_host=10.10.12.45
+
+[videoservers.read.drac]
+vls1.read.drac.gwn ansible_host=10.10.12.49
+vls2.read.drac.gwn ansible_host=10.10.12.48
+
+[read.drac.datacenter:children]
+appservers.read.drac
+videoservers.read.drac

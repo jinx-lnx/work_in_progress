@@ -1,0 +1,171 @@
+## Author: Ben Barrows
+## bbarrows@getwellnetwork.com
+## Tested only on Ansible 2.2.0.0
+
+- name: Install Latest HWE Stack on Ubuntu Servers
+# If not hardcoding host here, add --extra-vars"=hosts=host.sub.tld"
+# quotes included, on the command line and uncomment next line; else uncomment single host line below
+  serial: 50
+
+  hosts: '{{ hosts }}' ##command-line variable args
+#  hosts: vlsx.site.gwn ##hardcoded/single host
+
+  user: root ##Default user as our SSH keys are added to root's keyring
+
+  vars:
+#If not hardcoding maintenance duration here, add --extra-vars"=duration=30"
+## quotes included, on the command line and uncomment next line; else uncomment single host line below
+    maint_dur: '{{ duration }}' ##How long your maintenance windows is planned for
+#  maint_dur: 60
+
+  tasks:
+    - name: Checking For Acceptable Boot Partition Size
+      tags: checks,diskcheck
+      shell: /bin/df -H /boot | awk 'END { print $2 }' |cut -f1 -dM
+      register: boot_size_output
+      failed_when: boot_size_output.stdout|int < 271
+#    - debug:
+#        msg: "System {{ inventory_hostname }} has an acceptable boot partition size of {{ boot_size_output.stdout }}, thus OK to proceed"
+
+    - name: Checking For Video Streams
+      uri:
+        method: GET
+        url: 'http://localhost/status/lighttpd?auto'
+        return_content: yes
+      register: video_stream_status
+      tags: checks
+      failed_when: "'Scoreboard: W' in video_stream_status.content"
+    - debug:
+         msg: "System {{ inventory_hostname }} has ZERO active video streams, thus OK to proceed"
+
+    - name: Scheduling a "{{ maint_dur }}" Minute Maintenance Window in Nagios for host "{{ inventory_hostname }}"
+      delegate_to: nagios.hq
+      tags: scheduling
+      nagios:
+        action: downtime
+        minutes: "{{ maint_dur }}"
+        service: host
+        comment: 'Scheduled DevOps Maintenance'
+        host: "{{ inventory_hostname }}"
+
+    - name: Scheduling a "{{ maint_dur }}" Minute Maintenance Window in Nagios FOR ALL SERVICES on host "{{ inventory_hostname }}"
+      delegate_to: nagios.hq
+      tags: scheduling
+      nagios:
+        action: downtime
+        minutes: "{{ maint_dur }}"
+        services: all
+        comment: 'Scheduled DevOps Maintenance'
+        host: "{{ inventory_hostname }}"
+
+    - name: Scheduling a "{{ maint_dur }}" Minute Maintenance Window in Nagios for APPSERVER HOST "{{ appserver_hostname }}"
+      delegate_to: nagios.hq
+      tags: scheduling,appserver
+      nagios:
+        action: downtime
+        minutes: "{{ maint_dur }}"
+        service: host
+        comment: 'Scheduled DevOps Maintenance'
+        host: "{{ appserver_hostname }}"
+
+    - name: Scheduling a "{{ maint_dur }}" Minute Maintenance Window in Nagios FOR ALL SERVICES on host "{{ appserver_hostname }}"
+      delegate_to: nagios.hq
+      tags: scheduling,appserver
+      nagios:
+        action: downtime
+        minutes: "{{ maint_dur }}"
+        services: all
+        comment: 'Scheduled DevOps Maintenance'
+        host: "{{ appserver_hostname }}"
+
+    - name: Installing the Latest linux-generic-lts-xenial Package
+      apt:
+        name: linux-generic-lts-xenial
+        state: latest
+        install_recommends: yes
+        update_cache: yes
+        cache_valid_time: 3600
+      when:
+        - ansible_form_factor == 'Rack Mount Chassis' ##This returned Ansible value indicates the host is physical instead of virtual
+        - ansible_distribution_release == 'trusty'
+        - ansible_distribution_version == '14.04'
+      register: kernel_upgrade
+      tags: update
+
+    - name: Installing the Latest linux-virtual-lts-xenial Package
+      apt:
+        name: linux-virtual-lts-xenial
+        state: latest
+        install_recommends: yes
+        update_cache: yes
+        cache_valid_time: 3600
+      when:
+        - ansible_form_factor == 'Other' ##This returned Ansible value indicates the host is virtual instead of physical
+        - ansible_distribution_release == 'trusty'
+        - ansible_distribution_version == '14.04'
+      register: kernel_upgrade
+      tags: update
+
+    - name: Installing the Latest linux-generic-lts-trusty Package
+      apt:
+        name: linux-generic-lts-trusty
+        state: latest
+        install_recommends: yes
+        update_cache: yes
+        cache_valid_time: 3600
+      when:
+        - ansible_form_factor == 'Rack Mount Chassis' ##This returned Ansible value indicates the host is physical instead of virtual
+        - ansible_distribution_release == 'precise'
+        - ansible_distribution_version == '12.04'
+      register: kernel_upgrade
+      tags: update
+
+    - name: Installing the Latest linux-image-virtual Package
+      apt:
+        name: linux-image-virtual
+        state: latest
+        install_recommends: yes
+        update_cache: yes
+        cache_valid_time: 3600
+      when:
+        - ansible_form_factor == 'Other' ##This returned Ansible value indicates the host is virtual instead of physical
+        - ansible_distribution_release == 'precise'
+        - ansible_distribution_version == '12.04'
+      register: kernel_upgrade
+      tags: update
+
+    - name: Running apt dist-upgrade
+      apt:
+        upgrade: dist
+      register: apt_distupgrade
+      tags: service_disruptive
+
+# Ansible BUG 4029 - package name apparently required to use this module option
+# This method will be broken until fixed upstream - shell workaround method below this block
+#    - name: apt autoremove
+#      apt:
+#        autoremove: yes
+#      register: apt_autoremove
+
+    - name: Running apt autoremove
+      shell: apt-get -y autoremove --purge
+      register: apt_autoremove
+      tags: remove
+
+    - name: Rebooting Server due to kernel update
+      command: reboot "Kernel Updates Triggered, reboot required!"
+      async: 0
+      poll: 0
+      ignore_errors: true
+      when:
+        - kernel_upgrade|changed
+      tags: reboot
+
+    - name: waiting for server to come back
+      delegate_to: 127.0.0.1
+      wait_for:
+        host: "{{ inventory_hostname }}"
+        port: 22
+        delay: 60
+#        timeout: 240
+      tags: optional_wait

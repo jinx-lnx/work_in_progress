@@ -1,0 +1,255 @@
+vls1.ACD.gwn has address 10.5.228.29
+vls1.AHA.gwn has address 10.5.220.29
+vls1.AMV.gwn has address 10.8.124.29
+vls1.BAY-E.gwn has address 10.9.251.29
+vls1.BEBU.gwn has address 10.7.103.29
+vls1.BIV.gwn has address 10.8.4.29
+Host vls1.BJC.gwn not found: 3(NXDOMAIN)
+vls1.BJM.gwn has address 10.9.68.29
+vls1.BJN.gwn has address 10.7.204.29
+vls1.BJS.gwn has address 10.9.64.29
+vls1.BJW.gwn has address 10.9.68.29
+Host vls1.BND2.gwn not found: 3(NXDOMAIN)
+vls1.BPV.gwn has address 10.8.36.29
+vls1.BRMC.gwn has address 10.9.211.29
+vls1.BWH.gwn has address 10.9.208.29
+vls1.BWO.gwn has address 10.7.212.29
+vls1.BWW.gwn has address 10.9.210.29
+vls1.CAC.gwn has address 10.5.52.29
+vls1.CAL.gwn has address 10.7.48.29
+vls1.CAR.gwn has address 10.7.44.29
+Host vls1.CAR-E.gwn not found: 3(NXDOMAIN)
+vls1.CARO.gwn has address 10.9.88.29
+vls1.CBO.gwn has address 172.28.15.11
+vls1.CBR.gwn has address 10.9.184.29
+vls1.CCL.gwn has address 10.7.160.29
+vls1.CCMC.gwn has address 204.130.8.29
+vls1.CEBG.gwn has address 10.9.207.29
+vls1.CENH.gwn has address 10.9.223.29
+vls1.CFE.gwn has address 10.7.164.29
+vls1.CFR.gwn has address 10.7.58.29
+vls1.CHA.gwn has address 10.7.8.29
+vls1.CHC.gwn has address 10.5.144.29
+vls1.CHE.gwn has address 10.5.44.29
+vls1.CICH.gwn has address 10.9.162.29
+vls1.CIL.gwn has address 10.7.59.29
+vls1.CIM.gwn has address 10.9.226.29
+vls1.CIN.gwn has address 10.7.200.29
+vls1.CLA.gwn has address 10.108.0.29
+vls1.CLVT.gwn has address 10.9.144.29
+Host vls1.CMC-E.gwn not found: 3(NXDOMAIN)
+vls1.CME.gwn has address 10.242.200.29
+vls1.CMG.gwn has address 10.9.136.29
+vls1.CMM.gwn has address 10.9.224.29
+vls1.CNM.gwn has address 10.5.16.29
+vls1.COC.gwn has address 10.5.120.29
+Host vls1.COM-E.gwn not found: 3(NXDOMAIN)
+vls1.CRCL.gwn has address 10.9.24.29
+vls1.CRKM.gwn has address 10.9.12.29
+vls1.CRLE.gwn has address 10.9.0.29
+vls1.CRLI.gwn has address 10.9.140.29
+vls1.CRME.gwn has address 10.9.128.29
+vls1.CRNE.gwn has address 10.9.154.29
+vls1.CRPI.gwn has address 10.9.8.29
+vls1.CRUN.gwn has address 10.9.16.29
+vls1.CRUV.gwn has address 10.9.112.29
+vls1.CSP.gwn has address 10.7.140.29
+vls1.CTXV.gwn has address 10.8.140.29
+vls1.CWM.gwn has address 10.5.240.29
+vls1.DACH.gwn has address 10.13.253.29
+vls1.DCH.gwn has address 10.5.242.29
+vls1.DSJ.gwn has address 10.7.180.29
+vls1.DSJW.gwn has address 10.9.104.29
+vls1.DUP.gwn has address 10.5.12.29
+vls1.EMO.gwn has address 10.7.168.29
+vls1.EOV.gwn has address 10.8.64.29
+vls1.ERV.gwn has address 10.8.8.29
+Host vls1.ESM-JENKINS.gwn not found: 3(NXDOMAIN)
+vls1.EWH.gwn has address 10.136.74.29
+vls1.EXSJ.gwn has address 10.9.100.29
+vls1.FARV.gwn has address 10.8.80.29
+vls1.FCAR.gwn has address 10.6.32.29
+vls1.FCE.gwn has address 10.6.8.29
+vls1.FEO.gwn has address 10.6.16.29
+vls1.FFL.gwn has address 10.6.0.29
+Host vls1.FHS-E.gwn not found: 3(NXDOMAIN)
+vls1.FOC.gwn has address 10.6.28.29
+vls1.FOM.gwn has address 10.6.20.29
+vls1.FOR.gwn has address 10.6.4.29
+vls1.FTBV.gwn has address 10.7.100.29
+vls1.FWS.gwn has address 10.6.24.29
+vls1.GAIV.gwn has address 10.8.28.29
+vls1.GLM.gwn has address 10.7.176.29
+vls1.GPR.gwn has address 10.9.148.29
+vls1.GSM.gwn has address 10.220.0.29
+vls1.GTU.gwn has address 10.7.120.29
+vls1.HAS.gwn has address 10.5.80.29
+vls1.HHI.gwn has address 10.9.234.29
+vls1.HNMC.gwn has address 172.16.52.29
+vls1.HOA.gwn has address 10.9.232.29
+Host vls1.HOSTED-AMBTEST.gwn not found: 3(NXDOMAIN)
+Host vls1.HOSTED-CRLE.gwn not found: 3(NXDOMAIN)
+Host vls1.HOSTED-CRLETEST.gwn not found: 3(NXDOMAIN)
+Host vls1.HOSTED-NMS.gwn not found: 3(NXDOMAIN)
+Host vls1.HOSTED-ONE.gwn not found: 3(NXDOMAIN)
+Host vls1.HOSTED-USPI.gwn not found: 3(NXDOMAIN)
+vls1.HVS.gwn has address 10.5.124.29
+vls1.IAC.gwn has address 10.7.236.29
+vls1.IFO.gwn has address 10.5.60.29
+vls1.INGESTOR.gwn has address 10.1.1.77
+vls1.JDC.gwn has address 10.7.52.29
+Host vls1.JENKINS1.gwn not found: 3(NXDOMAIN)
+Host vls1.JENKINS3.gwn not found: 3(NXDOMAIN)
+Host vls1.JENKINS5.gwn not found: 3(NXDOMAIN)
+Host vls1.JENKINS6.gwn not found: 3(NXDOMAIN)
+vls1.JMO.gwn has address 10.5.176.29
+vls1.KBP.gwn has address 10.204.135.10
+vls1.KBPTEST.gwn has address 10.204.135.135
+vls1.KCH.gwn has address 10.5.32.29
+vls1.KERV.gwn has address 10.8.144.29
+vls1.KFS.gwn has address 195.242.197.134
+vls1.KGAR.gwn has address 10.238.1.199
+vls1.KOAK.gwn has address 10.183.160.132
+vls1.KOC.gwn has address 10.7.104.29
+vls1.KOO.gwn has address 10.9.172.29
+vls1.KPC.gwn has address 10.214.182.4
+vls1.KPCTEST.gwn has address 10.214.188.4
+vls1.KPNC-E.gwn has address 172.18.120.107
+Host vls1.KPNCTEST.gwn not found: 3(NXDOMAIN)
+Host vls1.KPSC-E.gwn not found: 3(NXDOMAIN)
+Host vls1.KPSCTEST.gwn not found: 3(NXDOMAIN)
+vls1.KRED.gwn has address 10.241.38.10
+vls1.KREDTEST.gwn has address 10.241.38.135
+vls1.KSC.gwn has address 10.5.216.29
+vls1.KSD.gwn has address 10.190.255.132
+vls1.KSDTEST.gwn has address 10.190.255.164
+vls1.KSLE.gwn has address 10.182.76.132
+vls1.KSLETEST.gwn has address 10.182.76.120
+vls1.LAV.gwn has address 10.8.76.29
+vls1.LBM.gwn has address 10.9.188.29
+vls1.LCV.gwn has address 10.8.24.29
+vls1.LEBV.gwn has address 10.8.104.29
+Host vls1.LEG-E.gwn not found: 3(NXDOMAIN)
+vls1.LEGS.gwn has address 10.141.240.29
+vls1.LEM.gwn has address 10.7.132.29
+vls1.LEMA.gwn has address 10.131.240.29
+Host vls1.LEMH.gwn not found: 3(NXDOMAIN)
+vls1.LESC.gwn has address 10.181.240.29
+vls1.LFV.gwn has address 10.8.72.29
+vls1.LPC.gwn has address 10.251.224.29
+vls1.MARV.gwn has address 10.8.68.29
+vls1.MCH.gwn has address 10.9.200.29
+vls1.MCM.gwn has address 10.7.102.29
+vls1.MDV.gwn has address 10.8.92.29
+vls1.MEC.gwn has address 10.9.52.29
+vls1.MED.gwn has address 10.9.48.29
+Host vls1.MHN-E.gwn not found: 3(NXDOMAIN)
+vls1.MIAV.gwn has address 10.8.12.29
+vls1.MMB.gwn has address 10.5.224.29
+vls1.MMD.gwn has address 10.33.240.29
+vls1.MMW.gwn has address 10.5.246.29
+vls1.MOF.gwn has address 10.9.96.29
+vls1.MON.gwn has address 10.5.172.29
+vls1.MPL.gwn has address 10.9.40.29
+vls1.MPN.gwn has address 10.9.44.29
+vls1.NAC.gwn has address 10.7.16.29
+vls1.NBB.gwn has address 10.5.249.29
+vls1.NCP.gwn has address 10.7.144.29
+vls1.NOR.gwn has address 10.7.184.29
+vls1.NSB.gwn has address 10.7.196.29
+vls1.NTXV.gwn has address 10.8.156.29
+vls1.OCM.gwn has address 10.7.238.29
+vls1.OHS.gwn has address 137.53.246.25
+vls1.OLA.gwn has address 10.7.0.29
+vls1.OLO.gwn has address 10.7.4.29
+vls1.ORLV.gwn has address 10.8.40.29
+vls1.OSO.gwn has address 10.9.228.29
+vls1.PHOV.gwn has address 10.8.108.29
+vls1.PIJV.gwn has address 10.8.52.29
+vls1.PIUV.gwn has address 10.8.48.29
+vls1.PLCDEV.gwn has address 10.1.6.31
+vls1.PNM.gwn has address 10.9.76.29
+vls1.PREVIEW.gwn has address 10.1.6.32
+vls1.PRSV.gwn has address 10.8.132.29
+vls1.PSHC.gwn has address 10.7.220.29
+Host vls1.RAS-WHQ.gwn not found: 3(NXDOMAIN)
+vls1.RAYV.gwn has address 10.8.120.29
+vls1.RDL.gwn has address 10.5.8.29
+vls1.READ.gwn has address 10.10.12.29
+vls1.RICV.gwn has address 10.8.60.29
+vls1.RSE.gwn has address 10.5.28.29
+vls1.RSM.gwn has address 10.5.132.29
+vls1.SAMV.gwn has address 10.8.152.29
+vls1.SAN.gwn has address 10.9.56.29
+vls1.SD1-INGESTOR.gwn has address 182.168.16.69
+Host vls1.SDINVENTORY.gwn not found: 3(NXDOMAIN)
+vls1.SDV.gwn has address 10.8.100.29
+vls1.SEA.gwn has address 10.7.192.29
+vls1.SEFL.gwn has address 10.9.168.29
+vls1.SEFT.gwn has address 10.9.170.29
+vls1.SELE.gwn has address 10.9.164.29
+Host vls1.SELZ-E.gwn not found: 3(NXDOMAIN)
+vls1.SFB.gwn has address 10.9.60.29
+vls1.SFM.gwn has address 10.118.25.29
+vls1.SFV.gwn has address 10.8.44.29
+vls1.SHEC.gwn has address 10.9.120.29
+Host vls1.SHH-E.gwn not found: 3(NXDOMAIN)
+vls1.SJC.gwn has address 10.7.40.29
+vls1.SJV.gwn has address 10.8.20.29
+vls1.SLE.gwn has address 10.5.84.29
+vls1.SMA.gwn has address 10.5.104.29
+vls1.SMM.gwn has address 10.5.238.29
+vls1.SMMC.gwn has address 10.9.230.29
+vls1.SOIN.gwn has address 10.7.128.29
+vls1.SOM.gwn has address 10.7.136.29
+vls1.SPC.gwn has address 10.9.132.29
+vls1.SPG.gwn has address 10.7.228.29
+vls1.SPM.gwn has address 10.7.20.29
+vls1.STAM.gwn has address 10.60.2.29
+vls1.STAN.gwn has address 10.9.20.29
+vls1.STJ.gwn has address 10.5.76.29
+vls1.STRESSLAB.gwn has address 192.168.24.29
+vls1.STXV.gwn has address 10.8.148.29
+vls1.SVI.gwn has address 10.9.221.29
+vls1.SVM.gwn has address 10.9.192.29
+vls1.TAMV.gwn has address 10.8.32.29
+vls1.TBN.gwn has address 10.7.152.29
+vls1.TGEN.gwn has address 10.224.0.29
+vls1.TGS.gwn has address 10.7.148.29
+vls1.TJU.gwn has address 10.5.48.29
+vls1.TSIR.gwn has address 10.9.110.29
+vls1.TSPE.gwn has address 10.9.109.29
+vls1.TSPM.gwn has address 10.9.124.29
+vls1.TXWE.gwn has address 10.7.116.29
+vls1.TXWO.gwn has address 10.7.112.29
+vls1.UCC.gwn has address 165.68.88.27
+vls1.UCM.gwn has address 165.68.88.29
+vls1.UKA.gwn has address 10.111.136.22
+vls1.UMC.gwn has address 10.7.28.29
+vls1.UMI.gwn has address 10.7.64.29
+vls1.UPIT.gwn has address 10.24.114.29
+vls1.UPR.gwn has address 10.7.12.29
+vls1.USC.gwn has address 10.5.96.29
+vls1.UTSW.gwn has address 198.241.19.203
+vls1.VAL.gwn has address 10.9.108.29
+vls1.VAP.gwn has address 10.131.26.29
+vls1.VBH.gwn has address 10.5.72.29
+Host vls1.VIR-E.gwn not found: 3(NXDOMAIN)
+vls1.VMA.gwn has address 10.5.68.29
+vls1.VMH.gwn has address 10.5.152.29
+vls1.VMT.gwn has address 10.5.128.29
+vls1.VVH.gwn has address 10.5.136.29
+vls1.VVW.gwn has address 10.7.172.29
+vls1.WACV.gwn has address 10.8.136.29
+vls1.WDCV.gwn has address 10.8.88.29
+vls1.WFBL.gwn has address 10.199.205.201
+vls1.WFBM.gwn has address 10.20.30.229
+vls1.WFDA.gwn has address 10.8.127.215
+vls1.WHQ.gwn has address 10.1.1.34
+vls1.WHQ.gwn has address 10.7.252.29
+vls1.WILV.gwn has address 10.8.96.29
+vls1.WJM.gwn has address 10.5.250.29
+vls1.WMC.gwn has address 10.5.24.29
+vls1.WPBV.gwn has address 10.8.16.29
+vls1.WTXV.gwn has address 10.8.116.29
+vls1.WWR.gwn has address 10.5.40.29

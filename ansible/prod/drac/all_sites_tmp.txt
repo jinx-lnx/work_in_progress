@@ -1,0 +1,334 @@
+ACD	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+AHA	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+AMBDEV	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+AMBTEMPLATE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+AMV	 	 	appserver: unknown	 	vls1: lighttpd	vls2: unknown	 	 	 	 	 
+BAY-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+BEBU	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+BIV	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+BJC	 	 	 	 	 	 	vls3: lighttpd	vls4: lighttpd	 	 	 
+BJM	 	 	 	 	 	 	 	 	vls5: lighttpd	vls6: lighttpd	 
+BJN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BJS	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BJW	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BND2	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+BPV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BRMC	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+BWH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BWO	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+BWW	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CAC	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	vls6: lighttpd	vls7: lighttpd
+CAL	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+CAR	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CAR-E	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	 	 	 	 	 	 	 
+CARO	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CBO	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CBR	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CCL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CCMC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CEBG	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+CENH	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CFE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	 	 
+CFR	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+CHA	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CHC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CHE	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+CICH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CIL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CIM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CIN	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+CLA	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CLVT	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+CMC-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+CME	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+CMG	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+CMM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CNM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+COC	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+COM-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+CRCL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRKM	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+CRLE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	vls6: lighttpd	vls7: lighttpd
+CRLI	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRME	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRNE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRPI	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRUN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CRUV	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+CSP	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+CTXV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+CWM	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+DACH	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+DCH	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+DEMO	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+DEVANSIBLE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVCI	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVDEPLOY	 	 	appserver: lighttpd	apptest: lighttpd	 	 	 	 	 	 	 
+DEVFHIR	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVIDYO	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVJENKINS	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVKAISER	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVKEVIN	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVMOBILE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVMYG	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVPATHWAYS	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVPM2	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVSECCHANGES14	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVSKYLIGHT	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVSMARTTV2	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVSMARTTV4	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVTRANSLATION	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVUX	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVWILD2	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVYO	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DEVZOD	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DIRK2	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+DIRK3	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+DSJ	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+DSJW	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+DUP	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+EMO	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+EOV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+ERV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+ESM-JENKINS	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+EWH	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+EXSJ	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+FARV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+FCAR	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+FCE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+FEO	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+FFL	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+FHS-E	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	 	 	 	 	 	 	 
+FOC	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+FOM	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+FOR	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+FTBV	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+FWS	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+GAIV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+GLM	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+GPR	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+GSM	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+GTU	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+HAS	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+HHI	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+HNMC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+HOA	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+HOSTED-AMBTEST	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HOSTED-CRLE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HOSTED-CRLETEST	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HOSTED-NMS	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HOSTED-ONE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HOSTED-USPI	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+HVS	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+IAC	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+IFO	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+INGESTOR	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+JDC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+JENKINS1	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+JENKINS3	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+JENKINS5	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+JENKINS6	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+JMO	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+KBP	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KBPTEST	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+KCH	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KERV	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KFS	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KGAR	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+KOAK	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+KOC	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KOO	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+KPC	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KPCTEST	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+KPNC-E	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	 	 	 	 	 	 
+KPNCTEST	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+KPSC-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+KPSCTEST	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+KRED	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+KREDTEST	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+KSC	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+KSD	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+KSDTEST	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+KSLE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+KSLETEST	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+LAV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LBM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LCV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LEBV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+LEG-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+LEGS	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LEM	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+LEMA	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LEMH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LESC	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LFV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+LPC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MARV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+MCH	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MCM	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+MDV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+MEC	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MED	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MHN-E	ras1: unknown	ras2: lighttpd	 	apptest: lighttpd	 	 	 	 	 	 	 
+MIAV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MMB	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MMD	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MMW	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+MOF	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MON	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MPL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+MPN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+NAC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+NBB	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+NCP	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+NOR	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+NSB	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+NTXV	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+OCM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+OHS	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+OLA	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	vls6: lighttpd	 
+OLO	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+ORLV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+OSO	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+PHOV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+PIJV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+PIUV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+PLCDEV	 	 	appserver: nginx	 	vls1: lighttpd	 	 	 	 	 	 
+PNM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+PREVIEW	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+PRSV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+PSHC	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+QAN-DIGNITY	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANACD	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANBAYCARE	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCAR	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCARO	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCEBG	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCFR	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCLA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCME	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANCSP	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANFWS	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANGLM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANGPR	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANHAS	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANHOAG	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANIFO	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANJMO	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANKCH	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANKCHCA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANLEM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANMCH	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANMMB	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANMON	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANOASIS	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANOLA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANOLO	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANPNM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANPS1	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANPS2	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANREAD	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSFM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSMMC	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSOM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSTEE	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSTJ	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANSWCSL	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANTCH	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANTRIHEALTH	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANTSPE	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANTSPM	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANTXWE	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANUAEMH	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANUMC	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANUMI	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANUPIT	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANVA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANVA2	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANVAP	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANVIRTUA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANVISTA	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+QANWWR	 	 	 	apptest: lighttpd	 	 	 	 	 	 	 
+RAS-WHQ	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+RAYV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+RDL	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+READ	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+RICV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+RSE	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+RSM	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SAMV	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SAN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SD1-INGESTOR	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+SDINVENTORY	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+SDV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SEA	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SEFL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SEFT	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SELE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SELZ-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+SFB	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SFM	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SFV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SHEC	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+SHH-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+SJC	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SJV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SLE	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SMA	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SMM	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SMMC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SOIN	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SOM	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+SPC	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SPG	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+SPM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	vls6: lighttpd	 
+STAM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+STAN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+STJ	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+STRESSLAB	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+STXV	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SVI	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+SVM	ras1: lighttpd	 	 	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+TAMV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	 	 
+TBN	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+TEMPLATE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+TEMPLATE2	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+TGEN	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+TGS	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+TJU	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+TSIR	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+TSPE	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+TSPM	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+TXWE	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+TXWO	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+UCC	 	 	 	 	 	 	vls3: lighttpd	 	 	 	 
+UCM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+UKA	 	 	appserver: lighttpd	apptest: lighttpd	vls1: lighttpd	 	 	 	 	 	 
+UMC	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+UMI	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	vls5: lighttpd	 	 
+UPIT	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+UPR	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+USC	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	vls4: lighttpd	 	 	 
+UTSW	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+VAL	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+VAP	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+VATEMPLATE	 	 	appserver: lighttpd	 	 	 	 	 	 	 	 
+VBH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+VIR-E	ras1: lighttpd	ras2: lighttpd	 	 	 	 	 	 	 	 	 
+VMA	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+VMH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+VMT	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+VVH	 	 	 	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+VVW	 	 	 	 	vls1: lighttpd	 	 	 	 	 	 
+WACV	ras1: lighttpd	ras2: lighttpd	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WDCV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+WFBL	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WFBM	ras1: lighttpd	ras2: lighttpd	 	apptest: lighttpd	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WFDA	 	 	 	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WHQ	 	 	appserver: lighttpd	 	vls1: nginx	 	 	 	 	 	 
+WILV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+WJM	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WMC	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	 	 	 	 	 
+WPBV	 	 	appserver: lighttpd	 	vls1: lighttpd	vls2: lighttpd	vls3: lighttpd	 	 	 	 
+WTXV	 	 	appserver: lighttpd	 	vls1: lighttpd	 	 	 	 	 	 
+WWR	 	 	appserver: lighttpd	 	vls1: lighttpd

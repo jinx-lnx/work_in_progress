@@ -1,0 +1,254 @@
+Host ras1.ACD.gwn not found: 3(NXDOMAIN)
+Host ras1.AHA.gwn not found: 3(NXDOMAIN)
+Host ras1.AMV.gwn not found: 3(NXDOMAIN)
+ras1.BAY-E.gwn has address 10.9.251.14
+Host ras1.BEBU.gwn not found: 3(NXDOMAIN)
+ras1.BIV.gwn has address 10.8.4.14
+Host ras1.BJC.gwn not found: 3(NXDOMAIN)
+Host ras1.BJM.gwn not found: 3(NXDOMAIN)
+Host ras1.BJN.gwn not found: 3(NXDOMAIN)
+Host ras1.BJS.gwn not found: 3(NXDOMAIN)
+Host ras1.BJW.gwn not found: 3(NXDOMAIN)
+Host ras1.BND2.gwn not found: 3(NXDOMAIN)
+Host ras1.BPV.gwn not found: 3(NXDOMAIN)
+Host ras1.BRMC.gwn not found: 3(NXDOMAIN)
+Host ras1.BWH.gwn not found: 3(NXDOMAIN)
+Host ras1.BWO.gwn not found: 3(NXDOMAIN)
+Host ras1.BWW.gwn not found: 3(NXDOMAIN)
+Host ras1.CAC.gwn not found: 3(NXDOMAIN)
+Host ras1.CAL.gwn not found: 3(NXDOMAIN)
+Host ras1.CAR.gwn not found: 3(NXDOMAIN)
+ras1.CAR-E.gwn has address 10.9.84.14
+ras1.CARO.gwn has address 10.9.88.14
+ras1.CBO.gwn has address 172.28.15.7
+Host ras1.CBR.gwn not found: 3(NXDOMAIN)
+Host ras1.CCL.gwn not found: 3(NXDOMAIN)
+ras1.CCMC.gwn has address 204.130.8.14
+Host ras1.CEBG.gwn not found: 3(NXDOMAIN)
+ras1.CENH.gwn has address 10.9.223.14
+Host ras1.CFE.gwn not found: 3(NXDOMAIN)
+Host ras1.CFR.gwn not found: 3(NXDOMAIN)
+Host ras1.CHA.gwn not found: 3(NXDOMAIN)
+ras1.CHC.gwn has address 10.5.144.14
+Host ras1.CHE.gwn not found: 3(NXDOMAIN)
+Host ras1.CICH.gwn not found: 3(NXDOMAIN)
+Host ras1.CIL.gwn not found: 3(NXDOMAIN)
+ras1.CIM.gwn has address 10.9.226.14
+ras1.CIN.gwn has address 10.7.200.14
+Host ras1.CLA.gwn not found: 3(NXDOMAIN)
+Host ras1.CLVT.gwn not found: 3(NXDOMAIN)
+ras1.CMC-E.gwn has address 10.7.56.14
+Host ras1.CME.gwn not found: 3(NXDOMAIN)
+ras1.CMG.gwn has address 10.9.136.14
+ras1.CMM.gwn has address 10.9.224.14
+ras1.CNM.gwn has address 10.5.16.14
+Host ras1.COC.gwn not found: 3(NXDOMAIN)
+ras1.COM-E.gwn has address 10.5.140.14
+Host ras1.CRCL.gwn not found: 3(NXDOMAIN)
+Host ras1.CRKM.gwn not found: 3(NXDOMAIN)
+Host ras1.CRLE.gwn not found: 3(NXDOMAIN)
+Host ras1.CRLI.gwn not found: 3(NXDOMAIN)
+Host ras1.CRME.gwn not found: 3(NXDOMAIN)
+Host ras1.CRNE.gwn not found: 3(NXDOMAIN)
+Host ras1.CRPI.gwn not found: 3(NXDOMAIN)
+Host ras1.CRUN.gwn not found: 3(NXDOMAIN)
+Host ras1.CRUV.gwn not found: 3(NXDOMAIN)
+Host ras1.CSP.gwn not found: 3(NXDOMAIN)
+Host ras1.CTXV.gwn not found: 3(NXDOMAIN)
+Host ras1.CWM.gwn not found: 3(NXDOMAIN)
+ras1.DACH.gwn has address 10.13.253.14
+Host ras1.DCH.gwn not found: 3(NXDOMAIN)
+ras1.DSJ.gwn has address 10.7.180.14
+Host ras1.DSJW.gwn not found: 3(NXDOMAIN)
+Host ras1.DUP.gwn not found: 3(NXDOMAIN)
+Host ras1.EMO.gwn not found: 3(NXDOMAIN)
+Host ras1.EOV.gwn not found: 3(NXDOMAIN)
+Host ras1.ERV.gwn not found: 3(NXDOMAIN)
+Host ras1.ESM-JENKINS.gwn not found: 3(NXDOMAIN)
+Host ras1.EWH.gwn not found: 3(NXDOMAIN)
+Host ras1.EXSJ.gwn not found: 3(NXDOMAIN)
+Host ras1.FARV.gwn not found: 3(NXDOMAIN)
+Host ras1.FCAR.gwn not found: 3(NXDOMAIN)
+Host ras1.FCE.gwn not found: 3(NXDOMAIN)
+Host ras1.FEO.gwn not found: 3(NXDOMAIN)
+Host ras1.FFL.gwn not found: 3(NXDOMAIN)
+ras1.FHS-E.gwn has address 10.6.12.14
+Host ras1.FOC.gwn not found: 3(NXDOMAIN)
+Host ras1.FOM.gwn not found: 3(NXDOMAIN)
+Host ras1.FOR.gwn not found: 3(NXDOMAIN)
+ras1.FTBV.gwn has address 10.7.100.14
+Host ras1.FWS.gwn not found: 3(NXDOMAIN)
+Host ras1.GAIV.gwn not found: 3(NXDOMAIN)
+ras1.GLM.gwn has address 10.7.176.14
+Host ras1.GPR.gwn not found: 3(NXDOMAIN)
+Host ras1.GSM.gwn not found: 3(NXDOMAIN)
+Host ras1.GTU.gwn not found: 3(NXDOMAIN)
+Host ras1.HAS.gwn not found: 3(NXDOMAIN)
+Host ras1.HHI.gwn not found: 3(NXDOMAIN)
+ras1.HNMC.gwn has address 172.16.52.14
+ras1.HOA.gwn has address 10.9.232.14
+Host ras1.HOSTED-AMBTEST.gwn not found: 3(NXDOMAIN)
+Host ras1.HOSTED-CRLE.gwn not found: 3(NXDOMAIN)
+Host ras1.HOSTED-CRLETEST.gwn not found: 3(NXDOMAIN)
+Host ras1.HOSTED-NMS.gwn not found: 3(NXDOMAIN)
+Host ras1.HOSTED-ONE.gwn not found: 3(NXDOMAIN)
+Host ras1.HOSTED-USPI.gwn not found: 3(NXDOMAIN)
+Host ras1.HVS.gwn not found: 3(NXDOMAIN)
+Host ras1.IAC.gwn not found: 3(NXDOMAIN)
+Host ras1.IFO.gwn not found: 3(NXDOMAIN)
+Host ras1.INGESTOR.gwn not found: 3(NXDOMAIN)
+ras1.JDC.gwn has address 10.7.52.14
+Host ras1.JENKINS1.gwn not found: 3(NXDOMAIN)
+Host ras1.JENKINS3.gwn not found: 3(NXDOMAIN)
+Host ras1.JENKINS5.gwn not found: 3(NXDOMAIN)
+Host ras1.JENKINS6.gwn not found: 3(NXDOMAIN)
+Host ras1.JMO.gwn not found: 3(NXDOMAIN)
+Host ras1.KBP.gwn not found: 3(NXDOMAIN)
+Host ras1.KBPTEST.gwn not found: 3(NXDOMAIN)
+Host ras1.KCH.gwn not found: 3(NXDOMAIN)
+ras1.KERV.gwn has address 10.8.144.14
+Host ras1.KFS.gwn not found: 3(NXDOMAIN)
+Host ras1.KGAR.gwn not found: 3(NXDOMAIN)
+Host ras1.KOAK.gwn not found: 3(NXDOMAIN)
+Host ras1.KOC.gwn not found: 3(NXDOMAIN)
+Host ras1.KOO.gwn not found: 3(NXDOMAIN)
+Host ras1.KPC.gwn not found: 3(NXDOMAIN)
+Host ras1.KPCTEST.gwn not found: 3(NXDOMAIN)
+ras1.KPNC-E.gwn has address 172.18.120.100
+ras1.KPNCTEST.gwn has address 172.20.58.148
+ras1.KPSC-E.gwn has address 172.22.183.21
+ras1.KPSCTEST.gwn has address 172.20.58.175
+Host ras1.KRED.gwn not found: 3(NXDOMAIN)
+Host ras1.KREDTEST.gwn not found: 3(NXDOMAIN)
+Host ras1.KSC.gwn not found: 3(NXDOMAIN)
+Host ras1.KSD.gwn not found: 3(NXDOMAIN)
+Host ras1.KSDTEST.gwn not found: 3(NXDOMAIN)
+Host ras1.KSLE.gwn not found: 3(NXDOMAIN)
+Host ras1.KSLETEST.gwn not found: 3(NXDOMAIN)
+Host ras1.LAV.gwn not found: 3(NXDOMAIN)
+ras1.LBM.gwn has address 10.9.188.14
+Host ras1.LCV.gwn not found: 3(NXDOMAIN)
+Host ras1.LEBV.gwn not found: 3(NXDOMAIN)
+ras1.LEG-E.gwn has address 10.12.240.14
+Host ras1.LEGS.gwn not found: 3(NXDOMAIN)
+Host ras1.LEM.gwn not found: 3(NXDOMAIN)
+Host ras1.LEMA.gwn not found: 3(NXDOMAIN)
+Host ras1.LEMH.gwn not found: 3(NXDOMAIN)
+Host ras1.LESC.gwn not found: 3(NXDOMAIN)
+Host ras1.LFV.gwn not found: 3(NXDOMAIN)
+ras1.LPC.gwn has address 10.251.224.14
+Host ras1.MARV.gwn not found: 3(NXDOMAIN)
+Host ras1.MCH.gwn not found: 3(NXDOMAIN)
+Host ras1.MCM.gwn not found: 3(NXDOMAIN)
+Host ras1.MDV.gwn not found: 3(NXDOMAIN)
+Host ras1.MEC.gwn not found: 3(NXDOMAIN)
+Host ras1.MED.gwn not found: 3(NXDOMAIN)
+ras1.MHN-E.gwn has address 162.3.52.16
+Host ras1.MIAV.gwn not found: 3(NXDOMAIN)
+Host ras1.MMB.gwn not found: 3(NXDOMAIN)
+Host ras1.MMD.gwn not found: 3(NXDOMAIN)
+Host ras1.MMW.gwn not found: 3(NXDOMAIN)
+ras1.MOF.gwn has address 10.9.96.14
+Host ras1.MON.gwn not found: 3(NXDOMAIN)
+Host ras1.MPL.gwn not found: 3(NXDOMAIN)
+Host ras1.MPN.gwn not found: 3(NXDOMAIN)
+ras1.NAC.gwn has address 10.7.16.14
+Host ras1.NBB.gwn not found: 3(NXDOMAIN)
+Host ras1.NCP.gwn not found: 3(NXDOMAIN)
+Host ras1.NOR.gwn not found: 3(NXDOMAIN)
+Host ras1.NSB.gwn not found: 3(NXDOMAIN)
+ras1.NTXV.gwn has address 10.8.156.14
+ras1.OCM.gwn has address 10.7.238.14
+ras1.OHS.gwn has address 137.53.246.23
+Host ras1.OLA.gwn not found: 3(NXDOMAIN)
+Host ras1.OLO.gwn not found: 3(NXDOMAIN)
+Host ras1.ORLV.gwn not found: 3(NXDOMAIN)
+Host ras1.OSO.gwn not found: 3(NXDOMAIN)
+Host ras1.PHOV.gwn not found: 3(NXDOMAIN)
+Host ras1.PIJV.gwn not found: 3(NXDOMAIN)
+Host ras1.PIUV.gwn not found: 3(NXDOMAIN)
+Host ras1.PLCDEV.gwn not found: 3(NXDOMAIN)
+ras1.PNM.gwn has address 10.9.76.14
+Host ras1.PREVIEW.gwn not found: 3(NXDOMAIN)
+Host ras1.PRSV.gwn not found: 3(NXDOMAIN)
+ras1.PSHC.gwn has address 10.7.220.14
+ras1.RAS-WHQ.gwn has address 10.7.252.99
+Host ras1.RAYV.gwn not found: 3(NXDOMAIN)
+Host ras1.RDL.gwn not found: 3(NXDOMAIN)
+ras1.READ.gwn has address 10.10.12.14
+Host ras1.RICV.gwn not found: 3(NXDOMAIN)
+ras1.RSE.gwn has address 10.5.28.14
+Host ras1.RSM.gwn not found: 3(NXDOMAIN)
+ras1.SAMV.gwn has address 10.8.152.14
+Host ras1.SAN.gwn not found: 3(NXDOMAIN)
+Host ras1.SD1-INGESTOR.gwn not found: 3(NXDOMAIN)
+Host ras1.SDINVENTORY.gwn not found: 3(NXDOMAIN)
+Host ras1.SDV.gwn not found: 3(NXDOMAIN)
+Host ras1.SEA.gwn not found: 3(NXDOMAIN)
+Host ras1.SEFL.gwn not found: 3(NXDOMAIN)
+Host ras1.SEFT.gwn not found: 3(NXDOMAIN)
+Host ras1.SELE.gwn not found: 3(NXDOMAIN)
+ras1.SELZ-E.gwn has address 10.9.163.14
+Host ras1.SFB.gwn not found: 3(NXDOMAIN)
+Host ras1.SFM.gwn not found: 3(NXDOMAIN)
+Host ras1.SFV.gwn not found: 3(NXDOMAIN)
+Host ras1.SHEC.gwn not found: 3(NXDOMAIN)
+ras1.SHH-E.gwn has address 10.9.120.14
+Host ras1.SJC.gwn not found: 3(NXDOMAIN)
+Host ras1.SJV.gwn not found: 3(NXDOMAIN)
+Host ras1.SLE.gwn not found: 3(NXDOMAIN)
+Host ras1.SMA.gwn not found: 3(NXDOMAIN)
+Host ras1.SMM.gwn not found: 3(NXDOMAIN)
+ras1.SMMC.gwn has address 10.9.230.14
+Host ras1.SOIN.gwn not found: 3(NXDOMAIN)
+Host ras1.SOM.gwn not found: 3(NXDOMAIN)
+ras1.SPC.gwn has address 10.9.132.14
+ras1.SPG.gwn has address 10.7.228.14
+ras1.SPM.gwn has address 10.7.20.14
+ras1.STAM.gwn has address 10.60.2.14
+Host ras1.STAN.gwn not found: 3(NXDOMAIN)
+Host ras1.STJ.gwn not found: 3(NXDOMAIN)
+Host ras1.STRESSLAB.gwn not found: 3(NXDOMAIN)
+ras1.STXV.gwn has address 10.8.148.14
+ras1.SVI.gwn has address 10.9.221.14
+ras1.SVM.gwn has address 10.9.192.14
+Host ras1.TAMV.gwn not found: 3(NXDOMAIN)
+Host ras1.TBN.gwn not found: 3(NXDOMAIN)
+Host ras1.TGEN.gwn not found: 3(NXDOMAIN)
+ras1.TGS.gwn has address 10.7.148.14
+ras1.TJU.gwn has address 10.5.48.14
+Host ras1.TSIR.gwn not found: 3(NXDOMAIN)
+Host ras1.TSPE.gwn not found: 3(NXDOMAIN)
+ras1.TSPM.gwn has address 10.9.124.14
+Host ras1.TXWE.gwn not found: 3(NXDOMAIN)
+ras1.TXWO.gwn has address 10.7.112.14
+Host ras1.UCC.gwn not found: 3(NXDOMAIN)
+ras1.UCM.gwn has address 165.68.88.21
+Host ras1.UKA.gwn not found: 3(NXDOMAIN)
+Host ras1.UMC.gwn not found: 3(NXDOMAIN)
+ras1.UMI.gwn has address 10.7.64.14
+Host ras1.UPIT.gwn not found: 3(NXDOMAIN)
+Host ras1.UPR.gwn not found: 3(NXDOMAIN)
+Host ras1.USC.gwn not found: 3(NXDOMAIN)
+Host ras1.UTSW.gwn not found: 3(NXDOMAIN)
+ras1.VAL.gwn has address 10.9.108.14
+Host ras1.VAP.gwn not found: 3(NXDOMAIN)
+Host ras1.VBH.gwn not found: 3(NXDOMAIN)
+ras1.VIR-E.gwn has address 10.5.0.14
+Host ras1.VMA.gwn not found: 3(NXDOMAIN)
+Host ras1.VMH.gwn not found: 3(NXDOMAIN)
+Host ras1.VMT.gwn not found: 3(NXDOMAIN)
+Host ras1.VVH.gwn not found: 3(NXDOMAIN)
+Host ras1.VVW.gwn not found: 3(NXDOMAIN)
+ras1.WACV.gwn has address 10.8.136.14
+Host ras1.WDCV.gwn not found: 3(NXDOMAIN)
+Host ras1.WFBL.gwn not found: 3(NXDOMAIN)
+ras1.WFBM.gwn has address 10.20.30.214
+Host ras1.WFDA.gwn not found: 3(NXDOMAIN)
+Host ras1.WHQ.gwn not found: 3(NXDOMAIN)
+Host ras1.WILV.gwn not found: 3(NXDOMAIN)
+Host ras1.WJM.gwn not found: 3(NXDOMAIN)
+Host ras1.WMC.gwn not found: 3(NXDOMAIN)
+Host ras1.WPBV.gwn not found: 3(NXDOMAIN)
+Host ras1.WTXV.gwn not found: 3(NXDOMAIN)
+Host ras1.WWR.gwn not found: 3(NXDOMAIN)

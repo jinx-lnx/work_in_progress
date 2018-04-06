@@ -1,0 +1,24 @@
+---
+- gather_facts: False
+  name: enable tpm computing
+  hosts: all
+  tasks:
+    - name: enable TPMSecurity
+      raw: racadm set Bios.SysSecurity.TpmSecurity OnPbm
+      failed_when: "'ERROR' in tpm_result.stdout or 'COMMAND PROCESSING FAILED' in tpm_result.stdout or 'error' in tpm_result.stdout"
+      changed_when: "'Successfully modified' in tpm_result.stdout"
+      register: tpm_result
+    - debug: var=tpm_result
+
+    - name: sleep 5 mins to allow drac to process change
+      pause: minutes=5
+
+    - name: create reboot task
+      raw: racadm jobqueue create BIOS.Setup.1-1 -r pwrcycle
+      failed_when: "'ERROR' in reboot_result.stdout or 'COMMAND PROCESSING FAILED' in reboot_result.stdout or 'error' in reboot_result.stdout"
+      changed_when: "'Successfully scheduled a job' in reboot_result.stdout"
+      register: reboot_result
+    - debug: var=reboot_result
+
+    - name: sleep 5 mins to allow drac to reboot
+      pause: minutes=5

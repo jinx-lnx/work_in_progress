@@ -1,0 +1,4 @@
+[drac.cwm.appservers]
+[drac.cwm.videoservers]
+10.5.240.49
+10.5.240.48

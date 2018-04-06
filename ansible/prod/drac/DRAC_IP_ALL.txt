@@ -1,0 +1,629 @@
+Type,ServedBy,Ip,Host,DRAC_IP
+Video Server,GAIV,10.8.28.29,vls1.GAIV.gwn,10.8.28.49
+Video Server,EOV,10.8.64.29,vls1.EOV.gwn,10.8.64.49
+Test Application Server,DACH,10.13.253.20,apptest.DACH.gwn,10.13.253.41
+RAS,KPNC-E,172.18.120.100,ras1.KPNC-E.gwn,172.19.97.90
+Video Server,FHS-E,10.6.4.29,vls1.FOR.gwn,10.6.4.49
+Video Server,USC,10.5.96.27,vls3.USC.gwn,10.5.96.47
+Video Server,PSHC,10.7.220.28,vls2.PSHC.gwn,10.7.220.48
+Video Server,KPNC-E,10.182.76.132,vls1.KSLE.gwn,10.182.76.196
+Video Server,KPNC-E,10.182.76.133,vls2.KSLE.gwn,10.182.76.197
+Video Server,HFB,10.5.112.29,vls1.HFB.gwn,10.5.112.49
+Video Server,NAC,10.7.16.29,vls1.NAC.gwn,10.7.16.49
+Video Server,LEG-E,10.7.132.27,vls3.LEM.gwn,10.7.132.47
+Video Server,LAV,10.8.76.28,vls2.LAV.gwn,10.8.76.48
+Application Server,SFM,10.118.25.10,appserver.SFM.gwn,10.118.25.7
+Video Server,USC,10.5.96.28,vls2.USC.gwn,10.5.96.48
+Video Server,TAMV,10.8.32.29,vls1.TAMV.gwn,10.8.32.49
+Application Server,TGEN,10.224.0.10,appserver.TGEN.gwn,10.224.0.40
+RAS,UMI,10.7.64.15,ras2.UMI.gwn,10.7.64.45
+Video Server,FHS-E,10.6.16.28,vls2.FEO.gwn,10.6.16.48
+Application Server,SOM,10.7.136.10,appserver.SOM.gwn,10.7.136.40
+Video Server,BAY-E,10.9.44.29,vls1.MPN.gwn,10.9.44.49
+Test Application Server,CAR-E,10.9.0.20,apptest.CAR-E.gwn,10.9.0.41
+Video Server,SELZ-E,10.9.168.28,vls2.SEFL.gwn,10.9.168.48
+Test Application Server,SOIN,10.7.128.20,apptest.SOIN.gwn,10.7.128.41
+Application Server,CTXV,10.8.140.10,appserver.CTXV.gwn,10.8.140.40
+RAS,SMMC,10.9.230.15,ras2.SMMC.gwn,10.9.230.45
+RAS,SELZ-E,10.9.163.15,ras2.SELZ-E.gwn,10.9.163.45
+Video Server,PHOV,10.8.108.28,vls2.PHOV.gwn,10.8.108.48
+Video Server,LEG-E,10.7.132.28,vls2.LEM.gwn,10.7.132.48
+Video Server,GAIV,10.8.28.28,vls2.GAIV.gwn,10.8.28.48
+RAS,WELL-E,10.9.80.15,ras2.WELL-E.gwn,10.9.80.45
+Video Server,DUP,10.5.12.29,vls1.DUP.gwn,10.5.12.49
+Video Server,TGS,10.7.148.28,vls2.TGS.gwn,10.7.148.48
+Application Server,PIJV,10.8.52.10,appserver.PIJV.gwn,10.8.52.40
+Application Server,AHA,10.5.220.10,appserver.AHA.gwn,10.5.220.40
+Video Server,MARV,10.8.68.27,vls3.MARV.gwn,10.8.68.47
+Video Server,LEG-E,10.181.240.28,vls2.LESC.gwn,10.181.240.48
+Application Server,TAMV,10.8.32.10,appserver.TAMV.gwn,10.8.32.40
+RAS,KERV,10.8.144.14,ras1.KERV.gwn,10.8.144.44
+RAS,CAR-E,10.9.84.14,ras1.CAR-E.gwn,10.9.84.44
+Video Server,BAY-E,10.9.68.25,vls5.BJM.gwn,10.9.68.45
+Video Server,SELZ-E,10.9.168.29,vls1.SEFL.gwn,10.9.168.49
+Video Server,OLO,10.7.4.28,vls2.OLO.gwn,10.7.4.48
+Video Server,BAY-E,10.9.40.28,vls2.MPL.gwn,10.9.40.49
+Video Server,CAR-E,10.9.0.23,vls7.CRLE.gwn,10.9.0.53
+Test Application Server,OCM,10.7.238.20,apptest.OCM.gwn,10.7.238.41
+RAS,LEG-E,10.12.240.15,ras2.LEG-E.gwn,10.12.240.45
+Video Server,FHS-E,10.6.8.29,vls1.FCE.gwn,10.6.8.49
+Video Server,BPV,10.8.36.28,vls2.BPV.gwn,10.8.36.48
+Application Server,WILV,10.8.96.10,appserver.WILV.gwn,10.8.96.40
+Application Server,MDV,10.8.92.10,appserver.MDV.gwn,10.8.92.40
+Video Server,CLA,10.108.0.28,vls2.CLA.gwn,10.108.0.48
+Video Server,PIUV,10.8.48.29,vls1.PIUV.gwn,10.8.48.49
+RAS,KPSCTEST,172.20.58.175,ras1.KPSCTEST.gwn,172.20.82.135
+Video Server,NOR,10.7.184.29,vls1.NOR.gwn,10.7.184.49
+Video Server,TAMV,10.8.32.28,vls2.TAMV.gwn,10.8.32.48
+Video Server,SVI,10.9.221.29,vls1.SVI.gwn,10.9.221.49
+Application Server,SMA,10.5.104.10,appserver.SMA.gwn,10.5.104.40
+Video Server,KPNC-E,10.183.160.135,vls4.KOAK.gwn,10.183.160.199
+Video Server,CAR-E,10.9.184.28,vls2.CBR.gwn,10.9.184.48
+Video Server,SPM,10.7.20.29,vls1.SPM.gwn,10.7.20.49
+Video Server,OLA,10.7.0.28,vls2.OLA.gwn,10.7.0.48
+Video Server,CTXV,10.8.140.27,vls3.CTXV.gwn,10.8.140.47
+RAS,OCM,10.7.238.14,ras1.OCM.gwn,10.7.238.44
+RAS,SHH-E,10.9.120.14,ras1.SHH-E.gwn,10.9.120.44
+Application Server,STJ,10.5.76.10,appserver.STJ.gwn,10.5.76.40
+RAS,CAR-E,10.9.84.15,ras2.CAR-E.gwn,10.9.84.45
+Application Server,FARV,10.8.80.10,appserver.FARV.gwn,10.8.80.40
+Video Server,FOC,10.6.28.29,vls1.FOC.gwn,10.6.28.49
+Video Server,IFO,10.5.60.28,vls2.IFO.gwn,10.5.60.48
+Application Server,LCV,10.8.24.10,appserver.LCV.gwn,10.8.24.40
+Video Server,CAR-E,10.9.0.28,vls2.CRLE.gwn,10.9.0.48
+Video Server,CTXV,10.8.140.28,vls2.CTXV.gwn,10.8.140.48
+RAS,WACV,10.8.136.14,ras1.WACV.gwn,10.8.136.44
+RAS,NTXV,10.8.156.15,ras2.NTXV.gwn,10.8.156.45
+Application Server,NCP,10.7.144.10,appserver.NCP.gwn,10.7.144.40
+Video Server,TGS,10.7.148.27,vls3.TGS.gwn,10.7.148.47
+Video Server,BAY-E,10.9.68.24,vls6.BJM.gwn,10.9.68.44
+Video Server,KPSC-E,10.214.182.6,vls2.KPC.gwn,10.214.182.7
+Test Application Server,DUP,10.5.12.20,apptest.DUP.gwn,10.5.12.41
+RAS,SVI,10.9.221.15,ras2.SVI.gwn,10.9.221.45
+Video Server,TGS,10.7.148.26,vls4.TGS.gwn,10.7.148.46
+Video Server,SPG,10.7.228.26,vls4.SPG.gwn,10.7.228.46
+Video Server,HOA,10.9.232.29,vls1.HOA.gwn,10.9.232.42
+Video Server,AHA,10.5.220.28,vls2.AHA.gwn,10.5.220.48
+Application Server,RICV,10.8.60.10,appserver.RICV.gwn,10.8.60.40
+Video Server,DACH,10.13.253.28,vls2.DACH.gwn,10.13.253.48
+RAS,SPC,10.9.132.15,ras2.SPC.gwn,10.9.132.45
+Video Server,EMO,10.7.168.28,vls2.EMO.gwn,10.7.168.48
+Video Server,VIR-E,10.5.136.27,vls3.VVH.gwn,10.5.136.47
+Video Server,CHA,10.7.8.29,vls1.CHA.gwn,10.7.8.49
+Video Server,UMI,10.7.64.26,vls4.UMI.gwn,10.7.64.46
+Video Server,OCM,10.7.238.28,vls2.OCM.gwn,10.7.238.48
+Video Server,CAR-E,10.9.0.27,vls3.CRLE.gwn,10.9.0.47
+Video Server,TGS,10.7.102.29,vls1.MCM.gwn,10.7.102.49
+Video Server,STJ,10.5.76.29,vls1.STJ.gwn,10.5.76.49
+Video Server,RSE,10.5.28.29,vls1.RSE.gwn,10.5.28.49
+Video Server,BAY-E,10.9.68.27,vls3.BJC.gwn,10.9.68.47
+Application Server,ERV,10.8.8.10,appserver.ERV.gwn,10.8.8.40
+Application Server,MMW,10.5.246.10,appserver.MMW.gwn,10.5.246.40
+Video Server,LFV,10.8.72.29,vls1.LFV.gwn,10.8.72.49
+Video Server,LEG-E,10.131.240.29,vls1.LEMA.gwn,10.131.240.49
+Application Server,KGAR,10.238.3.131,appserver.KGAR.gwn,10.238.3.130
+Video Server,CHC,10.5.240.28,vls2.CWM.gwn,10.5.240.48
+Video Server,ACD,10.5.228.28,vls2.ACD.gwn,10.5.228.48
+RAS,WELL-E,10.9.80.14,ras1.WELL-E.gwn,10.9.80.44
+Video Server,STXV,10.8.148.29,vls1.STXV.gwn,10.8.148.49
+Application Server,SLE,10.5.84.10,appserver.SLE.gwn,10.5.84.40
+Video Server,USC,10.5.96.29,vls1.USC.gwn,10.5.96.49
+Video Server,BAY-E,10.9.211.29,vls1.BRMC.gwn,10.9.211.49
+RAS,SMMC,10.9.230.14,ras1.SMMC.gwn,10.9.230.44
+Video Server,LAV,10.8.76.29,vls1.LAV.gwn,10.8.76.49
+Video Server,RAYV,10.8.120.29,vls1.RAYV.gwn,10.8.120.49
+Test Application Server,TGEN,10.224.0.20,apptest.TGEN.gwn,10.224.0.41
+Video Server,PHOV,10.8.108.29,vls1.PHOV.gwn,10.8.108.49
+Video Server,KGAR,10.238.1.199,vls1.KGAR.gwn,10.238.1.198
+Video Server,DUP,10.5.12.28,vls2.DUP.gwn,10.5.12.48
+Video Server,MON,10.5.172.29,vls1.MON.gwn,10.5.172.49
+Video Server,NAC,10.7.16.26,vls4.NAC.gwn,10.7.16.46
+Video Server,CMG,10.9.136.29,vls1.CMG.gwn,10.9.136.49
+RAS,STXV,10.8.148.15,ras2.STXV.gwn,10.8.148.45
+Video Server,CIN,10.7.200.29,vls1.CIN.gwn,10.7.200.49
+Video Server,TSPM,10.9.110.29,vls1.TSIR.gwn,10.9.110.49
+RAS,TXWO,10.7.112.15,ras2.TXWO.gwn,10.7.112.45
+RAS,KPSC-E,172.22.183.25,ras2.KPSC-E.gwn,172.22.183.28
+Video Server,CMC-E,10.7.164.29,vls1.CFE.gwn,10.7.164.49
+Video Server,DCH,10.5.242.28,vls2.DCH.gwn,10.5.242.48
+Video Server,UMI,10.7.64.29,vls1.UMI.gwn,10.7.64.49
+Video Server,BPV,10.8.36.29,vls1.BPV.gwn,10.8.36.49
+Video Server,NAC,10.7.16.28,vls2.NAC.gwn,10.7.16.48
+Video Server,WELL-E,10.9.82.29,vls1.WELP.gwn,10.9.82.49
+Application Server,PIUV,10.8.48.10,appserver.PIUV.gwn,10.8.48.40
+Application Server,HFB,10.5.112.10,appserver.HFB.gwn,10.5.112.40
+Video Server,DSJ,10.9.104.29,vls1.DSJW.gwn,10.9.104.49
+Video Server,VIR-E,10.7.172.29,vls1.VVW.gwn,10.7.172.49
+RAS,KPSCTEST,172.20.58.179,ras2.KPSCTEST.gwn,172.20.82.136
+RAS,FTBV,10.7.100.14,ras1.FTBV.gwn,10.7.100.44
+Application Server,CSP,10.7.140.10,appserver.CSP.gwn,10.7.140.40
+RAS,NTXV,10.8.156.14,ras1.NTXV.gwn,10.8.156.44
+RAS,UCM,165.68.88.21,ras1.UCM.gwn,165.68.88.35
+Video Server,BAY-E,10.9.68.28,vls2.BJW.gwn,10.9.68.48
+Video Server,JMO,10.5.176.27,vls3.JMO.gwn,10.5.176.47
+Video Server,JMO,10.5.176.26,vls4.JMO.gwn,10.5.176.46
+Video Server,UMC,10.7.28.29,vls1.UMC.gwn,10.7.28.49
+RAS,SPG,10.7.228.15,ras2.SPG.gwn,10.7.228.45
+Video Server,WPBV,10.8.16.29,vls1.WPBV.gwn,10.8.16.49
+Video Server,UMI,10.7.64.28,vls2.UMI.gwn,10.7.64.48
+Video Server,TXWO,10.7.112.29,vls1.TXWO.gwn,10.7.112.49
+Application Server,WPBV,10.8.16.10,appserver.WPBV.gwn,10.8.16.40
+Video Server,BAY-E,10.9.68.29,vls1.BJW.gwn,10.9.68.49
+Video Server,SFV,10.8.44.29,vls1.SFV.gwn,10.8.44.49
+Video Server,CME,10.242.200.27,vls3.CME.gwn,10.242.200.77
+Video Server,OLA,10.7.0.26,vls4.OLA.gwn,10.7.0.46
+Video Server,TGS,10.7.148.29,vls1.TGS.gwn,10.7.148.49
+Video Server,KPSC-E,10.204.135.10,vls1.KBP.gwn,10.204.135.11
+Test Application Server,SPC,10.9.132.20,apptest.SPC.gwn,10.9.132.41
+Video Server,SELZ-E,10.9.164.28,vls2.SELE.gwn,10.9.164.48
+RAS,BAY-E,10.9.251.15,ras2.BAY-E.gwn,10.9.251.45
+Video Server,UMI,10.7.64.27,vls3.UMI.gwn,10.7.64.47
+Video Server,CMC-E,10.7.164.27,vls3.CFE.gwn,10.7.164.47
+Video Server,SEA,10.7.192.28,vls2.SEA.gwn,10.7.192.48
+Application Server,WWR,10.5.40.10,appserver.WWR.gwn,10.5.40.40
+Test Application Server,TJU,10.5.48.20,apptest.TJU.gwn,10.5.48.41
+Video Server,SPC,10.9.132.29,vls1.SPC.gwn,10.9.132.49
+Video Server,CMG,10.9.136.28,vls2.CMG.gwn,10.9.136.48
+Video Server,DSJ,10.7.180.28,vls2.DSJ.gwn,10.7.180.48
+Video Server,CAR-E,10.9.24.28,vls2.CRCL.gwn,10.9.24.48
+Video Server,TSPM,10.9.124.29,vls1.TSPM.gwn,10.9.124.49
+Video Server,LCV,10.8.24.28,vls2.LCV.gwn,10.8.24.48
+Video Server,USC,10.5.96.26,vls4.USC.gwn,10.5.96.46
+Test Application Server,UCM,165.68.88.30,apptest.UCM.gwn,165.68.88.40
+Video Server,RAYV,10.8.120.28,vls2.RAYV.gwn,10.8.120.48
+RAS,GLM,10.7.176.14,ras1.GLM.gwn,10.7.176.44
+Video Server,TGS,10.7.152.29,vls1.TBN.gwn,10.7.152.49
+RAS,CHC,10.5.144.15,ras2.CHC.gwn,10.5.144.45
+Video Server,HAS,10.5.80.29,vls1.HAS.gwn,10.5.80.49
+Video Server,DSJ,10.7.180.27,vls3.DSJ.gwn,10.7.180.47
+Video Server,CHA,10.7.8.28,vls2.CHA.gwn,10.7.8.48
+Video Server,BAY-E,10.9.60.28,vls2.SFB.gwn,10.9.60.48
+RAS,TSPM,10.9.124.14,ras1.TSPM.gwn,10.9.124.44
+Video Server,KPNC-E,10.182.76.134,vls3.KSLE.gwn,10.182.76.198
+Video Server,TSPM,10.9.109.29,vls1.TSPE.gwn,10.9.109.49
+Video Server,CIN,10.7.59.28,vls2.CIL.gwn,10.7.59.48
+JANA,NOR,10.7.184.85,jana.NOR.gwn,10.7.184.47
+RAS,SPM,10.7.20.15,ras2.SPM.gwn,10.7.20.45
+Video Server,BAY-E,10.7.204.28,vls2.BJN.gwn,10.7.204.48
+Application Server,EXSJ,10.9.100.10,appserver.EXSJ.gwn,10.9.100.40
+Video Server,TGEN,10.224.0.28,vls2.TGEN.gwn,10.224.0.48
+RAS,VIR-E,10.5.0.15,ras2.VIR-E.gwn,10.5.0.45
+Video Server,TJU,10.5.48.26,vls4.TJU.gwn,10.5.48.46
+Application Server,LAV,10.8.76.10,appserver.LAV.gwn,10.8.76.40
+Video Server,BAY-E,10.7.204.29,vls1.BJN.gwn,10.7.204.49
+Video Server,KOC,10.7.104.29,vls1.KOC.gwn,10.7.104.49
+Video Server,LEBV,10.8.104.29,vls1.LEBV.gwn,10.8.104.49
+Video Server,NSB,10.7.196.29,vls1.NSB.gwn,10.7.196.49
+Video Server,VAP,10.131.26.29,vls1.VAP.gwn,10.131.26.49
+Test Application Server,NOR,10.7.184.20,apptest.NOR.gwn,10.7.184.41
+Video Server,IAC,10.7.236.29,vls1.IAC.gwn,10.7.236.49
+Video Server,KERV,10.8.144.29,vls1.KERV.gwn,10.8.144.49
+Video Server,BAY-E,10.9.44.28,vls2.MPN.gwn,10.9.44.48
+Video Server,CHC,10.5.240.29,vls1.CWM.gwn,10.5.240.49
+Video Server,GTU,10.7.120.29,vls1.GTU.gwn,10.7.120.49
+Video Server,MMB,10.5.224.29,vls1.MMB.gwn,10.5.224.49
+Video Server,CAR-E,10.9.112.29,vls1.CRUV.gwn,10.9.112.49
+Video Server,LCV,10.8.24.29,vls1.LCV.gwn,10.8.24.49
+Video Server,CBO,172.28.15.11,vls1.CBO.gwn,172.28.15.23
+Video Server,TXWO,10.7.112.28,vls2.TXWO.gwn,10.7.112.48
+RAS,READ,10.10.12.15,ras2.READ.gwn,10.10.12.45
+Application Server,MIAV,10.8.12.10,appserver.MIAV.gwn,10.8.12.40
+Video Server,CAL,10.7.48.29,vls1.CAL.gwn,10.7.48.49
+Video Server,FFL,10.6.0.29,vls1.FFL.gwn,10.6.0.49
+Application Server,OLA,10.7.0.10,appserver.OLA.gwn,10.7.0.40
+Application Server,EOV,10.8.64.10,appserver.EOV.gwn,10.8.64.40
+RAS,TJU,10.5.48.14,ras1.TJU.gwn,10.5.48.44
+RAS,CMG,10.9.136.14,ras1.CMG.gwn,10.9.136.44
+Video Server,TAMV,10.8.32.26,vls4.TAMV.gwn,10.8.32.46
+Video Server,SJC,10.7.40.29,vls1.SJC.gwn,10.7.40.49
+RAS,CHC,10.5.144.14,ras1.CHC.gwn,10.5.144.44
+Video Server,CIN,10.7.200.28,vls2.CIN.gwn,10.7.200.48
+Video Server,SPM,10.7.20.24,vls6.SPM.gwn,10.7.20.54
+RAS,CMC-E,10.7.56.15,ras2.CMC-E.gwn,10.7.56.45
+Video Server,LLH,10.5.248.29,vls1.LLH.gwn,10.5.248.49
+RAS,SPM,10.7.20.14,ras1.SPM.gwn,10.7.20.44
+Application Server,HVS,10.5.124.10,appserver.HVS.gwn,10.5.124.40
+Application Server,WBV,10.8.56.10,appserver.WBV.gwn,10.8.56.40
+Video Server,PRI,10.5.247.29,vls1.PRI.gwn,10.5.247.49
+Video Server,WILV,10.8.96.29,vls1.WILV.gwn,10.8.96.49
+Video Server,CHC,10.5.144.29,vls1.CHC.gwn,10.5.144.49
+Video Server,BAY-E,10.9.40.29,vls1.MPL.gwn,10.9.40.49
+Video Server,CLA,10.108.0.29,vls1.CLA.gwn,10.108.0.49
+Application Server,WJM,10.5.250.10,appserver.WJM.gwn,10.5.250.40
+Video Server,KCH,10.5.32.29,vls1.KCH.gwn,10.5.32.49
+Video Server,CMC-E,10.7.58.29,vls1.CFR.gwn,10.7.58.49
+Video Server,SELZ-E,10.9.170.29,vls1.SEFT.gwn,10.9.170.49
+Video Server,EMO,10.7.168.29,vls1.EMO.gwn,10.7.168.49
+Video Server,CAR-E,10.9.140.29,vls1.CRLI.gwn,10.9.140.49
+Video Server,CAC,10.5.52.25,vls5.CAC.gwn,10.5.52.55
+Video Server,CIN,10.7.200.27,vls3.CIN.gwn,10.7.200.47
+Video Server,SJV,10.8.20.28,vls2.SJV.gwn,10.8.20.48
+RAS,READ,10.10.12.14,ras1.READ.gwn,10.10.12.44
+RAS,TXWO,10.7.112.14,ras1.TXWO.gwn,10.7.112.44
+Video Server,FHS-E,10.6.16.29,vls1.FEO.gwn,10.6.16.49
+Video Server,TXWE,10.7.116.29,vls1.TXWE.gwn,10.7.116.49
+Video Server,JMO,10.5.176.28,vls2.JMO.gwn,10.5.176.48
+Video Server,CIN,10.7.59.29,vls1.CIL.gwn,10.7.59.49
+Video Server,PNM,10.9.76.27,vls3.PNM.gwn,10.9.76.47
+RAS,CIN,10.7.200.15,ras2.CIN.gwn,10.7.200.45
+Video Server,GSM,10.220.0.28,vls2.GSM.gwn,10.220.0.48
+RAS,SPC,10.9.132.14,ras1.SPC.gwn,10.9.132.44
+Application Server,WDCV,10.8.88.10,appserver.WDCV.gwn,10.8.88.40
+Video Server,BAY-E,10.9.52.28,vls2.MEC.gwn,10.9.52.48
+Video Server,UMI,10.7.64.25,vls5.UMI.gwn,10.7.64.55
+Application Server,ACD,10.5.228.10,appserver.ACD.gwn,10.5.228.40
+Video Server,BWO,10.7.212.29,vls1.BWO.gwn,10.7.212.49
+Video Server,PIJV,10.8.52.29,vls1.PIJV.gwn,10.8.52.49
+Video Server,CAR-E,10.9.112.28,vls2.CRUV.gwn,10.9.112.48
+Video Server,FTBV,10.7.100.29,vls1.FTBV.gwn,10.7.100.49
+Application Server,NBB,10.5.249.10,appserver.NBB.gwn,10.5.249.40
+Video Server,PNM,10.9.76.28,vls2.PNM.gwn,10.9.76.48
+Video Server,SHH-E,10.9.120.29,vls1.SHEC.gwn,10.9.120.49
+Video Server,SJV,10.8.20.29,vls1.SJV.gwn,10.8.20.49
+RAS,CNM,10.5.16.15,ras2.CNM.gwn,10.5.16.45
+Video Server,EXSJ,10.9.100.29,vls1.EXSJ.gwn,10.9.100.49
+Video Server,KPNC-E,10.183.160.133,vls2.KOAK.gwn,10.183.160.197
+Video Server,FWC,10.5.56.29,vls1.FWC.gwn,10.5.56.49
+RAS,CENH,10.9.223.15,ras2.CENH.gwn,10.9.223.45
+Video Server,HFB,10.5.112.28,vls2.HFB.gwn,10.5.112.48
+Video Server,PNM,10.9.76.29,vls1.PNM.gwn,10.9.76.49
+Video Server,CAL,10.7.48.27,vls3.CAL.gwn,10.7.48.47
+RAS,RSE,10.5.28.15,ras2.RSE.gwn,10.5.28.45
+Video Server,TAMV,10.8.32.25,vls5.TAMV.gwn,10.8.32.55
+Test Application Server,CIN,10.7.200.20,apptest.CIN.gwn,10.7.200.41
+Video Server,SMA,10.5.104.29,vls1.SMA.gwn,10.5.104.49
+Test Application Server,CNM,10.5.16.20,apptest.CNM.gwn,10.5.16.41
+Application Server,GTU,10.7.120.10,appserver.GTU.gwn,10.7.120.40
+Video Server,CARO,10.9.88.29,vls1.CARO.gwn,10.9.88.49
+Video Server,CAR-E,10.9.12.29,vls1.CRKM.gwn,10.9.12.49
+Video Server,BAY-E,10.9.48.29,vls1.MED.gwn,10.9.48.29
+Video Server,COC,10.5.120.29,vls1.COC.gwn,10.5.120.49
+Video Server,WPBV,10.8.16.28,vls2.WPBV.gwn,10.8.16.48
+Video Server,CAC,10.5.52.23,vls7.CAC.gwn,10.5.52.53
+Video Server,BAY-E,10.9.208.28,vls2.BWH.gwn,10.9.208.48
+Application Server,NWO,10.7.24.10,appserver.NWO.gwn,10.7.24.40
+Video Server,LLE,10.5.232.29,vls1.LLE.gwn,10.5.232.49
+Video Server,CMC-E,10.7.164.26,vls4.CFE.gwn,10.7.164.46
+Application Server,SEA,10.7.192.10,appserver.SEA.gwn,10.7.192.40
+Application Server,FWS,10.6.24.10,appserver.FWS.gwn,10.6.24.40
+Application Server,DUP,10.5.12.10,appserver.DUP.gwn,10.5.12.40
+Application Server,VAP,10.131.26.10,appserver.VAP.gwn,10.131.26.40
+Video Server,WJM,10.5.250.29,vls1.WJM.gwn,10.5.250.49
+Video Server,SMMC,10.9.230.29,vls1.SMMC.gwn,10.9.230.49
+Application Server,GSM,10.220.0.10,appserver.GSM.gwn,10.220.0.40
+Video Server,CME,10.242.200.29,vls1.CME.gwn,10.242.200.79
+Video Server,SELZ-E,10.9.164.29,vls1.SELE.gwn,10.9.164.49
+Video Server,SFM,10.118.25.29,vls1.SFM.gwn,10.118.25.9
+RAS,FHS-E,10.6.12.15,ras2.FHS-E.gwn,10.6.12.45
+Application Server,FFL,10.6.0.10,appserver.FFL.gwn,10.6.0.40
+Video Server,BAY-E,10.9.64.28,vls2.BJS.gwn,10.9.64.48
+Video Server,SFM,10.118.25.28,vls2.SFM.gwn,10.118.25.8
+Video Server,CTXV,10.8.140.29,vls1.CTXV.gwn,10.8.140.49
+Video Server,CSP,10.7.140.29,vls1.CSP.gwn,10.7.140.49
+Video Server,VAL,10.9.108.29,vls1.VAL.gwn,10.9.108.49
+Video Server,HOA,10.9.232.28,vls2.HOA.gwn,10.9.232.28
+RAS,MOF,10.9.96.15,ras2.MOF.gwn,10.9.96.45
+Video Server,TJU,10.5.48.28,vls2.TJU.gwn,10.5.48.48
+RAS,PSHC,10.7.220.14,ras1.PSHC.gwn,10.7.220.44
+Video Server,SMM,10.5.238.28,vls2.SMM.gwn,10.5.238.48
+Video Server,KPNC-E,10.241.38.10,vls1.KRED.gwn,10.241.38.20
+Video Server,CAL,10.7.48.28,vls2.CAL.gwn,10.7.48.48
+Video Server,GLM,10.7.176.28,vls2.GLM.gwn,10.7.176.48
+Video Server,CAR-E,10.9.8.29,vls1.CRPI.gwn,10.9.8.49
+Video Server,SEA,10.7.192.29,vls1.SEA.gwn,10.7.192.49
+Application Server,CAR,10.7.44.10,appserver.CAR.gwn,10.7.44.40
+Video Server,CLA,10.108.0.27,vls3.CLA.gwn,10.108.0.47
+RAS,CBO,172.28.15.7,ras1.CBO.gwn,172.28.15.20
+Video Server,FHS-E,10.6.4.28,vls2.FOR.gwn,10.6.4.48
+Application Server,HAS,10.5.80.10,appserver.HAS.gwn,10.5.80.40
+Video Server,CAC,10.5.52.27,vls3.CAC.gwn,10.5.52.47
+RAS,TJU,10.5.48.15,ras2.TJU.gwn,10.5.48.45
+Video Server,CME,10.242.200.28,vls2.CME.gwn,10.242.200.78
+Application Server,SMM,10.5.238.10,appserver.SMM.gwn,10.5.238.40
+Application Server,COC,10.5.120.10,appserver.COC.gwn,10.5.120.40
+Test Application Server,KPNCTEST,172.20.58.148,ras1.KPNCTEST.gwn,172.20.82.31
+RAS,SPG,10.7.228.14,ras1.SPG.gwn,10.7.228.44
+Test Application Server,SMMC,10.9.230.20,apptest.SMMC.gwn,10.9.230.41
+RAS,JDC,10.7.52.14,ras1.JDC.gwn,10.7.52.44
+Video Server,ORLV,10.8.40.28,vls2.ORLV.gwn,10.8.40.48
+Video Server,OLA,10.7.0.27,vls3.OLA.gwn,10.7.0.47
+Video Server,CAR-E,10.9.0.29,vls1.CRLE.gwn,10.9.0.49
+Video Server,BAY-E,10.9.56.29,vls1.SAN.gwn,10.9.56.49
+RAS,CIN,10.7.200.14,ras1.CIN.gwn,10.7.200.44
+Video Server,GSM,10.220.0.29,vls1.GSM.gwn,10.220.0.49
+Video Server,LEG-E,10.181.240.29,vls1.LESC.gwn,10.181.240.49
+Application Server,MMB,10.5.224.10,appserver.MMB.gwn,10.5.224.40
+Application Server,OLO,10.7.4.10,appserver.OLO.gwn,10.7.4.40
+Video Server,CMC-E,10.7.160.28,vls2.CCL.gwn,10.7.160.48
+Video Server,SPG,10.7.228.28,vls2.SPG.gwn,10.7.228.48
+RAS,CMC-E,10.7.56.14,ras1.CMC-E.gwn,10.7.56.44
+Video Server,WMC,10.5.24.28,vls2.WMC.gwn,10.5.24.48
+Video Server,UPR,10.7.12.27,vls3.UPR.gwn,10.7.12.47
+Video Server,CMC-E,10.7.160.29,vls1.CCL.gwn,10.7.160.49
+Application Server,LFV,10.8.72.10,appserver.LFV.gwn,10.8.72.40
+RAS,KPNC-E,172.18.120.104,ras2.KPNC-E.gwn,172.19.97.91
+RAS,CARO,10.9.88.14,ras1.CARO.gwn,10.9.88.44
+Video Server,OCM,10.7.238.29,vls1.OCM.gwn,10.7.238.49
+RAS,PSHC,10.7.220.15,ras2.PSHC.gwn,10.7.220.45
+Video Server,DSJ,10.7.180.29,vls1.DSJ.gwn,10.7.180.49
+Video Server,JDC,10.7.52.28,vls2.JDC.gwn,10.7.52.48
+Application Server,SFV,10.8.44.10,appserver.SFV.gwn,10.8.44.40
+Video Server,RDL,10.5.8.29,vls1.RDL.gwn,10.5.8.49
+Application Server,ORLV,10.8.40.10,appserver.ORLV.gwn,10.8.40.40
+Video Server,FARV,10.8.80.29,vls1.FARV.gwn,10.8.80.49
+Video Server,RSM,10.5.132.29,vls1.RSM.gwn,10.5.132.49
+Test Application Server,SPM,10.7.20.20,apptest.SPM.gwn,10.7.20.41
+Application Server,FWC,10.5.56.10,appserver.FWC.gwn,10.5.56.40
+Video Server,CNM,10.5.16.29,vls1.CNM.gwn,10.5.16.49
+Video Server,UCM,165.68.88.29,vls1.UCM.gwn,165.68.88.39
+Application Server,LLE,10.5.232.10,appserver.LLE.gwn,10.5.232.40
+Video Server,WDCV,10.8.88.28,vls2.WDCV.gwn,10.8.88.48
+RAS,MOF,10.9.96.14,ras1.MOF.gwn,10.9.96.44
+Test Application Server,CLVT,10.9.144.20,apptest.CLVT.gwn,10.9.144.41
+Video Server,STXV,10.8.148.28,vls2.STXV.gwn,10.8.148.48
+RAS,CMG,10.9.136.15,ras2.CMG.gwn,10.9.136.45
+RAS,VAL,10.9.108.15,ras2.VAL.gwn,10.9.108.45
+Video Server,WELL-E,10.9.82.28,vls2.WELP.gwn,10.9.82.48
+Video Server,TSPM,10.9.124.28,vls2.TSPM.gwn,10.9.124.48
+RAS,SAMV,10.8.152.15,ras2.SAMV.gwn,10.8.152.45
+Video Server,SPC,10.9.132.28,vls2.SPC.gwn,10.9.132.48
+Application Server,SDV,10.8.100.10,appserver.SDV.gwn,10.8.100.40
+Video Server,OLO,10.7.4.29,vls1.OLO.gwn,10.7.4.49
+Video Server,MIAV,10.8.12.28,vls2.MIAV.gwn,10.8.12.48
+Video Server,BAY-E,10.9.56.28,vls2.SAN.gwn,10.9.56.48
+Video Server,BAY-E,10.9.64.29,vls1.BJS.gwn,10.9.64.49
+RAS,DSJ,10.7.180.15,ras2.DSJ.gwn,10.7.180.45
+Video Server,CAC,10.5.52.24,vls6.CAC.gwn,10.5.52.54
+Video Server,NCP,10.7.144.28,vls2.NCP.gwn,10.7.144.48
+Video Server,FCAR,10.6.32.29,vls1.FCAR.gwn,10.6.32.49
+RAS,BIV,10.8.4.15,ras2.BIV.gwn,10.8.4.45
+Application Server,CLA,10.108.0.20,appserver.CLA.gwn,10.108.0.40
+Video Server,CDE,10.5.208.29,vls1.CDE.gwn,10.5.208.49
+Video Server,LEG-E,10.141.240.28,vls2.LEGS.gwn,10.141.240.48
+Video Server,ORLV,10.8.40.29,vls1.ORLV.gwn,10.8.40.49
+Video Server,ERV,10.8.8.29,vls1.ERV.gwn,10.8.8.49
+Video Server,SPM,10.7.20.26,vls4.SPM.gwn,10.7.20.46
+Video Server,MOF,10.9.96.29,vls1.MOF.gwn,10.9.96.49
+Video Server,SPG,10.7.228.27,vls3.SPG.gwn,10.7.228.47
+Test Application Server,SVI,10.9.221.20,apptest.SVI.gwn,10.9.221.41
+KVM,SOM,10.7.136.30,kvm.SOM.gwn,10.7.136.40
+RAS,DACH,10.13.253.14,ras1.DACH.gwn,10.13.253.44
+Video Server,CENH,10.9.223.29,vls1.CENH.gwn,10.9.223.49
+Video Server,NAC,10.7.16.27,vls3.NAC.gwn,10.7.16.47
+Video Server,CAR,10.7.44.29,vls1.CAR.gwn,10.7.44.49
+Video Server,NCP,10.7.144.29,vls1.NCP.gwn,10.7.144.49
+Video Server,CIN,10.9.162.28,vls2.CICH.gwn,10.9.162.48
+Video Server,PRSV,10.8.132.29,vls1.PRSV.gwn,10.8.132.49
+Video Server,MARV,10.8.68.29,vls1.MARV.gwn,10.8.68.49
+RAS,CBO,172.28.15.8,ras2.CBO.gwn,172.28.15.21
+Video Server,PIJV,10.8.52.28,vls2.PIJV.gwn,10.8.52.48
+Application Server,JMO,10.5.176.10,appserver.JMO.gwn,10.5.176.40
+RAS,FTBV,10.7.100.15,ras2.FTBV.gwn,10.7.100.45
+Application Server,EMO,10.7.168.10,appserver.EMO.gwn,10.7.168.40
+RAS,CNM,10.5.16.14,ras1.CNM.gwn,10.5.16.44
+Video Server,WJM,10.5.250.28,vls2.WJM.gwn,10.5.250.48
+Video Server,MON,10.5.172.28,vls2.MON.gwn,10.5.172.48
+RAS,BIV,10.8.4.14,ras1.BIV.gwn,10.8.4.44
+Video Server,EXSJ,10.9.100.28,vls2.EXSJ.gwn,10.9.100.48
+Video Server,COC,10.5.120.26,vls4.COC.gwn,10.5.120.46
+Video Server,VAL,10.9.108.28,vls2.VAL.gwn,10.9.108.48
+RAS,TGS,10.7.148.14,ras1.TGS.gwn,10.7.148.44
+Video Server,CAR-E,10.9.128.28,vls2.CRME.gwn,10.9.128.48
+Application Server,RDL,10.5.8.10,appserver.RDL.gwn,10.5.8.40
+Video Server,LLE,10.5.232.28,vls2.LLE.gwn,10.5.232.48
+Video Server,NWO,10.7.24.29,vls1.NWO.gwn,10.7.24.49
+Video Server,CAR,10.7.44.28,vls2.CAR.gwn,10.7.44.48
+Video Server,KPNC-E,10.183.160.134,vls3.KOAK.gwn,10.183.160.198
+RAS,PNM,10.9.76.15,ras2.PNM.gwn,10.9.76.45
+Video Server,BAY-E,10.9.68.26,vls4.BJC.gwn,10.9.68.46
+RAS,SVI,10.9.221.14,ras1.SVI.gwn,10.9.221.44
+RAS,OCM,10.7.238.15,ras2.OCM.gwn,10.7.238.45
+Video Server,MDV,10.8.92.29,vls1.MDV.gwn,10.8.92.49
+Video Server,SOM,10.7.136.29,vls1.SOM.gwn,10.7.136.49
+Video Server,LEG-E,10.7.132.29,vls1.LEM.gwn,10.7.132.49
+Video Server,BAY-E,10.9.60.29,vls1.SFB.gwn,10.9.60.49
+Video Server,WBV,10.8.56.29,vls1.WBV.gwn,10.8.56.49
+Video Server,OLA,10.7.0.29,vls1.OLA.gwn,10.7.0.49
+Application Server,LEBV,10.8.104.10,appserver.LEBV.gwn,10.8.104.40
+Application Server,TXWE,10.7.116.10,appserver.TXWE.gwn,10.7.116.40
+RAS,TSPM,10.9.124.15,ras2.TSPM.gwn,10.9.124.45
+Video Server,TGS,10.7.152.27,vls3.TBN.gwn,10.7.152.47
+Video Server,TGS,10.7.103.29,vls1.BEBU.gwn,10.7.103.49
+Video Server,CLA,10.108.0.26,vls4.CLA.gwn,10.108.0.46
+Video Server,FWS,10.6.24.29,vls1.FWS.gwn,10.6.24.49
+Video Server,TGEN,10.224.0.29,vls1.TGEN.gwn,10.224.0.49
+Video Server,TGS,10.7.152.28,vls2.TBN.gwn,10.7.152.48
+Video Server,CMC-E,10.7.164.25,vls5.CFE.gwn,10.7.164.55
+Video Server,CAR-E,10.9.154.28,vls2.CRNE.gwn,10.9.154.48
+Application Server,WTXV,10.8.116.10,appserver.WTXV.gwn,10.8.116.40
+Application Server,USC,10.5.96.10,appserver.USC.gwn,10.5.96.40
+Video Server,NOR,10.7.184.28,vls2.NOR.gwn,10.7.184.48
+Test Application Server,SPG,10.7.228.20,apptest.SPG.gwn,10.7.228.41
+Application Server,UPR,10.7.12.10,appserver.UPR.gwn,10.7.12.40
+RAS,UCM,165.68.88.22,ras2.UCM.gwn,165.68.88.36
+Video Server,CAC,10.5.52.26,vls4.CAC.gwn,10.5.52.46
+Application Server,GAIV,10.8.28.10,appserver.GAIV.gwn,10.8.28.40
+Video Server,CAR-E,10.9.0.25,vls5.CRLE.gwn,10.9.0.55
+Video Server,TSPM,10.9.110.28,vls2.TSIR.gwn,10.9.110.48
+Application Server,NOR,10.7.184.10,appserver.NOR.gwn,10.7.184.40
+Video Server,CAR-E,10.9.16.29,vls1.CRUN.gwn,10.9.16.49
+Test Application Server,NAC,10.7.16.20,apptest.NAC.gwn,10.7.16.41
+Video Server,SPG,10.7.228.29,vls1.SPG.gwn,10.7.228.49
+Video Server,OLA,10.7.0.24,vls6.OLA.gwn,10.7.0.54
+Test Application Server,KPNCTEST,172.20.58.58,ras2.KPNCTEST.gwn,172.20.82.33
+Application Server,IAC,10.7.236.10,appserver.IAC.gwn,10.7.236.40
+Video Server,CLVT,10.9.144.29,vls1.CLVT.gwn,10.9.144.49
+Video Server,TSPM,10.9.109.28,vls2.TSPE.gwn,10.9.109.48
+Application Server,SJC,10.7.40.10,appserver.SJC.gwn,10.7.40.40
+Video Server,SDV,10.8.100.29,vls1.SDV.gwn,10.8.100.49
+Application Server,CHA,10.7.8.10,appserver.CHA.gwn,10.7.8.40
+Application Server,PHOV,10.8.108.10,appserver.PHOV.gwn,10.8.108.40
+Video Server,BAY-E,10.9.48.28,vls2.MED.gwn,10.9.48.48
+Video Server,NTXV,10.8.156.29,vls1.NTXV.gwn,10.8.156.49
+Video Server,FTBV,10.7.100.28,vls2.FTBV.gwn,10.7.100.48
+RAS,FHS-E,10.6.12.14,ras1.FHS-E.gwn,10.6.12.44
+RAS,SELZ-E,10.9.163.14,ras1.SELZ-E.gwn,10.9.163.44
+Video Server,CAR-E,10.9.20.29,vls1.STAN.gwn,10.9.20.49
+Application Server,CAC,10.5.52.10,appserver.CAC.gwn,10.5.52.40
+Application Server,FOC,10.6.28.10,appserver.FOC.gwn,10.6.28.40
+Application Server,UPIT,157.229.167.10,appserver.UPIT.gwn,157.229.167.17
+Video Server,KPSC-E,10.204.135.12,vls2.KBP.gwn,10.204.135.13
+Video Server,EOV,10.8.64.28,vls2.EOV.gwn,10.8.64.48
+Application Server,BWO,10.7.212.10,appserver.BWO.gwn,10.7.212.40
+Video Server,TJU,10.5.48.29,vls1.TJU.gwn,10.5.48.49
+Video Server,CARO,10.9.88.28,vls2.CARO.gwn,10.9.88.48
+Video Server,GLM,10.7.176.27,vls3.GLM.gwn,10.7.176.47
+RAS,DSJ,10.7.180.14,ras1.DSJ.gwn,10.7.180.40
+Video Server,MMB,10.5.224.28,vls2.MMB.gwn,10.5.224.48
+Video Server,CENH,10.9.223.28,vls2.CENH.gwn,10.9.223.48
+Video Server,DACH,10.13.253.29,vls1.DACH.gwn,10.13.253.49
+Video Server,HFB,10.5.112.27,vls3.HFB.gwn,10.5.112.47
+Video Server,NBB,10.5.216.29,vls1.KSC.gwn,10.5.216.49
+Video Server,IFO,10.5.60.29,vls1.IFO.gwn,10.5.60.49
+Video Server,READ,10.10.12.28,vls2.READ.gwn,10.10.12.48
+Application Server,PRI,10.5.247.10,appserver.PRI.gwn,10.5.247.40
+Video Server,CAR-E,10.9.154.29,vls1.CRNE.gwn,10.9.154.49
+Video Server,WDCV,10.8.88.29,vls1.WDCV.gwn,10.8.88.49
+RAS,KPSC-E,172.22.183.21,ras1.KPSC-E.gwn,172.22.183.27
+Video Server,CAR-E,10.9.16.28,vls2.CRUN.gwn,10.9.16.48
+Video Server,WPBV,10.8.16.27,vls3.WPBV.gwn,10.8.16.47
+RAS,VIR-E,10.5.0.14,ras1.VIR-E.gwn,10.5.0.44
+Test Application Server,CENH,10.9.223.20,apptest.CENH.gwn,10.9.211.40
+Video Server,SMMC,10.9.230.28,vls2.SMMC.gwn,10.9.230.48
+Video Server,UPIT,157.229.167.19,vls1.UPIT.gwn,157.229.167.18
+Video Server,CBO,172.28.15.12,vls2.CBO.gwn,172.28.15.24
+RAS,BAY-E,10.9.251.14,ras1.BAY-E.gwn,10.9.251.44
+Application Server,UMC,10.7.28.10,appserver.UMC.gwn,10.7.28.40
+Video Server,VIR-E,10.5.136.28,vls2.VVH.gwn,10.5.136.48
+Video Server,TJU,10.5.48.27,vls3.TJU.gwn,10.5.48.47
+Video Server,MARV,10.8.68.28,vls2.MARV.gwn,10.8.68.48
+Video Server,SELZ-E,10.9.170.28,vls2.SEFT.gwn,10.9.170.48
+Video Server,PNM,10.9.76.26,vls4.PNM.gwn,10.9.76.46
+Video Server,READ,10.10.12.29,vls1.READ.gwn,10.10.12.49
+Video Server,CAR-E,10.9.184.29,vls1.CBR.gwn,10.9.184.49
+Video Server,PSHC,10.7.220.29,vls1.PSHC.gwn,10.7.220.49
+Video Server,CDE,10.5.208.28,vls2.CDE.gwn,10.5.208.48
+Video Server,UCM,165.68.88.27,vls3.UCC.gwn,165.68.88.37
+RAS,TGS,10.7.148.15,ras2.TGS.gwn,10.7.148.45
+Video Server,BAY-E,10.9.208.29,vls1.BWH.gwn,10.9.208.49
+Video Server,CAR-E,10.9.24.29,vls1.CRCL.gwn,10.9.24.29
+RAS,KERV,10.8.144.15,ras2.KERV.gwn,10.8.144.45
+RAS,LEG-E,10.12.240.14,ras1.LEG-E.gwn,10.12.240.44
+Video Server,UPR,10.7.12.29,vls1.UPR.gwn,10.7.12.49
+Application Server,RSM,10.5.132.10,appserver.RSM.gwn,10.5.132.40
+Application Server,RAYV,10.8.120.10,appserver.RAYV.gwn,10.8.120.40
+Video Server,KPSC-E,10.190.255.134,vls2.KSD.gwn,10.190.255.135
+Video Server,BIV,10.8.4.29,vls1.BIV.gwn,10.8.4.49
+Video Server,LEG-E,10.141.240.29,vls1.LEGS.gwn,10.141.240.49
+Video Server,SAMV,10.8.152.28,vls2.SAMV.gwn,10.8.152.48
+Application Server,BPV,10.8.36.10,appserver.BPV.gwn,10.8.36.40
+RAS,STXV,10.8.148.14,ras1.STXV.gwn,10.8.148.44
+Video Server,CNM,10.5.16.28,vls2.CNM.gwn,10.5.16.48
+Video Server,LFV,10.8.72.28,vls2.LFV.gwn,10.8.72.48
+Video Server,CAR-E,10.9.0.24,vls6.CRLE.gwn,10.9.0.54
+RAS,NAC,10.7.16.14,ras1.NAC.gwn,10.7.16.40
+Test Application Server,FTBV,10.7.100.20,apptest.FTBV.gwn,10.7.100.20
+Video Server,CAC,10.5.52.29,vls1.CAC.gwn,10.5.52.49
+Test Application Server,EXSJ,10.9.100.20,apptest.EXSJ.gwn,10.9.100.41
+Video Server,CIN,10.9.162.29,vls1.CICH.gwn,10.9.162.49
+Video Server,WACV,10.8.136.28,vls2.WACV.gwn,10.8.136.48
+Video Server,SAMV,10.8.152.29,vls1.SAMV.gwn,10.8.152.49
+Video Server,COM-E,10.5.44.29,vls1.CHE.gwn,10.5.44.49
+Video Server,BAY-E,10.9.52.29,vls1.MEC.gwn,10.9.52.49
+Video Server,ACD,10.5.228.29,vls1.ACD.gwn,10.5.228.49
+Video Server,KOC,10.7.104.28,vls2.KOC.gwn,10.7.104.48
+Video Server,CMG,10.9.138.29,vls3.CMG.gwn,10.9.138.49
+Video Server,UPR,10.7.12.28,vls2.UPR.gwn,10.7.12.48
+Video Server,COC,10.5.120.27,vls3.COC.gwn,10.5.120.47
+RAS,PNM,10.9.76.14,ras1.PNM.gwn,10.9.76.44
+Application Server,MARV,10.8.68.10,appserver.MARV.gwn,10.8.68.40
+Test Application Server,CBO,172.28.15.9,apptest.CBO.gwn,172.28.15.22
+RAS,CARO,10.9.88.15,ras2.CARO.gwn,10.9.88.45
+RAS,DACH,10.13.253.15,ras2.DACH.gwn,10.13.253.45
+Video Server,JMO,10.5.176.29,vls1.JMO.gwn,10.5.176.49
+Video Server,ORLV,10.8.40.27,vls3.ORLV.gwn,10.8.40.47
+Video Server,LEG-E,10.131.240.28,vls2.LEMA.gwn,10.131.240.48
+RAS,NAC,10.7.16.15,ras2.NAC.gwn,10.7.16.45
+Application Server,DCH,10.5.242.10,appserver.DCH.gwn,10.5.242.40
+Video Server,RICV,10.8.60.28,vls2.RICV.gwn,10.8.60.48
+Application Server,CME,10.242.200.10,appserver.CME.gwn,10.242.200.70
+Video Server,SPM,10.7.20.25,vls5.SPM.gwn,10.7.20.55
+Video Server,WTXV,10.8.116.29,vls1.WTXV.gwn,10.8.116.49
+Video Server,CHC,10.5.144.28,vls2.CHC.gwn,10.5.144.48
+Video Server,KPSC-E,10.190.255.132,vls1.KSD.gwn,10.190.255.133
+RAS,COM-E,10.5.140.15,ras2.COM-E.gwn,10.5.140.45
+RAS,COM-E,10.5.140.14,ras1.COM-E.gwn,10.5.140.44
+Video Server,CAR-E,10.9.0.26,vls4.CRLE.gwn,10.9.0.46
+Video Server,TGS,10.7.152.26,vls4.TBN.gwn,10.7.152.46
+Video Server,WWR,10.5.40.29,vls1.WWR.gwn,10.5.40.49
+RAS,VAL,10.9.108.14,ras1.VAL.gwn,10.9.108.44
+Video Server,HOI,10.9.234.29,vls1.HOI.gwn,10.9.234.49
+Test Application Server,VAL,10.9.108.20,apptest.VAL.gwn,10.9.108.41
+Application Server,KCH,10.5.32.10,appserver.KCH.gwn,10.5.32.40
+RAS,UMI,10.7.64.14,ras1.UMI.gwn,10.7.64.44
+Application Server,NSB,10.7.196.10,appserver.NSB.gwn,10.7.196.40
+Video Server,MIAV,10.8.12.29,vls1.MIAV.gwn,10.8.12.49
+Video Server,SPM,10.7.20.27,vls3.SPM.gwn,10.7.20.47
+Application Server,MON,10.5.172.10,appserver.MON.gwn,10.5.172.40
+Video Server,CAR-E,10.9.140.28,vls2.CRLI.gwn,10.9.140.48
+Video Server,NSB,10.7.196.28,vls2.NSB.gwn,10.7.196.48
+Video Server,KPNC-E,10.241.38.12,vls3.KRED.gwn,10.241.38.22
+Video Server,SPM,10.7.20.28,vls2.SPM.gwn,10.7.20.48
+Video Server,GLM,10.7.176.29,vls1.GLM.gwn,10.7.176.49
+Video Server,SOIN,10.7.128.28,vls2.SOIN.gwn,10.7.128.48
+Video Server,RICV,10.8.60.29,vls1.RICV.gwn,10.8.60.49
+Video Server,WMC,10.5.24.29,vls1.WMC.gwn,10.5.24.49
+Video Server,FHS-E,10.6.8.28,vls2.FCE.gwn,10.6.8.48
+Video Server,CAR-E,10.9.20.28,vls2.STAN.gwn,10.9.20.48
+Video Server,MMW,10.5.246.29,vls1.MMW.gwn,10.5.246.49
+Video Server,WACV,10.8.136.29,vls1.WACV.gwn,10.8.136.49
+Application Server,CAL,10.7.48.10,appserver.CAL.gwn,10.7.48.40
+Video Server,COC,10.5.120.28,vls2.COC.gwn,10.5.120.48
+Video Server,HAS,10.5.80.28,vls2.HAS.gwn,10.5.80.48
+RAS,SHH-E,10.9.120.15,ras2.SHH-E.gwn,10.9.120.45
+Video Server,NTXV,10.8.156.28,vls2.NTXV.gwn,10.8.156.48
+RAS,JDC,10.7.52.15,ras2.JDC.gwn,10.7.52.45
+Application Server,FCAR,10.6.32.10,appserver.FCAR.gwn,10.6.32.40
+Video Server,CAC,10.5.52.28,vls2.CAC.gwn,10.5.52.48
+Video Server,KPNC-E,172.18.120.107,vls1.KPNC-E.gwn,172.19.99.243
+Video Server,UCM,165.68.88.28,vls2.UCM.gwn,165.68.88.38
+Video Server,CAR-E,10.9.128.29,vls1.CRME.gwn,10.9.128.49
+Video Server,CMC-E,10.7.164.28,vls2.CFE.gwn,10.7.164.48
+RAS,WACV,10.8.136.15,ras2.WACV.gwn,10.8.136.45
+Video Server,OLA,10.7.0.25,vls5.OLA.gwn,10.7.0.55
+Test Application Server,GSM,10.220.0.20,apptest.GSM.gwn,10.220.0.41
+Application Server,SOIN,10.7.128.10,appserver.SOIN.gwn,10.7.128.40
+Video Server,KPSC-E,10.214.182.4,vls1.KPC.gwn,10.214.182.5
+Application Server,KOC,10.7.104.10,appserver.KOC.gwn,10.7.104.40
+Application Server,GPR,10.9.148.10,appserver.GPR.gwn,10.9.148.40
+Test Application Server,CMG,10.9.136.20,apptest.CMG.gwn,10.9.136.41
+Video Server,TAMV,10.8.32.27,vls3.TAMV.gwn,10.8.32.47
+Video Server,CAR-E,10.9.8.28,vls2.CRPI.gwn,10.9.8.48
+Video Server,SVI,10.9.221.28,vls2.SVI.gwn,10.9.221.48
+Video Server,WDCV,10.8.88.27,vls3.WDCV.gwn,10.8.88.47
+Video Server,VIR-E,10.5.136.29,vls1.VVH.gwn,10.5.136.49
+Video Server,KERV,10.8.144.28,vls2.KERV.gwn,10.8.144.48
+Application Server,WMC,10.5.24.10,appserver.WMC.gwn,10.5.24.40
+Application Server,PRSV,10.8.132.10,appserver.PRSV.gwn,10.8.132.40
+Video Server,MOF,10.9.96.28,vls2.MOF.gwn,10.9.96.48
+Video Server,KPNC-E,10.183.160.132,vls1.KOAK.gwn,10.183.160.196
+Video Server,RSE,10.5.28.28,vls2.RSE.gwn,10.5.28.48
+Application Server,IFO,10.5.60.10,appserver.IFO.gwn,10.5.60.40
+Application Server,SJV,10.8.20.10,appserver.SJV.gwn,10.8.20.40
+RAS,CENH,10.9.223.14,ras1.CENH.gwn,10.9.223.44
+Video Server,KPNC-E,10.241.38.11,vls2.KRED.gwn,10.241.38.21
+Video Server,BWO,10.7.212.28,vls2.BWO.gwn,10.7.212.48
+Video Server,JDC,10.7.52.29,vls1.JDC.gwn,10.7.52.49
+Video Server,SOIN,10.7.128.29,vls1.SOIN.gwn,10.7.128.49
+Video Server,GPR,10.9.148.29,vls1.GPR.gwn,10.9.148.49
+Video Server,DCH,10.5.242.29,vls1.DCH.gwn,10.5.242.49
+Application Server,CDE,10.5.208.10,appserver.CDE.gwn,10.5.208.40
+Application Server,LLH,10.5.248.10,appserver.LLH.gwn,10.5.248.40
+Application Server,CLVT,10.9.144.10,appserver.CLVT.gwn,10.9.144.40
+Video Server,AHA,10.5.220.29,vls1.AHA.gwn,10.5.220.49
+RAS,GLM,10.7.176.15,ras2.GLM.gwn,10.7.176.45
+RAS,RSE,10.5.28.14,ras1.RSE.gwn,10.5.28.44
+Video Server,SMM,10.5.238.29,vls1.SMM.gwn,10.5.238.49
+RAS,SAMV,10.8.152.14,ras1.SAMV.gwn,10.8.152.44
+Application Server,FOM,10.6.20.10,appserver.FOM.gwn,10.6.20.40
+Test Application Server,SLE,10.5.84.20,apptest.SLE.gwn,10.5.84.41

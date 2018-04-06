@@ -1,0 +1,64 @@
+---
+- gather_facts: False
+  name: disable all DRAC services except sshd
+  hosts: all
+  tasks:
+    - name: disable host -> BMC config update
+      raw: racadm config -g cfgRacTuning -o cfgRacTuneLocalConfigDisable 1
+      register: &r result
+      failed_when: &f "'ERROR' in result.stdout or 'COMMAND PROCESSING FAILED' in result.stdout or 'error' in result.stdout or result.rc != 0"
+
+    - name: disable dell proprietary admin protocol (this won't disable sshd or the internal racadm tool on the ssh shell)
+      raw: racadm config -g cfgRacTuning -o cfgRacTuneRemoteRacadmEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: disable http/https server
+      raw: racadm config -g cfgRacTuning -o cfgRacTuneWebServerEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: disable IPMI Serial Over LAN
+      raw: racadm config -g cfgIpmiSol -o cfgIpmiSolEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: disable Platform Event Filters
+      raw: racadm config -g cfgIpmiPef -o cfgIpmiPefEnable 0 -i 1
+      register: *r
+      failed_when: *f
+
+    - name: disable IPMI trap
+      raw: racadm config -g cfgIpmiPet -o cfgIpmiPetAlertEnable 0 -i 1
+      register: *r
+      failed_when: *f
+
+    - name: disable snmpd
+      raw: racadm config -g cfgOobSnmp -o cfgOobSnmpAgentEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: disable telnetd
+      raw: racadm config -g cfgSerial  -o cfgSerialTelnetEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: enable sshd **
+      raw: racadm config -g cfgSerial -o cfgSerialSshEnable 1
+      register: *r
+      failed_when: *f
+
+    - name: disable IPMI LAN alerting
+      raw: racadm config -g cfgIpmiLan -o cfgIpmiLanAlertEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: disable IPMI over LAN
+      raw: racadm config -g cfgIpmiLan -o cfgIpmiLanEnable 0
+      register: *r
+      failed_when: *f
+
+    - name: apply settings **
+      raw: racadm racreset
+      register: *r
+      failed_when: *f

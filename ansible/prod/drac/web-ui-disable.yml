@@ -1,0 +1,10 @@
+---
+- gather_facts: False
+  name: enable web ui
+  hosts: all
+  tasks:
+    - name: enable web server
+      raw: racadm config -g cfgRacTuning -o cfgRacTuneWebServerEnable 0
+      register: result
+      failed_when: "'ERROR' in result.stdout or 'COMMAND PROCESSING FAILED' in result.stdout or 'error' in result.stdout or result.rc != 0"
+    - debug: var=result
